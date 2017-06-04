@@ -1,0 +1,12 @@
+title: Kally Chung
+description: Página pessoal da Professora Kally Chung
+author: Kally Chung
+about: Professora
+
+baseurl: ""
+url: ""
+
+allowsearch: false
+
+markdown: kramdown
+gems: []

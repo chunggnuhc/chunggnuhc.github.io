@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Notícias",
+    "url": "/",
+    "icon": "fa-newspaper-o"
+  },
+  {
+    "text": "Agronomia",
+    "url": "/agronomia/",
+    "icon": "fa-graduation-cap"
+  },
+  {
+    "text": "Eng. Florestal",
+    "url": "/engflor/",
+    "icon": "fa-graduation-cap"
+  },
+  {
+    "text": "CM202",
+    "url": "/cm202/",
+    "icon": "fa-graduation-cap"
+  }
+]

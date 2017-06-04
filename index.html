@@ -1,0 +1,14 @@
+---
+layout: page
+title: Últimas notícias
+---
+
+{% assign noticias = site.data.noticias | sort: 'data' | reverse %}
+<ul>
+  {% for noticia in noticias %}
+  <li>
+    {{ noticia.data | date: "%d/%m/%Y" }}
+    - {{ noticia.noticia }}
+  </li>
+  {% endfor %}
+</ul>
