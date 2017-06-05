@@ -10,4 +10,4 @@ permalink: /agronomia/
 - Substitutiva: 30/06/2016
 - Final: 06/07/2017
 
-[Lista de Exercícios - F.Exponencial e Logarítmica](/disciplinas/placeholder/listaExp-Log.pdf)
+[Lista de Exercícios - F.Exponencial e Logarítmica](/disciplinas/listaExp-Log.pdf)
