@@ -10,4 +10,4 @@ permalink: /engflor/
 - Substitutiva: 30/06/2017
 - Final: 06/07
 
-[Notas](engflor-notas.pdf)
+[Lista de Exercícios - F.Exponencial e F.Logarítmica](/disciplinas/listaExp-Log.pdf)
