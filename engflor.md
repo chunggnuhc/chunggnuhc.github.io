@@ -10,4 +10,4 @@ permalink: /engflor/
 - Substitutiva: 30/06/2017
 - Final: 06/07
 
-[Lista de Exercícios - F.Exponencial e F.Logarítmica](/disciplinas/listaExp-Log.pdf)
+[Lista de Exercícios - F.Exponencial e F.Logarítmica](chunggnuhc.github.io/disciplinas/listaExp-Log.pdf)
