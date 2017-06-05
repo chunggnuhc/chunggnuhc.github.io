@@ -11,3 +11,4 @@ permalink: /engflor/
 - Final: 06/07
 
 [Lista de Exercícios - F.Exponencial e F.Logarítmica](chunggnuhc.github.io/disciplinas/listaExp-Log.pdf)
+
