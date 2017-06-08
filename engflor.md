@@ -12,3 +12,4 @@ permalink: /engflor/
 
 [Lista de Exercícios - F.Exponencial e F.Logarítmica](/disciplinas/listaExp-Log.pdf)
 
+[Lista de Exercícios - Trigonometria](/disciplinas/listaTrig.pdf)
