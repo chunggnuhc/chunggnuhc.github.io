@@ -15,3 +15,5 @@ permalink: /agronomia/
 [Lista de Exercícios - F.Exponencial e F.Logarítmica](/disciplinas/listaExp-Log.pdf) - Data de Entrega: 16/06/2017
 
 [Lista de Exercícios - Trigonometria](/disciplinas/listaTrig.pdf) - Data de Entrega: 23/06/2017
+
+[Lista de Exercícios - Funções Parte 2](/disciplinas/listaOperFuncoes.pdf) - Data de Entrega: 23/06/2017
