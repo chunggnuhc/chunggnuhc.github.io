@@ -13,3 +13,5 @@ permalink: /agronomia/
 [Lista de Exercícios - Funções Parte 1](/disciplinas/listaFunc-1.pdf) - Data de Entrega: 11/05/2017
 
 [Lista de Exercícios - F.Exponencial e F.Logarítmica](/disciplinas/listaExp-Log.pdf) - Data de Entrega: 16/06/2017
+
+[Lista de Exercícios - Trigonometria](/disciplinas/listaTrig.pdf) - Data de Entrega: 23/06/2017
