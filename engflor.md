@@ -15,3 +15,5 @@ permalink: /engflor/
 [Lista de Exercícios - Trigonometria](/disciplinas/listaTrig.pdf)
 
 [Lista de Exercícios - Oerações com Funções](/disciplinas/listaOperFuncoes.pdf)
+
+[Lista de Exercícios - Novas Funções a partir das Antigas](/disciplinas/ListaNovasFuncApartirDasAnt.pdf)
