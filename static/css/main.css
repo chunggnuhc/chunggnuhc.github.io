@@ -229,3 +229,11 @@ footer {
   height: 120px;
   margin-right: 5px;
 }
+
+.news {
+  line-height: 1.5em;
+}
+
+.news-right {
+  border-bottom: 1px solid #f0f0f0;
+}

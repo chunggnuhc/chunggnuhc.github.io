@@ -4,11 +4,19 @@ title: Últimas notícias
 ---
 
 {% assign noticias = site.data.noticias | sort: 'data' | reverse %}
-<ul>
+<div class="row news">
   {% for noticia in noticias %}
-  <li>
+  {% if noticia.data != lastdate %}
+  <div class="col-xs-2 text-right">
     {{ noticia.data | date: "%d/%m/%Y" }}
-    - {{ noticia.noticia }}
-  </li>
+  </div>
+  {% else %}
+  <div class="col-xs-2 text-right">
+  </div>
+  {% endif %}
+  <div class="col-xs-10 news-right">
+    {{ noticia.noticia }}
+  </div>
+  {% assign lastdate = noticia.data %}
   {% endfor %}
-</ul>
+</div>
