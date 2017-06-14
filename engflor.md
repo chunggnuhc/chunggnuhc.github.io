@@ -19,3 +19,5 @@ permalink: /engflor/
 [Lista de Exercícios - Oerações com Funções](/disciplinas/listaOperFuncoes.pdf)
 
 [Lista de Exercícios - Novas Funções a partir das Antigas](/disciplinas/ListaNovasFuncApartirDasAnt.pdf)
+
+[Lista de Exercícios - Limites Noção Intuitiva](/disciplinas/listaLimite.pdf)
