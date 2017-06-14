@@ -10,6 +10,8 @@ permalink: /engflor/
 - Substitutiva: 30/06/2017
 - Final: 06/07
 
+- Horário de atendimento: Quarta-feira (13h até 14h) e Quinta-feira (13h30min até 14h30min)
+
 [Lista de Exercícios - F.Exponencial e F.Logarítmica](/disciplinas/listaExp-Log.pdf)
 
 [Lista de Exercícios - Trigonometria](/disciplinas/listaTrig.pdf)
