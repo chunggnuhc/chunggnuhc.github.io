@@ -21,3 +21,7 @@ permalink: /agronomia/
 [Lista de Exercícios - Funções Parte 2](/disciplinas/listaOperFuncoes.pdf) - Data de Entrega: 23/06/2017
 
 [Notas (P2 - sem lista)](/disciplinas/Notas P2 -Upd 1.pdf)
+
+[Prova P1](/disciplinas/prova1-A.pdf)
+
+[Prova P2](/disciplinas/provaAgronP2-A.pdf)
