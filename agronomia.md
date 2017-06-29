@@ -19,3 +19,5 @@ permalink: /agronomia/
 [Lista de Exercícios - Trigonometria](/disciplinas/listaTrig.pdf) - Data de Entrega: 23/06/2017
 
 [Lista de Exercícios - Funções Parte 2](/disciplinas/listaOperFuncoes.pdf) - Data de Entrega: 23/06/2017
+
+[Notas (P2 - sem lista)](/disciplinas/Notas P2 -Upd 1.pdf)
