@@ -22,6 +22,4 @@ permalink: /agronomia/
 
 [Notas (P2 - com lista)](/disciplinas/Nota P2 cLista - Upd 2.pdf)
 
-[Prova P1](/disciplinas/prova1-A.pdf)
-
-[Prova P2](/disciplinas/provaAgronP2-A.pdf)
+[Prova PSub](/disciplinas/Notas PSub -Upd 05072017.pdf)
