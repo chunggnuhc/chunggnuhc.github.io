@@ -20,6 +20,4 @@ permalink: /agronomia/
 
 [Lista de Exercícios - Funções Parte 2](/disciplinas/listaOperFuncoes.pdf) - Data de Entrega: 23/06/2017
 
-[Notas (P2 - com lista)](/disciplinas/Nota P2 cLista - Upd 2.pdf)
-
 [Prova PSub](/disciplinas/Notas PSub -Upd 05072017.pdf)
