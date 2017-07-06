@@ -8,7 +8,7 @@ permalink: /agronomia/
 - Segunda Chamada: 21/06/2017
 - Prova 2: 23/06/2017
 - Substitutiva: 30/06/2016
-- Final: 06/07/2017
+- Final: 07/07/2017
 
 - Horário de atendimento: Quarta-feira (13h até 14h) e Quinta-feira (13h30min até 14h30min)
 
