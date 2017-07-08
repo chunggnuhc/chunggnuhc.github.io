@@ -22,8 +22,8 @@ permalink: /engflor/
 
 [Lista de Exercícios - Limites Noção Intuitiva](/disciplinas/listaLimite.pdf)
 
-[Notas Atual.03072017](/disciplinas/Notas-PSub-EngFlorestal-Site.pdf)
-
 [Prova P2](/disciplinas/prova3.pdf)
 
 [Prova PSub com Gabarito](/disciplinas/psub - gabarito.pdf)
+
+[Notas Atual.08072017](/disciplinas/Nota PFinal - EngFlorestal.pdf)
