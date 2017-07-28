@@ -6,6 +6,7 @@ permalink: /engMec2sem2017-GA/
 
 <h3>Local e Horário das Aulas</h3>
 - Terças-feiras, de 7h30min às 9h30min, sala CT-07
+
   Quintas-feiras, de 7h30min às 9h30min, sala CT-07
 
 <h3>Bibliografia</h3>
