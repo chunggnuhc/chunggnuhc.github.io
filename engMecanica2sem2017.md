@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Matemática 1 - Agronomia
+title: CMA112 Geometria Analítica - Eng.Mecânica (Turma A)
 permalink: /engMec2sem2017-GA/
 ---
 
