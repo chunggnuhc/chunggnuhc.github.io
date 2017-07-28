@@ -4,6 +4,10 @@ title: CM301 - Matemática 1 - Eng.Florestal (Turma A)
 permalink: /engFlor2sem2017-Mat2/
 ---
 
+<h3>Local e Horário das Aulas</h3>
+- Quartas-feiras, de 9h30min às 11h30min, sala PA-01
+  Sextas-feiras, de 7h30min às 9h30min, sala PA-07
+  
 <h3>Bibliografia</h3>
 
 - Cálculo A: Funções, Limite, Derivação e Integração 
