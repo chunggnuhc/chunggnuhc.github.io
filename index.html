@@ -7,14 +7,14 @@ title: Últimas notícias
 <div class="row news">
   {% for noticia in noticias %}
   {% if noticia.data != lastdate %}
-  <div class="col-xs-2 text-right">
-    {{ noticia.data | date: "%d/%m/%Y" }}
+  <div class="col-xs-1 text-right">
+    {{ noticia.data | date: "%d/%m" }}
   </div>
   {% else %}
-  <div class="col-xs-2 text-right">
+  <div class="col-xs-1 text-right">
   </div>
   {% endif %}
-  <div class="col-xs-10 news-right">
+  <div class="col-xs-11 news-right">
     {{ noticia.noticia }}
   </div>
   {% assign lastdate = noticia.data %}
