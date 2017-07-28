@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Matemática 1 - Engenharia Florestal
-permalink: /engFlor2sem2017/
+permalink: /engFlor2sem2017-Mat2/
 ---
 
 - Prova 1:
