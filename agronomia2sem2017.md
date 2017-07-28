@@ -5,6 +5,7 @@ permalink: /agron2sem2017-Mat2/
 ---
 
 <h3>Bibliografia<\h3>
+
 - Cálculo A: Funções, Limite, Derivação e Integração 
 	
   Autores: Diva Marília Flemming, Mirian Buss Gonçalves
