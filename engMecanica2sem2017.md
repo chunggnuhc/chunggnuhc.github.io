@@ -4,22 +4,28 @@ title: Matemática 1 - Agronomia
 permalink: /engMec2sem2017-GA/
 ---
 
-- Prova 1: 11/05/2017
-- Segunda Chamada: 21/06/2017
-- Prova 2: 23/06/2017
-- Substitutiva: 30/06/2016
-- Final: 07/07/2017
+<h3>Bibliografia</h3>
 
-- Horário de atendimento: Quarta-feira (13h até 14h) e Quinta-feira (13h30min até 14h30min)
+- Cálculo A: Funções, Limite, Derivação e Integração 
+	
+  Autores: Diva Marília Flemming, Mirian Buss Gonçalves
 
-[Lista de Exercícios - Funções Parte 1](/disciplinas/listaFunc-1.pdf) - Data de Entrega: 11/05/2017
+<h3>Avaliação</h3>
 
-[Lista de Exercícios - F.Exponencial e F.Logarítmica](/disciplinas/listaExp-Log.pdf) - Data de Entrega: 16/06/2017
+- Prova 1: 
+  
+  Prova 2: 
+  
+  Prova 3:
+  
+  Substitutiva:
+  
+  Final:
 
-[Lista de Exercícios - Trigonometria](/disciplinas/listaTrig.pdf) - Data de Entrega: 23/06/2017
+<h3>Horário de Atendimento</h3>
 
-[Lista de Exercícios - Funções Parte 2](/disciplinas/listaOperFuncoes.pdf) - Data de Entrega: 23/06/2017
+<h3>Listas de Exercícios</h3>
 
-[Nota Finalizadas 09072017](/disciplinas/Site-NotasFinalizadas-Agron.pdf)
+<h3>Notas</h3>
 
-[Prova PSub com Gabarito](/disciplinas/mainPSub+Gabarito.pdf)
+<h3>Aulas Dadas</h3>
