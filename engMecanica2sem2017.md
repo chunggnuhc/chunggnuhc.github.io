@@ -4,8 +4,9 @@ title: CMA112 - Geometria Analítica - Eng.Mecânica (Turma A)
 permalink: /engMec2sem2017-GA/
 ---
 
-<h5>As aulas serão às terças-feiras (CT-07) de 19h00 às 21h00 e quintas-feiras (CT-07) de 7h30min às 9h30m.</h5>
-
+<h3>Local e Horário das Aulas</h3>
+- Terças-feiras, de 7h30min às 9h30min, sala CT-07
+  Quintas-feiras, de 7h30min às 9h30min, sala CT-07
 
 <h3>Bibliografia</h3>
 
