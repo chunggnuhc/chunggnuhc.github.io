@@ -8,7 +8,7 @@ title: Últimas notícias
   {% for noticia in noticias %}
   {% if noticia.data != lastdate %}
   <div class="col-xs-3 col-sm-1 text-right">
-    {{ noticia.data | date: "%d/%m" }}
+    {{ noticia.data | date: "%d/%m/%y" }}
   </div>
   {% else %}
   <div class="col-xs-3 col-sm-1 text-right">
