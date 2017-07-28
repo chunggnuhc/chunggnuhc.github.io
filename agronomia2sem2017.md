@@ -24,8 +24,8 @@ permalink: /agron2sem2017-Mat2/
 
 <h3>Horário de Atendimento</h3>
 
-<h3>Aulas Dadas</h3>
-
 <h3>Listas de Exercícios</h3>
 
 <h3>Notas</h3>
+
+<h3>Aulas Dadas</h3>
