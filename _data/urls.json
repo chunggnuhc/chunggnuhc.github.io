@@ -6,17 +6,17 @@
   },
   {
     "text": "Agronomia",
-    "url": "/agronomia/",
+    "url": "/agron2sem2017-Mat2/",
     "icon": "fa-graduation-cap"
   },
   {
     "text": "Eng. Florestal",
-    "url": "/engFlor2sem2017/",
+    "url": "/engFlor2sem2017-Mat2/",
     "icon": "fa-graduation-cap"
   },
   {
     "text": "Eng. Mecânica",
-    "url": "/engMec/",
+    "url": "/engMec2sem2017-GA/",
     "icon": "fa-graduation-cap"
   }
 ]
