@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Matemática 1 - Agronomia
-permalink: /agronomia/
+permalink: /agro2sem2017-Mat2/
 ---
 
 - Prova 1: 11/05/2017
