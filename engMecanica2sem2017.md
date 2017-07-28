@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CMA112 Geometria Analítica - Eng.Mecânica (Turma A)
+title: CMA112 - Geometria Analítica - Eng.Mecânica (Turma A)
 permalink: /engMec2sem2017-GA/
 ---
 
