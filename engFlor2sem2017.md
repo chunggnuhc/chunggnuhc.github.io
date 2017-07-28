@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Matemática 1 - Engenharia Florestal
+title: CM301 - Matemática 1 - Eng.Florestal (Turma A)
 permalink: /engFlor2sem2017-Mat2/
 ---
 
