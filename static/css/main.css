@@ -1,6 +1,6 @@
 .main.outer{padding-top: 50px;}
 .header-panel.shadow-z-2 {
-    background-color: #9C27B0;
+    background-color: #0E8BA2;
     padding: 50px 0 15px 0;
     width: 100%;
 }
@@ -55,7 +55,7 @@ p.info a {
     text-align: center;
     line-height: 20px;
     font-size: 20px;
-    color: #9C27B0;
+    color: #0E8BA2;
     padding: 5px;
     width: 30px;
     height: 30px;
@@ -72,7 +72,7 @@ p.info a {
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
     color: black;
-    background: #FF9E80;
+    background: #FFE300;
 }
 
 li.current-menu-item:before {
