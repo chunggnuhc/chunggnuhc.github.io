@@ -17,15 +17,15 @@ permalink: /agron2sem2017-Mat2/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 
+- Prova 1: 05/09/2017
   
-  Prova 2: 
+  Prova 2: 17/10/2017
   
-  Prova 3:
+  Prova 3: 23/11/2017
   
-  Substitutiva:
+  Substitutiva: 30/11/2017
   
-  Final:
+  Final: 12/12/2017
 
 <h3>Horário de Atendimento</h3>
 
