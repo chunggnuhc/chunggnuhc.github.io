@@ -26,6 +26,8 @@ permalink: /agron2sem2017-Mat2/
   Substitutiva: 30/11/2017
   
   Final: 12/12/2017
+  
+Média = (P1+P2+P3)/3
 
 <h3>Horário de Atendimento</h3>
 
@@ -34,3 +36,5 @@ permalink: /agron2sem2017-Mat2/
 <h3>Notas</h3>
 
 <h3>Aulas Dadas</h3>
+
+- 01/08/2017: Revisão de Função e Introdução a Limite (cap. 3.1)
