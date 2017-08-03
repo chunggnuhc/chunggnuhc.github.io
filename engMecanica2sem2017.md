@@ -19,9 +19,9 @@ permalink: /engMec2sem2017-GA/
   
 - Geometria Analítica
 
-Autores: Steinbruch; Winterle
+  Autores: Steinbruch; Winterle
 
-Editora Pearson
+  Editora Pearson
 
 <h3>Avaliação</h3>
 
