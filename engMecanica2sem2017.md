@@ -16,6 +16,12 @@ permalink: /engMec2sem2017-GA/
   Autores: Reis; Silva
   
   Editora LTC
+  
+- Geometria Analítica
+
+Autores: Steinbruch; Winterle
+
+Editora Pearson
 
 <h3>Avaliação</h3>
 
@@ -28,6 +34,8 @@ permalink: /engMec2sem2017-GA/
   Substitutiva: 30/11/2017
   
   Final: 12/12/2017
+  
+  Média = (P1+P2+P3)/3
 
 <h3>Horário de Atendimento</h3>
 
@@ -36,3 +44,5 @@ permalink: /engMec2sem2017-GA/
 <h3>Notas</h3>
 
 <h3>Aulas Dadas</h3>
+
+- 01/08/2017: Introdução ao plano cartesiano bidimensional e aos vetores (início do cap. 2 - Reis,Silva)
