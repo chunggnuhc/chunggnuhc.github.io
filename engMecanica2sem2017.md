@@ -41,6 +41,10 @@ permalink: /engMec2sem2017-GA/
 
 <h3>Listas de Exercícios</h3>
 
+- Lista 0: Circunferência
+
+  (/disciplinas2sem2017/Lista0-circunferencia.pdf)
+
 - Lista 1: Pág 28 e 29 do Reis, Silva
 
   2.4 até 2.7, 2.10 até 2.12, 2.14 até 2.22, 2.25
