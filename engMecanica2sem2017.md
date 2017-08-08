@@ -41,8 +41,16 @@ permalink: /engMec2sem2017-GA/
 
 <h3>Listas de Exercícios</h3>
 
+- Lista 1: Pág 28 e 29 do Reis, Silva
+
+  2.4 até 2.7, 2.10 até 2.12, 2.14 até 2.22, 2.25
+
 <h3>Notas</h3>
 
 <h3>Aulas Dadas</h3>
 
 - 01/08/2017: Introdução ao plano cartesiano bidimensional e aos vetores (início do cap. 2 - Reis,Silva)
+
+  03/08/2017: Relação entre o plano cartesiano bidimensional e os vetores e operações com vetores (cap. 2.3 e 2.4 - Reis,Silva)
+  
+  08/08/2017: Aplicações dos Vetores (cap. 2.5 - Reis,Silva)
