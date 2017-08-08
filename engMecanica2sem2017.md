@@ -41,7 +41,7 @@ permalink: /engMec2sem2017-GA/
 
 <h3>Listas de Exercícios</h3>
 
-- Lista 0: Circunferência
+- [Lista 0: Circunferência]
 
   (/disciplinas2sem2017/Lista0-circunferencia.pdf)
 
