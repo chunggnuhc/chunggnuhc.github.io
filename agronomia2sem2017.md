@@ -39,11 +39,11 @@ Média = (P1+P2+P3)/3
 
   Cap. 3.6 - Exercícios 1 até 10, 18 até 36
   
-  Cap. 3.8 - Exercícios 1, 2, 8, 9, 10
+  Cap. 3.8 - Exercícios 1, 2, 8, 9, 10
   
-  Cap. 3.10 - Exercícios 1, 4 até 27
+  Cap. 3.10 - Exercícios 1, 4 até 27
   
-  Cap. 3.18 - Exercícios 1(c), 1(g), 1(i), i(j), 2(a), 2(b), 2(d), 2(e), 2(f), 2(g), 4, 5, 7(a), 7(b), 8
+  Cap. 3.18 - Exercícios 1(c), 1(g), 1(i), i(j), 2(a), 2(b), 2(d), 2(e), 2(f), 2(g), 4, 5, 7(a), 7(b), 8
 
 <h3>Notas</h3>
 
@@ -51,6 +51,6 @@ Média = (P1+P2+P3)/3
 
 - 01/08/2017: Revisão de Função e Introdução a Limite (cap. 3.1)
 
-  03/08/2017: Função por partes e continuação de Limite (cap. 3.7)
+  03/08/2017: Função por partes e continuação de Limite (cap. 3.7)
   
   08/08/2017: Leis de Limite (cap. 3.5)
