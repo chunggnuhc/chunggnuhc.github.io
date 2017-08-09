@@ -31,7 +31,7 @@ Média = (P1+P2+P3)/3
 
 <h3>Horário de Atendimento</h3>
 
-- Mandar email
+- Mandar email agendando horário
 
 <h3>Listas de Exercícios</h3>
 
@@ -44,8 +44,6 @@ Média = (P1+P2+P3)/3
   Cap. 3.10 - Exercícios 1, 4 até 27
   
   Cap. 3.18 - Exercícios 1(c), 1(g), 1(i), i(j), 2(a), 2(b), 2(d), 2(e), 2(f), 2(g), 4, 5, 7(a), 7(b), 8
-
-
 
 <h3>Notas</h3>
 
