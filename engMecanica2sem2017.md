@@ -39,6 +39,10 @@ permalink: /engMec2sem2017-GA/
 
 <h3>Horário de Atendimento</h3>
 
+- Terça-Feira, das 13h até 14h, na sala de estudos no andar térreo da PA
+
+obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento do dia é cancelado. 
+
 <h3>Listas de Exercícios</h3>
 
 - [Lista 0: Circunferência](/disciplinas2sem2017/Lista0-circunferencia.pdf)
@@ -46,6 +50,10 @@ permalink: /engMec2sem2017-GA/
 - Lista 1: Pág 28 e 29 do Reis, Silva
 
   2.4 até 2.7, 2.10 até 2.12, 2.14 até 2.22, 2.25
+  
+- Lista 2: Pág 95 e 96 do Reis, Silva
+
+  4.7 até 4.16
 
 <h3>Notas</h3>
 
@@ -56,3 +64,5 @@ permalink: /engMec2sem2017-GA/
   03/08/2017: Relação entre o plano cartesiano bidimensional e os vetores e operações com vetores (cap. 2.3 e 2.4 - Reis,Silva)
   
   08/08/2017: Aplicações dos Vetores (cap. 2.5 - Reis,Silva)
+  
+  10/08/2017: Introdução ao espaço tridimensional e Produto Escalar (cap. 2.6 e cap. 4.1 até 4.4 - Reis,Silva)
