@@ -44,6 +44,12 @@ Média = (P1+P2+P3)/3
   Cap. 3.10 - Exercícios 1, 4 até 27
   
   Cap. 3.18 - Exercícios 1(c), 1(g), 1(i), 1(j), 2(a), 2(b), 2(d), 2(e), 2(f), 2(g), 4, 5, 7(a), 7(b), 8
+  
+- Lista 2:
+
+  Cap. 3.13 - Exercícios 2 até 13, 15 até 38
+
+  Cap. 3.16 - Exercício 1  
 
 <h3>Notas</h3>
 
@@ -54,3 +60,11 @@ Média = (P1+P2+P3)/3
   03/08/2017: Função por partes e continuação de Limite (cap. 3.7)
   
   08/08/2017: Leis de Limite (cap. 3.5)
+
+  10/08/2017: Leis de Limite (cap. 3.5)
+  
+  15/08/2017: Cálculo de limite (cap. 3.9)
+  
+  17/08/2017: Cálculo de limite (cap. 3.9)
+  
+  22/08/2017: Limite no infinito (cap. 3.11 e 3.12)
