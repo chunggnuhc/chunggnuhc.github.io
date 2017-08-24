@@ -3,6 +3,10 @@ layout: page
 title: CMA112 - Geometria Analítica - Eng.Mecânica (Turma A)
 permalink: /engMec2sem2017-GA/
 ---
+<h3>**Importante!**</h3>
+- A data da prova P1 foi alterada para 07/09/2017.
+
+- Devido à Semana Acadêmica, não haverá aula nos dias 29/08/2017 e 31/05/2017.
 
 <h3>Local e Horário das Aulas</h3>
 - Terças-feiras, de 7h30min às 9h30min, sala CT-07
@@ -25,7 +29,7 @@ permalink: /engMec2sem2017-GA/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 05/09/2017
+- Prova 1: 07/09/2017 <strike>05/09/2017</strike>
   
   Prova 2: 17/10/2017
   
@@ -55,6 +59,10 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento do dia
 
   4.7 até 4.16
 
+- Lista 3: Pág 106 e 107 do Reis, Silva
+
+  4.17 até 4.35
+  
 <h3>Notas</h3>
 
 <h3>Aulas Dadas</h3>
@@ -66,3 +74,9 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento do dia
   08/08/2017: Aplicações dos Vetores (cap. 2.5 - Reis,Silva)
   
   10/08/2017: Introdução ao espaço tridimensional e Produto Escalar (cap. 2.6 e cap. 4.1 até 4.4 - Reis,Silva)
+  
+  15/08/2017: Aplicação de Produto Escalar: (1) ângulo entre vetores e (2) ângulos diretores (cap. 2.6 - Reis,Silva e cap. 3.5 - Steinbruch,Winterle)
+
+  17/08/2017: Aplicação de Produto Escalar: (3) projeção escalar (cap. 2.7 - Reis,Silva)
+  
+  22/08/2017: Produto Vetorial: definição e propriedades (cap. 4.5 - Reis,Silva)
