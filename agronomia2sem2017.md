@@ -63,8 +63,8 @@ Média = (P1+P2+P3)/3
 
   10/08/2017: Leis de Limite (cap. 3.5)
   
-  15/08/2017: Cálculo de limite (cap. 3.9)
+  15/08/2017: Cálculo de limite (cap. 3.9)
   
-  17/08/2017: Cálculo de limite (cap. 3.9)
+  17/08/2017: Cálculo de limite (cap. 3.9)
   
   22/08/2017: Limite no infinito (cap. 3.11 e 3.12)
