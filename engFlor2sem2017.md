@@ -58,10 +58,10 @@ permalink: /engFlor2sem2017-Mat2/
 
 - 09/08/2017: Revisão de Função, introdução ao Limite (cap. 3.1, 3.5 e 3.7)
 
-  11/08/2017: Revisão de Fatoração e cálculo de limites (cap. 3.9)
+  11/08/2017: Revisão de Fatoração e cálculo de limites (cap. 3.9)
   
-  16/08/2017: Cálculo de Limite (cap. 3.9)
+  16/08/2017: Cálculo de Limite (cap. 3.9)
   
-  18/08/2017: Aula de exercícios
+  18/08/2017: Aula de exercícios
   
   23/08/2017: Limite no infinito e Limite infinito (cap. 3.11, 3.12)
