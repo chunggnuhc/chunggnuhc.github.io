@@ -75,8 +75,8 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento do dia
   
   10/08/2017: Introdução ao espaço tridimensional e Produto Escalar (cap. 2.6 e cap. 4.1 até 4.4 - Reis,Silva)
   
-  15/08/2017: Aplicação de Produto Escalar: (1) ângulo entre vetores e (2) ângulos diretores (cap. 2.6 - Reis,Silva e cap. 3.5 - Steinbruch,Winterle)
+  15/08/2017: Aplicação de Produto Escalar: (1) ângulo entre vetores e (2) ângulos diretores (cap. 2.6 - Reis,Silva e cap. 3.5 - Steinbruch,Winterle)
 
-  17/08/2017: Aplicação de Produto Escalar: (3) projeção escalar (cap. 2.7 - Reis,Silva)
+  17/08/2017: Aplicação de Produto Escalar: (3) projeção escalar (cap. 2.7 - Reis,Silva)
   
-  22/08/2017: Produto Vetorial: definição e propriedades (cap. 4.5 - Reis,Silva)
+  22/08/2017: Produto Vetorial: definição e propriedades (cap. 4.5 - Reis,Silva)
