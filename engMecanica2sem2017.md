@@ -4,9 +4,9 @@ title: CMA112 - Geometria Analítica - Eng.Mecânica (Turma A)
 permalink: /engMec2sem2017-GA/
 ---
 <h3>**Importante!**</h3>
-- A data da prova P1 foi alterada para 07/09/2017.
+- Postado em 24/08/2017: A data da prova P1 foi alterada para 07/09/2017.
 
-- Devido à Semana Acadêmica, não haverá aula nos dias 29/08/2017 e 31/05/2017.
+- Postado em 24/08/2017: Devido à Semana Acadêmica, não haverá aula nos dias 29/08/2017 e 31/05/2017.
 
 <h3>Local e Horário das Aulas</h3>
 - Terças-feiras, de 7h30min às 9h30min, sala CT-07
