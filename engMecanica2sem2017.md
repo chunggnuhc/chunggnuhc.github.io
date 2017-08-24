@@ -3,6 +3,7 @@ layout: page
 title: CMA112 - Geometria Analítica - Eng.Mecânica (Turma A)
 permalink: /engMec2sem2017-GA/
 ---
+
 <h3>**Importante!**</h3>
 - Postado em 24/08/2017: A data da prova P1 foi alterada para 07/09/2017.
 
