@@ -7,7 +7,7 @@ permalink: /engMec2sem2017-GA/
 <h1><b><i>Importante!</i></b></h1>
 - Postado em 24/08/2017: A data da prova P1 foi alterada para 12/09/2017.
 
-- Postado em 24/08/2017: Devido à Semana Acadêmica, não haverá aula nos dias 29/08/2017 e 31/05/2017.
+- Postado em 24/08/2017: Devido à Semana Acadêmica, não haverá aula nos dias 29/08/2017 e 31/08/2017.
 
 <h3>Local e Horário das Aulas</h3>
 - Terças-feiras, de 7h30min às 9h30min, sala CT-07
