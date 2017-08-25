@@ -31,7 +31,9 @@ Média = (P1+P2+P3)/3
 
 <h3>Horário de Atendimento</h3>
 
-- Mandar email agendando horário
+- Terça-Feira, das 13h até 14h, na sala de estudos no andar térreo da PA 
+
+obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia é cancelado porque eu vou embora.
 
 <h3>Listas de Exercícios</h3>
 
@@ -55,16 +57,18 @@ Média = (P1+P2+P3)/3
 
 <h3>Aulas Dadas</h3>
 
-- 01/08/2017: Revisão de Função e Introdução a Limite (cap. 3.1)
+- _01/08/2017:_ Revisão de Função e Introdução a Limite (cap. 3.1)
 
-  03/08/2017: Função por partes e continuação de Limite (cap. 3.7)
+  _03/08/2017:_ Função por partes e continuação de Limite (cap. 3.7)
   
-  08/08/2017: Leis de Limite (cap. 3.5)
+  _08/08/2017:_ Leis de Limite (cap. 3.5)
 
-  10/08/2017: Leis de Limite (cap. 3.5)
+  _10/08/2017:_ Leis de Limite (cap. 3.5)
   
-  15/08/2017: Cálculo de limite (cap. 3.9)
+  _15/08/2017:_ Cálculo de limite (cap. 3.9)
   
-  17/08/2017: Cálculo de limite (cap. 3.9)
+  _17/08/2017:_ Cálculo de limite (cap. 3.9)
   
-  22/08/2017: Limite no infinito (cap. 3.11 e 3.12)
+  _22/08/2017:_ Limite no infinito (cap. 3.11 e 3.12)
+  
+  _24/08/2017:_ Limite no infinito e assíntotas (cap. 3.11, 3.12 e 3.14)
