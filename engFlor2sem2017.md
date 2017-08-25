@@ -5,7 +5,7 @@ permalink: /engFlor2sem2017-Mat2/
 ---
 
 <h1>___Importante!___</h1>
-- Postado em 25/08/2017: Alteração na data da prova de <strike>06/09/2017<\strike> para 13/09/2017.
+- Postado em 25/08/2017: Alteração na data da prova de <strike>06/09/2017</strike> para 13/09/2017.
 - Postado em 24/08/2017: Mudança de sala da aula de sexta: PA-04.
 
 <h3>Local e Horário das Aulas</h3>
