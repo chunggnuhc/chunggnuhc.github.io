@@ -4,7 +4,8 @@ title: CM301 - Matemática 1 - Eng.Florestal (Turma A)
 permalink: /engFlor2sem2017-Mat2/
 ---
 
-<h3>**Importante!**</h3>
+<h1>___Importante!___</h1>
+- Postado em 25/08/2017: Alteração na data da prova de <strike>06/09/2017<\strike> para 13/09/2017.
 - Postado em 24/08/2017: Mudança de sala da aula de sexta: PA-04.
 
 <h3>Local e Horário das Aulas</h3>
@@ -20,7 +21,7 @@ permalink: /engFlor2sem2017-Mat2/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 06/09/2017
+- Prova 1: 13/09/2017 <strike>06/09/2017</strike>
   
   Prova 2: 11/10/2017
   
@@ -32,7 +33,9 @@ permalink: /engFlor2sem2017-Mat2/
 
 <h3>Horário de Atendimento</h3>
 
-- Mandar email agendando horário
+- Terça-Feira, das 13h até 14h, na sala de estudos no andar térreo da PA
+
+obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia é cancelado porque eu vou embora.
 
 <h3>Listas de Exercícios</h3>
 
@@ -56,12 +59,14 @@ permalink: /engFlor2sem2017-Mat2/
 
 <h3>Aulas Dadas</h3>
 
-- 09/08/2017: Revisão de Função, introdução ao Limite (cap. 3.1, 3.5 e 3.7)
+- _09/08/2017:_ Revisão de Função, introdução ao Limite (cap. 3.1, 3.5 e 3.7)
 
-  11/08/2017: Revisão de Fatoração e cálculo de limites (cap. 3.9)
+  _11/08/2017:_ Revisão de Fatoração e cálculo de limites (cap. 3.9)
   
-  16/08/2017: Cálculo de Limite (cap. 3.9)
+  _16/08/2017:_ Cálculo de Limite (cap. 3.9)
   
-  18/08/2017: Aula de exercícios
+  _18/08/2017:_ Aula de exercícios
   
-  23/08/2017: Limite no infinito e Limite infinito (cap. 3.11, 3.12)
+  _23/08/2017:_ Limite no infinito e Limite infinito (cap. 3.11 ee 3.12)
+  
+  _25/08/2017:_ Limite no infinito e assíntotas (cap. 3.11, 3.12, 3.14)
