@@ -4,7 +4,7 @@ title: CMA112 - Geometria Analítica - Eng.Mecânica (Turma A)
 permalink: /engMec2sem2017-GA/
 ---
 
-<h2><b><i>Importante!</i></b></h2>
+<h1><b><i>Importante!</i></b></h1>
 - Postado em 24/08/2017: A data da prova P1 foi alterada para 12/09/2017.
 
 - Postado em 24/08/2017: Devido à Semana Acadêmica, não haverá aula nos dias 29/08/2017 e 31/05/2017.
@@ -68,18 +68,18 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
 <h3>Aulas Dadas</h3>
 
-- 01/08/2017: Introdução ao plano cartesiano bidimensional e aos vetores <br /> (início do cap. 2 - Reis,Silva)
+- _01/08/2017:_ Introdução ao plano cartesiano bidimensional e aos vetores <br /> (início do cap. 2 - Reis,Silva)
 
-  03/08/2017: Relação entre o plano cartesiano bidimensional e os vetores e operações com vetores (cap. 2.3 e 2.4 - Reis,Silva)
+  _03/08/2017:_ Relação entre o plano cartesiano bidimensional e os vetores e operações com vetores <br />(cap. 2.3 e 2.4 - Reis,Silva)
   
-  08/08/2017: Aplicações dos Vetores (cap. 2.5 - Reis,Silva)
+  _08/08/2017:_ Aplicações dos Vetores <br />(cap. 2.5 - Reis,Silva)
   
-  10/08/2017: Introdução ao espaço tridimensional e Produto Escalar (cap. 2.6 e cap. 4.1 até 4.4 - Reis,Silva)
+  _10/08/2017:_ Introdução ao espaço tridimensional e Produto Escalar <br />(cap. 2.6 e cap. 4.1 até 4.4 - Reis,Silva)
   
-  15/08/2017: Aplicação de Produto Escalar: (1) ângulo entre vetores e (2) ângulos diretores (cap. 2.6 - Reis,Silva e cap. 3.5 - Steinbruch,Winterle)
+  _15/08/2017:_ Aplicação de Produto Escalar: (1) ângulo entre vetores e (2) ângulos diretores <br />(cap. 2.6 - Reis,Silva e cap. 3.5 - Steinbruch,Winterle)
 
-  17/08/2017: Aplicação de Produto Escalar: (3) projeção escalar (cap. 2.7 - Reis,Silva)
+  _17/08/2017:_ Aplicação de Produto Escalar: (3) projeção escalar <br />(cap. 2.7 - Reis,Silva)
   
-  22/08/2017: Produto Vetorial: definição e propriedades (cap. 4.5 - Reis,Silva)
+  _22/08/2017:_ Produto Vetorial: definição e propriedades <br />(cap. 4.5 - Reis,Silva)
   
-  24/08/2017: Aplicação do Produto Vetorial (área do paralelogramo) e Produto Misto (cap. 4.5 e 4.6 - Reis,Silva)  
+  _24/08/2017:_ Aplicação do Produto Vetorial (área do paralelogramo) e Produto Misto <br />(cap. 4.5 e 4.6 - Reis,Silva)  
