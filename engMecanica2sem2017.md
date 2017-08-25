@@ -30,7 +30,7 @@ permalink: /engMec2sem2017-GA/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 07/09/2017 <strike>05/09/2017</strike>
+- Prova 1: 12/09/2017 <strike>05/09/2017</strike>
   
   Prova 2: 17/10/2017
   
