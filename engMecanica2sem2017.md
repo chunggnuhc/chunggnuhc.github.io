@@ -68,7 +68,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
 <h3>Aulas Dadas</h3>
 
-- 01/08/2017: Introdução ao plano cartesiano bidimensional e aos vetores (início do cap. 2 - Reis,Silva)
+- 01/08/2017: Introdução ao plano cartesiano bidimensional e aos vetores <br /> (início do cap. 2 - Reis,Silva)
 
   03/08/2017: Relação entre o plano cartesiano bidimensional e os vetores e operações com vetores (cap. 2.3 e 2.4 - Reis,Silva)
   
