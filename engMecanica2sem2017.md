@@ -4,8 +4,8 @@ title: CMA112 - Geometria Analítica - Eng.Mecânica (Turma A)
 permalink: /engMec2sem2017-GA/
 ---
 
-<h3>**Importante!**</h3>
-- Postado em 24/08/2017: A data da prova P1 foi alterada para 07/09/2017.
+<h3>==Importante!==</h3>
+- Postado em 24/08/2017: A data da prova P1 foi alterada para 12/09/2017.
 
 - Postado em 24/08/2017: Devido à Semana Acadêmica, não haverá aula nos dias 29/08/2017 e 31/05/2017.
 
@@ -46,7 +46,7 @@ permalink: /engMec2sem2017-GA/
 
 - Terça-Feira, das 13h até 14h, na sala de estudos no andar térreo da PA
 
-obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento do dia é cancelado. 
+obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia é cancelado porque eu vou embora. 
 
 <h3>Listas de Exercícios</h3>
 
@@ -70,7 +70,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento do dia
 
 - 01/08/2017: Introdução ao plano cartesiano bidimensional e aos vetores (início do cap. 2 - Reis,Silva)
 
-  03/08/2017: Relação entre o plano cartesiano bidimensional e os vetores e operações com vetores (cap. 2.3 e 2.4 - Reis,Silva)
+  __03/08/2017:__ Relação entre o plano cartesiano bidimensional e os vetores e operações com vetores (cap. 2.3 e 2.4 - Reis,Silva)
   
   08/08/2017: Aplicações dos Vetores (cap. 2.5 - Reis,Silva)
   
@@ -81,3 +81,5 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento do dia
   17/08/2017: Aplicação de Produto Escalar: (3) projeção escalar (cap. 2.7 - Reis,Silva)
   
   22/08/2017: Produto Vetorial: definição e propriedades (cap. 4.5 - Reis,Silva)
+  
+  24/08/2017: Aplicação do Produto Vetorial (área do paralelogramo) e Produto Misto (cap. 4.5 e 4.6 - Reis,Silva)  
