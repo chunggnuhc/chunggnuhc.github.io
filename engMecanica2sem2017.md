@@ -4,7 +4,7 @@ title: CMA112 - Geometria Analítica - Eng.Mecânica (Turma A)
 permalink: /engMec2sem2017-GA/
 ---
 
-<h3><b><i>Importante!</i></b></h3>
+<h4><b><i>Importante!</i></b></h4>
 - Postado em 24/08/2017: A data da prova P1 foi alterada para 12/09/2017.
 
 - Postado em 24/08/2017: Devido à Semana Acadêmica, não haverá aula nos dias 29/08/2017 e 31/05/2017.
@@ -70,7 +70,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
 - 01/08/2017: Introdução ao plano cartesiano bidimensional e aos vetores (início do cap. 2 - Reis,Silva)
 
-  __03/08/2017:__ Relação entre o plano cartesiano bidimensional e os vetores e operações com vetores (cap. 2.3 e 2.4 - Reis,Silva)
+  03/08/2017: Relação entre o plano cartesiano bidimensional e os vetores e operações com vetores (cap. 2.3 e 2.4 - Reis,Silva)
   
   08/08/2017: Aplicações dos Vetores (cap. 2.5 - Reis,Silva)
   
