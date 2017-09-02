@@ -53,6 +53,9 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
   Cap. 3.16 - Exercício 1  
 
+- [Lista 3: Taxas de Veriação](/disciplinas2sem2017/Lista3-AEF-taxaVar.pdf)
+
+
 <h3>Notas</h3>
 
 <h3>Aulas Dadas</h3>
