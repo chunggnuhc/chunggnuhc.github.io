@@ -40,7 +40,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
 <h3>Listas de Exercícios</h3>
 
-- Lista 1:
+- Lista 1: Limite e Continuidade
 
   Cap. 3.6 - Exercícios 1 até 10, 18 até 36
 
@@ -50,11 +50,18 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
   Cap. 3.18 - Exercícios 1(c), 1(g), 1(i), 1(j), 2(a), 2(b), 2(d), 2(e), 2(f), 2(g), 4, 5, 7(a), 7(b), 8
 
-- Lista 2:
+- Lista 2: Limite no Infinito e Assíntotas
 
   Cap. 3.13 - Exercícios 2 até 13, 15 até 38
 
   Cap. 3.16 - Exercício 1
+  
+- [Lista 3: Taxas de Variação](/disciplinas2sem2017/Lista3-AEF-taxaVar.pdf)
+
+- Lista 4: Derivadas
+
+  Cap. 4.7 - Exercícios 1, 5, 6, 7
+
   
 <h3>Notas</h3>
 
@@ -71,3 +78,11 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   _23/08/2017:_ Limite no infinito e Limite infinito (cap. 3.11 ee 3.12)
   
   _25/08/2017:_ Limite no infinito e assíntotas (cap. 3.11, 3.12, 3.14)
+  
+  _30/08/2017:_ Taxas de Variação (cap. 4.1, 4.2)
+  
+  _01/09/2017:_ Taxas de Variação (cap. 4.1, 4.2)
+  
+  _06/09/2017:_ Introdução à Derivada (cap. 4.3, 4.4, 4.6, 4.8, 4.11)
+  
+  _08/09/2017:_ Recesso devido ao feriado da Independência 07/09/2017
