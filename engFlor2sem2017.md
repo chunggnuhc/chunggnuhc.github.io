@@ -81,8 +81,8 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
   _30/08/2017:_ Taxas de Variação (cap. 4.1, 4.2)
   
-  _01/09/2017:_ Taxas de Variação (cap. 4.1, 4.2)
+  _01/09/2017:_ Taxas de Variação (cap. 4.1, 4.2)
   
-  _06/09/2017:_ Introdução à Derivada (cap. 4.3, 4.4, 4.6, 4.8, 4.11)
+  _06/09/2017:_ Introdução à Derivada (cap. 4.3, 4.4, 4.6, 4.8, 4.11)
   
-  _08/09/2017:_ Recesso devido ao feriado da Independência 07/09/2017
+  _08/09/2017:_ Recesso devido ao feriado da Independência 07/09/2017
