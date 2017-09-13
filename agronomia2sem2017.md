@@ -3,6 +3,8 @@ layout: page
 title: CM301 - Matemática 2 - Agronomia (Turma B)
 permalink: /agron2sem2017-Mat2/
 ---
+<h1><b><i>Importante!</i></b></h1>
+- Postado em 12/09/2017: Nota da P1 disponibilizada. Vista da prova será no dia 14/09/2017, às 10h até 10h30min ou das 17h até 17h30min, no 4o andar do prédio novo PA. Reescrevendo para reforçar: <b>no 4o andar</b>, no sofá amarelo!
 
 <h3>Local e Horário das Aulas</h3>
 - Terças-feiras, de 17h30min às 19h30min, sala PA-08
@@ -57,6 +59,8 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
 
 <h3>Notas</h3>
+
+- [Notas P1](/disciplinas2sem2017/Nota P1 - Agro.pdf)
 
 <h3>Aulas Dadas</h3>
 
