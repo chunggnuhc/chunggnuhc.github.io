@@ -5,6 +5,8 @@ permalink: /engMec2sem2017-GA/
 ---
 
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 21/09/2017: Nota da P1 disponibilizada. Vista da prova será no dia 26/09/2017, às 10h até 10h30min ou das 17h até 17h30min, no 4o andar do prédio novo PA. Reescrevendo para reforçar: <b>no 4o andar</b>, no sofá amarelo!
+
 - Postado em 24/08/2017: A data da prova P1 foi alterada para 12/09/2017.
 
 - Postado em 24/08/2017: Devido à Semana Acadêmica, não haverá aula nos dias 29/08/2017 e 31/08/2017.
@@ -65,6 +67,8 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   4.17 até 4.35
   
 <h3>Notas</h3>
+
+- [Notas P1](/disciplinas2sem2017/Nota P1 - EngMec.pdf)
 
 <h3>Aulas Dadas</h3>
 
