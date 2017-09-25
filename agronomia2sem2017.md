@@ -95,7 +95,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
   _07/09/2017:_ Feriado da Independência do Brasil
   
-  _12/09/2017:_ Introdução à Derivada, condição de existência e regras de Derivação D1 até D4 (cap. 4.3, 4.4, 4.5, 4.6, 4.8, 4.9 e 4.11)
+  _12/09/2017:_ Introdução à Derivada, condição de existência e regras de Derivação D1 até D4 (cap. 4.3 até 4.6, 4.8, 4.9 e 4.11)
   
   _14/09/2017:_ Regras de Derivação D5 e D6 - Produto/Quociente de Funções (cap. 4.11)  
   
