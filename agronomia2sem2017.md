@@ -19,9 +19,9 @@ permalink: /agron2sem2017-Mat2/
 
 <h3>Avaliação</h3>
 
-- <strike>Prova 1: 05/09/2017 (Lista 1 até Lista 3)</strike> 
+- Prova 1: 05/09/2017 (Lista 1 até Lista 3) - [Gabarito](/disciplinas2sem2017/gabAgronP1-A.pdf)
   
-  Prova 2: 17/10/2017
+- Prova 2: 17/10/2017
   
   Prova 3: 23/11/2017
   
