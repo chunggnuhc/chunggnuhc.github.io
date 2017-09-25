@@ -4,7 +4,7 @@ title: CM301 - Matemática 2 - Agronomia (Turma B)
 permalink: /agron2sem2017-Mat2/
 ---
 <h1><b><i>Importante!</i></b></h1>
-- Postado em 12/09/2017: Nota da P1 disponibilizada. Vista da prova será no dia 14/09/2017, às 10h até 10h30min ou das 17h até 17h30min, no 4o andar do prédio novo PA. Reescrevendo para reforçar: <b>no 4o andar</b>, no sofá amarelo!
+- <strike>Postado em 12/09/2017: Nota da P1 disponibilizada. Vista da prova será no dia 14/09/2017, às 10h até 10h30min ou das 17h até 17h30min, no 4o andar do prédio novo PA. Reescrevendo para reforçar: <b>no 4o andar</b>, no sofá amarelo!</strike>
 
 <h3>Local e Horário das Aulas</h3>
 - Terças-feiras, de 17h30min às 19h30min, sala PA-08
@@ -19,7 +19,7 @@ permalink: /agron2sem2017-Mat2/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 05/09/2017
+- <strike>Prova 1: 05/09/2017 (Lista 1 até Lista 3)</strike> 
   
   Prova 2: 17/10/2017
   
@@ -57,6 +57,13 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
 - [Lista 3: Taxas de Variação](/disciplinas2sem2017/Lista3-AEF-taxaVar.pdf)
 
+- Lista 4:
+
+  Cap. 4.12 (Pág. 138) - Exercícios 1 até 22, 24 até 30
+
+  Cap. 4.16 (Pág. 159) - Exercício 1(a), 3, 5 até 31, 81, 83, 88 até 90
+  
+  Cap. 4.21 (Pág. 176) - Exercício 1 até 11, 13
 
 <h3>Notas</h3>
 
@@ -79,3 +86,19 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   _22/08/2017:_ Limite no infinito (cap. 3.11 e 3.12)
   
   _24/08/2017:_ Limite no infinito e assíntotas (cap. 3.11, 3.12 e 3.14)
+  
+  _29/08/2017:_ Taxas de Variação (cap. 4.1 e 4.2)
+
+  _31/08/2017:_ Aula de exercícios
+  
+  _05/09/2017:_ Prova P1
+  
+  _07/09/2017:_ Feriado da Independência do Brasil
+  
+  _12/09/2017:_ Introdução à Derivada, condição de existência e regras de Derivação D1 até D4 (cap. 4.3, 4.4, 4.5, 4.6, 4.8, 4.9 e 4.11)
+  
+  _14/09/2017:_ Regras de Derivação D5 e D6 - Produto/Quociente de Funções (cap. 4.11)  
+  
+  _19/08/2017:_ Regras de Derivação D5 e D6 - Produto/Quociente de Funções (cap. 4.11)
+  
+  _21/08/2017:_ Regras de Derivação D7 - Função Composta - e Derivadas de Função Exponencial, Logarítmica e Trigonométrica (cap. 4.13 e 4.15)
