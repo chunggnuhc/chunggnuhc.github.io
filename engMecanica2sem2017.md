@@ -32,9 +32,9 @@ permalink: /engMec2sem2017-GA/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 12/09/2017 <strike>05/09/2017</strike>
+- Prova 1: 12/09/2017 <strike>05/09/2017</strike> (Lista 1 até Lista 3
   
-  Prova 2: 17/10/2017
+- Prova 2: 17/10/2017
   
   Prova 3: 23/11/2017
   
@@ -87,3 +87,19 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   _22/08/2017:_ Produto Vetorial: definição e propriedades <br />(cap. 4.5 - Reis,Silva)
   
   _24/08/2017:_ Aplicação do Produto Vetorial (área do paralelogramo) e Produto Misto <br />(cap. 4.5 e 4.6 - Reis,Silva)  
+  
+  _29/08/2017:_ Produto Misto e suas propriedades <br />(cap. 4.6 - Reis,Silva)  
+  
+  _31/08/2017:_ Produto Misto e suas aplicações <br />(cap. 4.6 - Reis,Silva)
+  
+  _05/09/2017:_ Aula de exercícios
+  
+  _07/09/2017:_ Feriado de Independência do Brasil
+  
+  _12/08/2017:_ Prova P1
+  
+  _14/08/2017:_ Retas no R2 (espaço bidimensional) <br />(cap. 2.8 e 2.9 - Reis,Silva)
+  
+  _19/08/2017:_ Retas no R3 (espaço tridimensional) <br />(cap. 4.9 - Reis,Silva)
+  
+  _21/08/2017:_ Planos <br />(cap. 4.7 e 4.8 - Reis,Silva)  
