@@ -32,7 +32,7 @@ permalink: /engMec2sem2017-GA/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 12/09/2017 <strike>05/09/2017</strike> (Lista 1 até Lista 3
+- Prova 1: 12/09/2017 <strike>05/09/2017</strike> (Lista 1 até Lista 3)
   
 - Prova 2: 17/10/2017
   
@@ -65,6 +65,16 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 - Lista 3: Pág 106 e 107 do Reis, Silva
 
   4.17 até 4.35
+  
+- Lista 4 (Retas): Pág 53 do Reis, Silva
+
+  2.49 até 2.57
+  
+  Lista 4 Complementar Opcional: seção 4.15 do Steinbruch, Winterle
+  
+- Lista 5 (Planos): Pág 116 e 117 do Reis, Silva
+
+  4.36 até 4.44
   
 <h3>Notas</h3>
 
@@ -100,6 +110,6 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
   _14/08/2017:_ Retas no R2 (espaço bidimensional) <br />(cap. 2.8 e 2.9 - Reis,Silva)
   
-  _19/08/2017:_ Retas no R3 (espaço tridimensional) <br />(cap. 4.9 - Reis,Silva)
+  _19/08/2017:_ Ãngulo entre retas e Retas no R3 (espaço tridimensional) <br />(cap. 2.10 e 4.9 - Reis,Silva)
   
-  _21/08/2017:_ Planos <br />(cap. 4.7 e 4.8 - Reis,Silva)  
+  _21/08/2017:_ Equação cartesiana do plano <br />(cap. 4.7 - Reis,Silva)  
