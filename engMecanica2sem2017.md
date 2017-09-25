@@ -5,7 +5,7 @@ permalink: /engMec2sem2017-GA/
 ---
 
 <h1><b><i>Importante!</i></b></h1>
-- Postado em 21/09/2017: Nota da P1 disponibilizada. Vista da prova será no dia 26/09/2017, às 10h até 10h30min ou das 17h até 17h30min, no 4o andar do prédio novo PA. Reescrevendo para reforçar: <b>no 4o andar</b>, no sofá amarelo!
+- Postado em 21/09/2017: Nota da P1 disponibilizada. Vista da prova será no dia 26/09/2017, às 9h30min até 10h ou das 17h até 17h30min, no 4o andar do prédio novo PA. Reescrevendo para reforçar: <b>no 4o andar</b>, no sofá amarelo!
 
 - Postado em 24/08/2017: A data da prova P1 foi alterada para 12/09/2017.
 
