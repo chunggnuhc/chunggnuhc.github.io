@@ -70,9 +70,9 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
   Cap. 4.12 (Pág. 138) - Exercícios 1 até 22, 24 até 30
 
-  Cap. 4.16 (Pág. 159) - Exercício 1(a), 3, 5 até 31, 81, 83, 88 até 90
+  Cap. 4.16 (Pág. 159) - Exercícios 1(a), 3, 5 até 31, 81, 83, 88 até 90
   
-  Cap. 4.21 (Pág. 176) - Exercício 1 até 11, 13
+  Cap. 4.21 (Pág. 176) - Exercícios 1 até 11, 13
  
 - Lista 6: Máximos e Mínimos
 
