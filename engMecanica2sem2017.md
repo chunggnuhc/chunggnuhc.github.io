@@ -5,6 +5,8 @@ permalink: /engMec2sem2017-GA/
 ---
 
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 01/10/2017: Não haverá aula no dia 03/10/2017, devido ao EVINCI. No entanto, o horário de atendimento funcionará normalmente.
+
 - Postado em 21/09/2017: Nota da P1 disponibilizada. Vista da prova será no dia 26/09/2017, às 9h30min até 10h ou das 17h até 17h30min, no 4o andar do prédio novo PA. Reescrevendo para reforçar: <b>no 4o andar</b>, no sofá amarelo!
 
 - Postado em 24/08/2017: A data da prova P1 foi alterada para 12/09/2017.
@@ -76,6 +78,11 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
   4.36 até 4.44
   
+- Lista 6 (Intersecção de Retas e Planos): Pág 123 até 126 do Reis, Silva
+
+  4.51 até 4.57, 4.60 até 4.65, 4.69, 4.72, 4.74
+
+  
 <h3>Notas</h3>
 
 - [Notas P1](/disciplinas2sem2017/Nota P1 - EngMec.pdf)
@@ -106,10 +113,14 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
   _07/09/2017:_ Feriado de Independência do Brasil
   
-  _12/08/2017:_ Prova P1
+  _12/09/2017:_ Prova P1
   
-  _14/08/2017:_ Retas no R2 (espaço bidimensional) <br />(cap. 2.8 e 2.9 - Reis,Silva)
+  _14/09/2017:_ Retas no R2 (espaço bidimensional) <br />(cap. 2.8 e 2.9 - Reis,Silva)
   
-  _19/08/2017:_ Ãngulo entre retas e Retas no R3 (espaço tridimensional) <br />(cap. 2.10 e 4.9 - Reis,Silva)
+  _19/09/2017:_ Ãngulo entre retas e Retas no R3 (espaço tridimensional) <br />(cap. 2.10, 4.9 e 4.12 - Reis,Silva)
   
-  _21/08/2017:_ Equação cartesiana do plano <br />(cap. 4.7 - Reis,Silva)  
+  _21/09/2017:_ Equação cartesiana do plano <br />(cap. 4.7 - Reis,Silva)  
+  
+  _26/09/2017:_ Intersecção de Plano com retas e outros planos <br />(cap. 4.10 e 4.11 - Reis,Silva)
+
+  _28/09/2017:_ Distância de Ponto a Reta no R2 e no R3 <br />(cap. 2.11 e 4.14 - Reis,Silva)
