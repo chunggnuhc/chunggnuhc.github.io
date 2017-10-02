@@ -5,7 +5,11 @@ permalink: /engFlor2sem2017-Mat2/
 ---
 
 <h1><b><i>Importante!</i></b></h1>
-- Postado em 25/08/2017: Alteração na data da prova de <strike>06/09/2017</strike> para 13/09/2017.
+- Postado em 01/10/2017: Alteração na data da prova P2 de <strike>11/09/2017</strike> para 18/09/2017.
+
+- Postado em 01/10/2017: Não haverá aula no dia 04/10/2017, devido ao EVINCI. No entanto, o horário de atendimento funcionará normalmente.
+
+- Postado em 25/08/2017: Alteração na data da prova P1 de <strike>06/09/2017</strike> para 13/09/2017.
 
 - Postado em 24/08/2017: Mudança de sala da aula de sexta: PA-04.
 
@@ -22,9 +26,9 @@ permalink: /engFlor2sem2017-Mat2/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 13/09/2017 <strike>06/09/2017</strike>
+- Prova 1: 13/09/2017 <strike>06/09/2017</strike> (Lista 1 até Lista 4)
   
-  Prova 2: 11/10/2017
+- Prova 2: 18/10/2017 <strike>11/10/2017</strike>
   
   Prova 3: 22/10/2017
   
@@ -61,7 +65,18 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 - Lista 4: Derivadas
 
   Cap. 4.7 - Exercícios 1, 5, 6, 7
+  
+- Lista 5: Regras de Derivação D1 até D7
 
+  Cap. 4.12 (Pág. 138) - Exercícios 1 até 22, 24 até 30
+
+  Cap. 4.16 (Pág. 159) - Exercício 1(a), 3, 5 até 31, 81, 83, 88 até 90
+  
+  Cap. 4.21 (Pág. 176) - Exercício 1 até 11, 13
+ 
+- Lista 6: Máximos e Mínimos
+
+  Cap. 5.10 (Pág. 215) - Exercícios 2, 3, 5(a) até 5(m), 5(o), 6, 7(a) até 7(e), 7(i) até 7(k), 8(a) até 8(h), 8(j) até 8(m), 11, 12
   
 <h3>Notas</h3>
 
@@ -89,3 +104,14 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
   _08/09/2017:_ Recesso devido ao feriado da Independência 07/09/2017
 
+  _13/09/2017:_ Prova P1
+  
+  _15/09/2017:_ Regras de Derivação D5 e D6 - Produto/Quociente de Funções (cap. 4.11)  
+  
+  _20/09/2017:_ Recesso devido à Semana Acadêmica da Eng. Florestal
+  
+  _22/09/2017:_ Recesso devido à Semana Acadêmica da Eng. Florestal
+
+  _27/09/2017:_ Regras de Derivação D7 - Função Composta - e Derivadas de Função Exponencial, Logarítmica e Trigonométrica (cap. 4.13 e 4.15)
+  
+  _29/09/2017:_ Máximos e Mínimos (cap. 5.4 até 5.7)
