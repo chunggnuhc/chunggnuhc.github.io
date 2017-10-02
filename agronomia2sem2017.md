@@ -5,6 +5,7 @@ permalink: /agron2sem2017-Mat2/
 ---
 <h1><b><i>Importante!</i></b></h1>
 - Postado em 01/10/2017: Não haverá aula no dia 03/10/2017, devido ao EVINCI. No entanto, o horário de atendimento funcionará normalmente.
+
 - Postado em 12/09/2017: Nota da P1 disponibilizada. Vista da prova será no dia 14/09/2017, às 10h até 10h30min ou das 17h até 17h30min, no 4o andar do prédio novo PA. Reescrevendo para reforçar: <b>no 4o andar</b>, no sofá amarelo!
 
 <h3>Local e Horário das Aulas</h3>
