@@ -57,13 +57,21 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
 - [Lista 3: Taxas de Variação](/disciplinas2sem2017/Lista3-AEF-taxaVar.pdf)
 
-- Lista 4:
+- Lista 4: Derivadas
 
   Cap. 4.12 (Pág. 138) - Exercícios 1 até 22, 24 até 30
 
   Cap. 4.16 (Pág. 159) - Exercício 1(a), 3, 5 até 31, 81, 83, 88 até 90
   
   Cap. 4.21 (Pág. 176) - Exercício 1 até 11, 13
+
+- Lista 5: Máximos e Mínimos
+
+  Cap. 5.10 (Pág. 215) - Exercícios 2, 3, 5(a) até 5(m), 5(o), 6, 7(a) até 7(e), 7(i) até 7(k), 8(a) até 8(h), 8(j) até 8(m), 11, 12
+
+- Lista 6: Prob. Maximização/Minimização
+
+  Cap. 5.12 (Pág. 224) - Exercícios 1, 3 até 8, 10, 12, 15, 16, 18, 19, 21, 23, 25 até 27
 
 <h3>Notas</h3>
 
@@ -99,6 +107,10 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
   _14/09/2017:_ Regras de Derivação D5 e D6 - Produto/Quociente de Funções (cap. 4.11)  
   
-  _19/08/2017:_ Regras de Derivação D5 e D6 - Produto/Quociente de Funções (cap. 4.11)
+  _19/09/2017:_ Regras de Derivação D5 e D6 - Produto/Quociente de Funções (cap. 4.11)
   
-  _21/08/2017:_ Regras de Derivação D7 - Função Composta - e Derivadas de Função Exponencial, Logarítmica e Trigonométrica (cap. 4.13 e 4.15)
+  _21/09/2017:_ Regras de Derivação D7 - Função Composta - e Derivadas de Função Exponencial, Logarítmica e Trigonométrica (cap. 4.13 e 4.15)
+  
+  _26/09/2017:_ Máximos e Mínimos Locais (cap. 5.4 até 5.7)
+  
+  _28/09/2017:_ Máximos e Mínimos Globais e Introdução a Prob. de Maximização/Minimização (cap. 5.7 e 5.11)
