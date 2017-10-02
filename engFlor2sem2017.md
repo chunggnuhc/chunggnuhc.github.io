@@ -5,7 +5,7 @@ permalink: /engFlor2sem2017-Mat2/
 ---
 
 <h1><b><i>Importante!</i></b></h1>
-- Postado em 01/10/2017: Alteração na data da prova P2 de <strike>11/09/2017</strike> para 18/09/2017.
+- Postado em 01/10/2017: Alteração na data da prova P2 de <strike>11/10/2017</strike> para 18/10/2017.
 
 - Postado em 01/10/2017: Não haverá aula no dia 04/10/2017, devido ao EVINCI. No entanto, o horário de atendimento funcionará normalmente.
 
