@@ -77,6 +77,10 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 - Lista 6: Máximos e Mínimos
 
   Cap. 5.10 (Pág. 215) - Exercícios 2, 3, 5(a) até 5(m), 5(o), 6, 7(a) até 7(e), 7(i) até 7(k), 8(a) até 8(h), 8(j) até 8(m), 11, 12
+
+- Lista 7: Prob. Maximização/Minimização
+
+  Cap. 5.12 (Pág. 224) - Exercícios 1, 3 até 8, 10, 12, 15, 16, 18, 19, 21, 23, 25 até 27
   
 <h3>Notas</h3>
 
@@ -115,3 +119,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   _27/09/2017:_ Regras de Derivação D7 - Função Composta - e Derivadas de Função Exponencial, Logarítmica e Trigonométrica (cap. 4.13 e 4.15)
   
   _29/09/2017:_ Máximos e Mínimos (cap. 5.4 até 5.7)
+
+  _04/10/2017:_ Recesso escolar devido ao EVINCI
+  
+  _06/10/2017:_ Máximos e Mínimos Globais e Introdução a Prob. de Maximização/Minimização (cap. 5.7 e 5.11)
