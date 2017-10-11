@@ -4,6 +4,8 @@ title: CM301 - Matemática 2 - Agronomia (Turma B)
 permalink: /agron2sem2017-Mat2/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 10/10/2017: Data da prova P2 alterada para 26/10/2017 (quinta-feira).
+
 - Postado em 01/10/2017: Não haverá aula no dia 03/10/2017, devido ao EVINCI. No entanto, o horário de atendimento funcionará normalmente.
 
 - Postado em 12/09/2017: Nota da P1 disponibilizada. Vista da prova será no dia 14/09/2017, às 10h até 10h30min ou das 17h até 17h30min, no 4o andar do prédio novo PA. Reescrevendo para reforçar: <b>no 4o andar</b>, no sofá amarelo!
@@ -23,7 +25,7 @@ permalink: /agron2sem2017-Mat2/
 
 - Prova 1: 05/09/2017 (Lista 1 até Lista 3) - [Gabarito](/disciplinas2sem2017/gabAgronP1-A.pdf)
   
-- Prova 2: 17/10/2017
+- Prova 2: 26/10/2017 <strike>17/10/2017</strike>
   
   Prova 3: 23/11/2017
   
@@ -116,3 +118,9 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   _26/09/2017:_ Máximos e Mínimos Locais (cap. 5.4 até 5.7)
   
   _28/09/2017:_ Máximos e Mínimos Globais e Introdução a Prob. de Maximização/Minimização (cap. 5.7 e 5.11)
+  
+  _03/10/2017:_ Recesso escolar devido ao EVINCI
+
+  _05/10/2017:_ Prob. de Maximização/Minimização (cap. 5.11)
+  
+  _07/10/2017:_ Aula de exercícios
