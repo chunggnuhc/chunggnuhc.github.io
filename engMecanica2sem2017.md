@@ -36,7 +36,7 @@ permalink: /engMec2sem2017-GA/
 
 - Prova 1: 12/09/2017 <strike>05/09/2017</strike> (Lista 1 até Lista 3)
   
-- Prova 2: 17/10/2017
+- Prova 2: 17/10/2017 (Lista 4 até Lista 7)
   
   Prova 3: 23/11/2017
   
@@ -82,6 +82,9 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
   4.51 até 4.57, 4.60 até 4.65, 4.69, 4.72, 4.74
 
+- Lista 7 (Distância): Pág 53, 116 a 117,  124 até 126 do Reis, Silva
+
+  2.58 até 2.61, 4.45 até 4.50, 4.58, 4.59, 4.66 até 4.68, 4.73, 4.75 até 4.80
   
 <h3>Notas</h3>
 
@@ -124,3 +127,9 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   _26/09/2017:_ Intersecção de Plano com retas e outros planos <br />(cap. 4.10 e 4.11 - Reis,Silva)
 
   _28/09/2017:_ Distância de Ponto a Reta no R2 e no R3 <br />(cap. 2.11 e 4.14 - Reis,Silva)
+
+  _03/10/2017:_ Recesso escolar devido ao EVINCI
+
+  _05/10/2017:_ Distâncias entre Duas Retas, entre Ponto e Plano, entre Dois Planos e entre plano e retas <br />(cap 4.13 a 4.15 - Reis e Silva)
+  
+  _10/10/2017:_ Aula de exercícios
