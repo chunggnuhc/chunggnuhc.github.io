@@ -38,7 +38,7 @@ permalink: /engMec2sem2017-GA/
   
 - Prova 2: 17/10/2017 (Lista 4 até Lista 7)
   
-  Prova 3: 23/11/2017
+  Prova 3: 23/11/2017 (Lista 8 até o infinito e além)
   
   Substitutiva: 30/11/2017
   
@@ -82,9 +82,18 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
   4.51 até 4.57, 4.60 até 4.65, 4.69, 4.72, 4.74
 
-- Lista 7 (Distância): Pág 53, 116 a 117,  124 até 126 do Reis, Silva
+- Lista 7 (Distância): Pág 53, 116 a 117, 124 até 126 do Reis, Silva
 
   2.58 até 2.61, 4.45 até 4.50, 4.58, 4.59, 4.66 até 4.68, 4.73, 4.75 até 4.80
+  
+- Lista 8 (Cônicas): 
+
+  Seções 7.1.6, 7.2.4 e 7.3.4 do Steinbruch, Winterle
+
+  Pág 61 a 62, 68 a 69, 71 até 72 do Reis, Silva
+  
+  3.1 até 3.5, 3.10 até 3.15, 3.17, 3.20 até 3.27, 3.29
+  
   
 <h3>Notas</h3>
 
@@ -120,7 +129,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
   _14/09/2017:_ Retas no R2 (espaço bidimensional) <br />(cap. 2.8 e 2.9 - Reis,Silva)
   
-  _19/09/2017:_ Ãngulo entre retas e Retas no R3 (espaço tridimensional) <br />(cap. 2.10, 4.9 e 4.12 - Reis,Silva)
+  _19/09/2017:_ Ângulo entre retas e Retas no R3 (espaço tridimensional) <br />(cap. 2.10, 4.9 e 4.12 - Reis,Silva)
   
   _21/09/2017:_ Equação cartesiana do plano <br />(cap. 4.7 - Reis,Silva)  
   
@@ -133,3 +142,15 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   _05/10/2017:_ Distâncias entre Duas Retas, entre Ponto e Plano, entre Dois Planos e entre plano e retas <br />(cap 4.13 a 4.15 - Reis e Silva)
   
   _10/10/2017:_ Aula de exercícios
+
+  _12/10/2017:_ Feriado da Padroeira do Brasil
+  
+  _17/10/2017:_ Prova P2
+  
+  _19/10/2017:_ Cônicas: Parábola e Introdução à Elipse <br />(cap 3.3 e 3.1 - Reis,Silva)
+  
+  _24/10/2017:_ Cônicas: Elipse e Introdução à Hipérbole <br />(cap 3.1 e 3.2 - Reis,Silva)
+  
+  _26/10/2017:_ Cônicas: Hipérbole e Translação de Eixos <br />(cap 3.2 e 3.4 - Reis,Silva)
+
+  _31/10/2017:_ Quádricas: Elipsóide e Hiperbole de Uma Folha <br />(cap 5.2 - Reis,Silva)
