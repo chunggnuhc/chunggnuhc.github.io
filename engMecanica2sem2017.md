@@ -93,7 +93,14 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   Pág 61 a 62, 68 a 69, 71 até 72 do Reis, Silva
   
   3.1 até 3.5, 3.10 até 3.15, 3.17, 3.20 até 3.27, 3.29
+
+- Lista 9 (Quádricas): 
+
+  Seção 8.6 do Steinbruch, Winterle
   
+  Pág 134 até 135, 152 até 153 do Reis, Silva
+  
+  5.1 até 5.24
   
 <h3>Notas</h3>
 
