@@ -88,7 +88,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
 <h3>Notas</h3>
 
-- [Notas P1](/disciplinas2sem2017/Nota P1 - EngMec.pdf)
+- [Notas P2](/disciplinas2sem2017/Nota P2 - EngMec.pdf)
 
 <h3>Aulas Dadas</h3>
 
