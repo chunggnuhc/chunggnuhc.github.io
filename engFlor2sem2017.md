@@ -81,7 +81,31 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 - Lista 7: Prob. Maximização/Minimização
 
   Cap. 5.12 (Pág. 224) - Exercícios 1, 3 até 8, 10, 12, 15, 16, 18, 19, 21, 23, 25 até 27
+
+- Lista 8: L'Hospital
+
+  Cap. 5.14 (Pág. 224) - Exercícios 1 até 15, 22, 26, 32, 33
+
+- Lista 9: Integral Indefinida
+
+  Cap. 6.2 (Pág. 246) - Exercícios 1 até 5, 7, 9, 10, 12, 16 até 18, 20, 21, 27, 30, 32 até 36
   
+- Lista 10: Método da Substituição
+
+  Cap. 6.4 (Pág. 250) - Exercícios 1 até 8, 10 até 15, 19 até 23, 28, 29, 31 até 38, 40 até 43, 45, 48, 50
+  
+- Lista 11: Método da Integração Por Partes
+
+  Cap. 6.6 (Pág. 255) - Exercícios 1 até 8, 15, 16, 18 até 21, 24, 26, 27, 29, 32, 36
+
+- Lista 12: Integral Definida
+
+  Cap. 6.11 (Pág. 269) - Exercícios 1 até 5, 7(a), 8, 12 até 18, 23, 25, 28 até 34
+  
+- Lista 13: Cálculo de Área
+
+  Cap. 6.13 (Pág. 278) - 
+    
 <h3>Notas</h3>
 
 - [Notas P1](/disciplinas2sem2017/Nota P1 - EngFlor.pdf)
@@ -123,3 +147,21 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   _04/10/2017:_ Recesso escolar devido ao EVINCI
   
   _06/10/2017:_ Máximos e Mínimos Globais e Introdução a Prob. de Maximização/Minimização (cap. 5.7 e 5.11)
+
+  _11/10/2017:_ Prob. de Maximização/Minimização (cap. 5.11)
+  
+  _13/10/2017:_ Recesso escolar devido ao feriado da Padroeira do Brasil
+
+  _18/10/2017:_ Prova P2
+  
+  _20/10/2017:_ Regras de L'Hospital (cap. 5.13)
+  
+  _25/10/2017:_ Primitivas (cap. 6.1)  
+  
+  _27/10/2017:_ Problema da Área, Soma de Riemann e Introdução a Integral (cap. 6.7, 6.9 e 6.10)
+
+  _01/11/2017:_ Técnica de Integração de Substituição (cap. 6.3)
+
+  _03/11/2017:_ Recesso Escolar devido ao Feriado de Finados
+
+  _08/11/2017:_ Técnica de Integração por Partes (cap. 6.5)
