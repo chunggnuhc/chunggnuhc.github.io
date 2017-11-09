@@ -5,6 +5,10 @@ permalink: /engFlor2sem2017-Mat2/
 ---
 
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 08/11/2017: Aula extra no dia 29/11/2017.
+
+- Postado em 08/11/2017: Alteração na data da prova PSub de <strike>29/11/2017</strike> para 06/12/2017.
+
 - Postado em 01/10/2017: Alteração na data da prova P2 de <strike>11/10/2017</strike> para 18/10/2017.
 
 - Postado em 01/10/2017: Não haverá aula no dia 04/10/2017, devido ao EVINCI. No entanto, o horário de atendimento funcionará normalmente.
@@ -28,11 +32,11 @@ permalink: /engFlor2sem2017-Mat2/
 
 - Prova 1: 13/09/2017 <strike>06/09/2017</strike> (Lista 1 até Lista 4)
   
-- Prova 2: 18/10/2017 <strike>11/10/2017</strike>
+- Prova 2: 18/10/2017 <strike>11/10/2017</strike> (Lista 5 até Lista 7)
   
-  Prova 3: 22/10/2017
+  Prova 3: 22/11/2017 (Lista 8 até Lista 13)
   
-  Substitutiva: 29/10/2017
+  Substitutiva: 06/12/2017 <strike>29/11/2017</strike>
   
   Final: 13/12/2017
 
