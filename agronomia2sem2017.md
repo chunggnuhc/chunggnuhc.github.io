@@ -77,6 +77,30 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
   Cap. 5.12 (Pág. 224) - Exercícios 1, 3 até 8, 10, 12, 15, 16, 18, 19, 21, 23, 25 até 27
 
+- Lista 7: L'Hospital
+
+  Cap. 5.14 (Pág. 224) - Exercícios 1 até 13, 15, 22, 33
+
+- Lista 8: Integral Indefinida
+
+  Cap. 6.2 (Pág. 246) - Exercícios 1 até 5, 7, 9, 10, 12, 16 até 18, 20, 21, 27, 30, 32 até 36
+  
+- Lista 9: Método da Substituição
+
+  Cap. 6.4 (Pág. 250) - Exercícios 1 até 8, 10 até 15, 19 até 23, 28, 29, 31 até 38, 40 até 43, 45, 48, 50
+  
+- Lista 10: Método da Integração Por Partes
+
+  Cap. 6.6 (Pág. 255) - Exercícios 1 até 8, 15, 16, 18 até 21, 24, 26, 27, 29, 32, 36
+
+- Lista 11: Integral Definida
+
+  Cap. 6.11 (Pág. 269) - Exercícios 1 até 5, 7(a), 8, 12 até 18, 23, 25, 28 até 34
+  
+- Lista 12: Cálculo de Área
+
+  Cap. 6.13 (Pág. 278) - 
+  
 <h3>Notas</h3>
 
 - [Notas P1](/disciplinas2sem2017/Nota P1 - Agro.pdf)
@@ -123,4 +147,22 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
 
   _05/10/2017:_ Prob. de Maximização/Minimização (cap. 5.11)
   
-  _07/10/2017:_ Aula de exercícios
+  _10/10/2017:_ Aula de exercícios
+
+  _12/10/2017:_ Feriado da Padroeira do Brasil
+
+  _17/10/2017:_ Regras de L'Hospital (cap. 5.13)
+  
+  _19/10/2017:_ Primitivas (cap. 6.1)  
+  
+  _24/10/2017:_ Problema da Área, Soma de Riemann e Introdução a Integral (cap. 6.7, 6.9 e 6.10)
+  
+  _26/10/2017:_ Prova P2
+  
+  _31/10/2017:_ Técnica de Integração de Substituição (cap. 6.3) 
+
+  _02/11/2017:_ Feriado de Finados
+  
+  _07/11/2017:_ Técnica de Integração por Partes (cap. 6.5)
+  
+  _09/11/2017:_ Cálculo de Área (cap 6.12)
