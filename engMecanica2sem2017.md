@@ -31,6 +31,8 @@ permalink: /engMec2sem2017-GA/
   Autores: Steinbruch; Winterle
 
   Editora Pearson
+  
+- [Material de COORD. POLARES - Leithold, Cálculo com Geom. Analítica - Volume 1](/disciplinas2sem2017/Mat-CoordPolares.pdf)
 
 <h3>Avaliação</h3>
 
@@ -102,6 +104,14 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
   5.1 até 5.24
   
+- Lista 10 (Coordenadas Polares):
+
+  Página 613 até 614 do Leithold, Vol 1
+  
+  21 até 44
+  
+  [Gabarito](/disciplinas2sem2017/Gab-CoordPolares.pdf)
+  
 <h3>Notas</h3>
 
 - [Notas P2](/disciplinas2sem2017/Nota P2 - EngMec.pdf)
@@ -160,4 +170,10 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
   _26/10/2017:_ Cônicas: Hipérbole e Translação de Eixos <br />(cap 3.2 e 3.4 - Reis,Silva)
 
-  _31/10/2017:_ Quádricas: Elipsóide e Hiperbole de Uma Folha <br />(cap 5.2 - Reis,Silva)
+  _31/10/2017:_ Quádricas: Elipsoide e Hiperboloide de Uma Folha <br />(cap 5.2 - Reis,Silva)
+  
+  _02/11/2017:_ Feriado de Finados
+  
+  _07/11/2017:_ Quádricas: Hiperboloide de Duas Folhas, Paraboloides Elíptico e Hiperbólico <br />(cap 5.2 - Reis,Silva)
+
+  _09/11/2017:_ Quádricas: Sólido de Revolução e Introdução a Coordenadas Polares <br />(cap 5.1 - Reis,Silva, cap 10.5 - Leithold)
