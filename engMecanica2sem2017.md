@@ -34,6 +34,8 @@ permalink: /engMec2sem2017-GA/
   
 - [Material de COORD. POLARES - Leithold, Cálculo com Geom. Analítica - Volume 1](/disciplinas2sem2017/Mat-CoordPolares.pdf)
 
+- [Material de CURVAS PARAMETRIZADAS - Prof. Ximena Mujica, UFPR](/disciplinas2sem2017/Aulas-GA-Curvas-reais-20170601.pdf)
+
 <h3>Avaliação</h3>
 
 - Prova 1: 12/09/2017 <strike>05/09/2017</strike> (Lista 1 até Lista 3)
@@ -177,3 +179,5 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   _07/11/2017:_ Quádricas: Hiperboloide de Duas Folhas, Paraboloides Elíptico e Hiperbólico <br />(cap 5.2 - Reis,Silva)
 
   _09/11/2017:_ Quádricas: Sólido de Revolução e Introdução a Coordenadas Polares <br />(cap 5.1 - Reis,Silva, cap 10.5 - Leithold)
+
+  _14/11/2017:_ Coordenadas Polares e Introdução a Curvas Parametrizadas <br />(Cap 10.5 - Leithold, Material da Prof. Ximena)
