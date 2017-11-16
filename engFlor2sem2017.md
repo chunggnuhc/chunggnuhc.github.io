@@ -108,7 +108,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
 - Lista 13: Cálculo de Área
 
-  Cap. 6.13 (Pág. 278) - 
+  Cap. 6.13 (Pág. 278) - 1 até 6, 8, 9, 11, 13, 14, 19, 20, 22, 23, 30
     
 <h3>Notas</h3>
 
@@ -169,3 +169,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   _03/11/2017:_ Recesso Escolar devido ao Feriado de Finados
 
   _08/11/2017:_ Técnica de Integração por Partes (cap. 6.5)
+  
+  _10/11/2017:_ Cálculo de Área entre Curvas (cap 6.12) 
+  
+  _17/11/2017:_ Cálculo de Área entre Curvas (cap 6.12)  
