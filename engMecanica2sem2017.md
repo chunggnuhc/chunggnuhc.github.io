@@ -5,6 +5,8 @@ permalink: /engMec2sem2017-GA/
 ---
 
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 20/11/2017: A data da prova PSub foi alterada para 07/12/2017.
+
 - Postado em 01/10/2017: Não haverá aula no dia 03/10/2017, devido ao EVINCI. No entanto, o horário de atendimento funcionará normalmente.
 
 - Postado em 21/09/2017: Nota da P1 disponibilizada. Vista da prova será no dia 26/09/2017, às 9h30min até 10h ou das 17h até 17h30min, no 4o andar do prédio novo PA. Reescrevendo para reforçar: <b>no 4o andar</b>, no sofá amarelo!
@@ -44,7 +46,7 @@ permalink: /engMec2sem2017-GA/
   
   Prova 3: 23/11/2017 (Lista 8 até o infinito e além)
   
-  Substitutiva: 30/11/2017
+  Substitutiva: 07/12/2017 <strike> 30/11/2017</strike>
   
   Final: 12/12/2017
   
