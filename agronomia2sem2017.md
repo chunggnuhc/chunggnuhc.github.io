@@ -29,7 +29,7 @@ permalink: /agron2sem2017-Mat2/
   
   Prova 3: 23/11/2017
   
-  Substitutiva: 30/11/2017
+  Substitutiva: 05/12/2017 <strike>30/11/2017</strike>
   
   Final: 12/12/2017
   
@@ -103,7 +103,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
 <h3>Notas</h3>
 
-- [Notas P1](/disciplinas2sem2017/Nota P1 - Agro.pdf)
+- [Notas P2](/disciplinas2sem2017/Nota P2 - Agro.pdf)
 
 <h3>Aulas Dadas</h3>
 
