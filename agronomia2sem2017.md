@@ -4,6 +4,8 @@ title: CM301 - Matemática 2 - Agronomia (Turma B)
 permalink: /agron2sem2017-Mat2/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 20/10/2017: Data da prova PSub alterada para 05/12/2017 (terça-feira).
+
 - Postado em 10/10/2017: Data da prova P2 alterada para 26/10/2017 (quinta-feira).
 
 - Postado em 01/10/2017: Não haverá aula no dia 03/10/2017, devido ao EVINCI. No entanto, o horário de atendimento funcionará normalmente.
