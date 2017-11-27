@@ -112,7 +112,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
     
 <h3>Notas</h3>
 
-- [Notas P2](/disciplinas2sem2017/Nota P2 - EngFlor.pdf)
+- [Notas P3](/disciplinas2sem2017/Nota P3 - EngFlor.pdf)
 
 <h3>Aulas Dadas</h3>
 
@@ -173,3 +173,9 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   _10/11/2017:_ Cálculo de Área entre Curvas (cap 6.12) 
   
   _17/11/2017:_ Cálculo de Área entre Curvas (cap 6.12)  
+
+  _22/11/2017:_ Prova P3  
+  
+  _24/11/2017:_ Fim das aulas letivas do semestre
+  
+  _29/11/2017:_ Aula extra de revisão  
