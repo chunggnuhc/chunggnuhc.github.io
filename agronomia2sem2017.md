@@ -4,7 +4,9 @@ title: CM301 - Matemática 2 - Agronomia (Turma B)
 permalink: /agron2sem2017-Mat2/
 ---
 <h1><b><i>Importante!</i></b></h1>
-- Postado em 20/10/2017: Data da prova PSub alterada para 05/12/2017 (terça-feira).
+- Postado em 27/11/2017: Assunto da PSub: Continuidade, Função por partes, Condição de existência para limites, Assíntotas, Derivada (Teoria, Regras e Aplicações), Integral (Teoria, Técnicas e Prob. Área).
+
+- Postado em 20/11/2017: Data da prova PSub alterada para 05/12/2017 (terça-feira).
 
 - Postado em 10/10/2017: Data da prova P2 alterada para 26/10/2017 (quinta-feira).
 
@@ -31,7 +33,7 @@ permalink: /agron2sem2017-Mat2/
   
   Prova 3: 23/11/2017
   
-  Substitutiva: 05/12/2017 <strike>30/11/2017</strike>
+  Substitutiva: 05/12/2017 <strike>30/11/2017</strike> 
   
   Final: 12/12/2017
   
