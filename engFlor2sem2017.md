@@ -5,6 +5,8 @@ permalink: /engFlor2sem2017-Mat2/
 ---
 
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 27/11/2017: Assunto da PSub: Continuidade, Função por partes, Condição de existência para limites, Assíntotas, Derivada (Teoria, Regras e Aplicações), Integral (Teoria, Técnicas e Prob. Área).
+
 - Postado em 08/11/2017: Aula extra no dia 29/11/2017.
 
 - Postado em 08/11/2017: Alteração na data da prova PSub de <strike>29/11/2017</strike> para 06/12/2017.
