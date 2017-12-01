@@ -44,7 +44,7 @@ permalink: /engMec2sem2017-GA/
   
 - Prova 2: 17/10/2017 (Lista 4 até Lista 7) [Prova 2](/disciplinas2sem2017/provaGAP2-A.pdf)
   
-  Prova 3: 23/11/2017 (Lista 8 até o infinito e além) [Prova 2](/disciplinas2sem2017/prova3-cma112-a-v2.pdf)
+  Prova 3: 23/11/2017 (Lista 8 até o infinito e além) [Prova 3](/disciplinas2sem2017/prova3-cma112-a-v2.pdf)
   
   Substitutiva: 07/12/2017 <strike> 30/11/2017</strike>
   
