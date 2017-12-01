@@ -40,11 +40,11 @@ permalink: /engMec2sem2017-GA/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 12/09/2017 <strike>05/09/2017</strike> (Lista 1 até Lista 3)
+- Prova 1: 12/09/2017 <strike>05/09/2017</strike> (Lista 1 até Lista 3) [Prova 1](/disciplinas2sem2017/prova1-ga.pdf)
   
-- Prova 2: 17/10/2017 (Lista 4 até Lista 7)
+- Prova 2: 17/10/2017 (Lista 4 até Lista 7) [Prova 2](/disciplinas2sem2017/provaGAP2-A.pdf)
   
-  Prova 3: 23/11/2017 (Lista 8 até o infinito e além)
+  Prova 3: 23/11/2017 (Lista 8 até o infinito e além) [Prova 2](/disciplinas2sem2017/prova3-cma112-a-v2.pdf)
   
   Substitutiva: 07/12/2017 <strike> 30/11/2017</strike>
   
