@@ -32,11 +32,11 @@ permalink: /engFlor2sem2017-Mat2/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 13/09/2017 <strike>06/09/2017</strike> (Lista 1 até Lista 4)
+- Prova 1: 13/09/2017 <strike>06/09/2017</strike> (Lista 1 até Lista 4) - [Prova 1](/disciplinas2sem2017/provaEngFlorP1-A.pdf)
   
-- Prova 2: 18/10/2017 <strike>11/10/2017</strike> (Lista 5 até Lista 7)
+- Prova 2: 18/10/2017 <strike>11/10/2017</strike> (Lista 5 até Lista 7) - [Prova 2](/disciplinas2sem2017/provaEngFlorP2-B.pdf)
   
-  Prova 3: 22/11/2017 (Lista 8 até Lista 13)
+  Prova 3: 22/11/2017 (Lista 8 até Lista 13) - [Prova 3](/disciplinas2sem2017/prova3-cmb301-a.pdf)
   
   Substitutiva: 06/12/2017 <strike>29/11/2017</strike>
   
