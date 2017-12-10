@@ -46,7 +46,7 @@ permalink: /engMec2sem2017-GA/
   
   Prova 3: 23/11/2017 (Lista 8 até o infinito e além) [Prova 3](/disciplinas2sem2017/prova3-cma112-a-v2.pdf)
   
-  Substitutiva: 07/12/2017 <strike> 30/11/2017</strike>
+  Substitutiva: 07/12/2017 <strike> 30/11/2017</strike> [Prova Sub](/disciplinas2sem2017/ProvaPSub-A.pdf)
   
   Final: 12/12/2017
   
@@ -118,7 +118,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
 <h3>Notas</h3>
 
-- [Notas P3](/disciplinas2sem2017/Nota P3 - EngMec.pdf)
+- [Notas PSub](/disciplinas2sem2017/Nota PSub - EngMec.pdf)
 
 <h3>Aulas Dadas</h3>
 
