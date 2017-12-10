@@ -33,7 +33,7 @@ permalink: /agron2sem2017-Mat2/
   
   Prova 3: 23/11/2017 - [Prova](/disciplinas2sem2017/provaAgronP3-C.pdf)
   
-  Substitutiva: 05/12/2017 <strike>30/11/2017</strike> 
+  Substitutiva: 05/12/2017 <strike>30/11/2017</strike> - [Prova](/disciplinas2sem2017/provaAgronPSub-A.pdf)
   
   Final: 12/12/2017
   
