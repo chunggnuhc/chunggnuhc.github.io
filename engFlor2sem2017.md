@@ -38,7 +38,7 @@ permalink: /engFlor2sem2017-Mat2/
   
   Prova 3: 22/11/2017 (Lista 8 até Lista 13) - [Prova 3](/disciplinas2sem2017/prova3-cmb301-a.pdf)
   
-  Substitutiva: 06/12/2017 <strike>29/11/2017</strike>
+  Substitutiva: 06/12/2017 <strike>29/11/2017</strike> - [Prova Sub](/disciplinas2sem2017/provaPSub.pdf)
   
   Final: 13/12/2017
 
@@ -114,7 +114,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
     
 <h3>Notas</h3>
 
-- [Notas P3](/disciplinas2sem2017/Nota P3 - EngFlor.pdf)
+- [Notas PSub](/disciplinas2sem2017/Nota PSub - EngFlor.pdf)
 
 <h3>Aulas Dadas</h3>
 
