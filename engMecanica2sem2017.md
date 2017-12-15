@@ -118,7 +118,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
 <h3>Notas</h3>
 
-- [Notas PSub](/disciplinas2sem2017/Nota PSub - EngMec.pdf)
+- [Notas PFin](/disciplinas2sem2017/Nota PZFin - EngMec.pdf)
 
 <h3>Aulas Dadas</h3>
 
