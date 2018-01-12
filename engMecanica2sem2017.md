@@ -40,13 +40,13 @@ permalink: /engMec2sem2017-GA/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 12/09/2017 <strike>05/09/2017</strike> (Lista 1 até Lista 3) [Prova 1](/disciplinas2sem2017/prova1-ga.pdf)
+- Prova 1: 12/09/2017 <strike>05/09/2017</strike> (Lista 1 até Lista 3)
   
-- Prova 2: 17/10/2017 (Lista 4 até Lista 7) [Prova 2](/disciplinas2sem2017/provaGAP2-A.pdf)
+- Prova 2: 17/10/2017 (Lista 4 até Lista 7)
   
-  Prova 3: 23/11/2017 (Lista 8 até o infinito e além) [Prova 3](/disciplinas2sem2017/prova3-cma112-a-v2.pdf)
+  Prova 3: 23/11/2017 (Lista 8 até o infinito e além) 
   
-  Substitutiva: 07/12/2017 <strike> 30/11/2017</strike> [Prova Sub](/disciplinas2sem2017/ProvaPSub-A.pdf)
+  Substitutiva: 07/12/2017 <strike> 30/11/2017</strike> 
   
   Final: 12/12/2017
   
@@ -114,11 +114,11 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
   21 até 44
   
-  [Gabarito](/disciplinas2sem2017/Gab-CoordPolares.pdf)
+
   
 <h3>Notas</h3>
 
-- [Notas PFin](/disciplinas2sem2017/Nota PZFin - EngMec.pdf)
+
 
 <h3>Aulas Dadas</h3>
 
