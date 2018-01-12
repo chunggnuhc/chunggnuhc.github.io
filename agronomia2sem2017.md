@@ -27,13 +27,13 @@ permalink: /agron2sem2017-Mat2/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 05/09/2017 (Lista 1 até Lista 3) - [Gabarito](/disciplinas2sem2017/gabAgronP1-A.pdf)
+- Prova 1: 05/09/2017 (Lista 1 até Lista 3)
   
-- Prova 2: 26/10/2017 <strike>17/10/2017</strike> - [Prova](/disciplinas2sem2017/provaAgronP2-C.pdf)
+- Prova 2: 26/10/2017 <strike>17/10/2017</strike>
   
-  Prova 3: 23/11/2017 - [Prova](/disciplinas2sem2017/provaAgronP3-C.pdf)
+  Prova 3: 23/11/2017
   
-  Substitutiva: 05/12/2017 <strike>30/11/2017</strike> - [Prova](/disciplinas2sem2017/provaAgronPSub-A.pdf)
+  Substitutiva: 05/12/2017 <strike>30/11/2017</strike>
   
   Final: 12/12/2017
   
@@ -107,7 +107,7 @@ obs.: Caso nenhum aluno apareça até 13h30min, o horário de atendimento no dia
   
 <h3>Notas</h3>
 
-- [Notas PFinal](/disciplinas2sem2017/Nota PZFin - Agro.pdf)
+
 
 <h3>Aulas Dadas</h3>
 
