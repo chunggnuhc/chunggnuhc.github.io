@@ -5,18 +5,18 @@
     "icon": "fa-newspaper-o"
   },
   {
-    "text": "Agronomia",
-    "url": "/agron2sem2017-Mat2/",
+    "text": "CM 045 - GA",
+    "url": "/CM045-GA-1sem2018/",
     "icon": "fa-graduation-cap"
   },
   {
-    "text": "Eng. Florestal",
-    "url": "/engFlor2sem2017-Mat2/",
+    "text": "CM 201 - Calc 2",
+    "url": "/CM201-Calc2-1sem2018/",
     "icon": "fa-graduation-cap"
   },
   {
-    "text": "Eng. Mecânica",
-    "url": "/engMec2sem2017-GA/",
+    "text": "CM 303 - GA + AL",
+    "url": "/CM303-GAeAL/",
     "icon": "fa-graduation-cap"
   }
 ]
