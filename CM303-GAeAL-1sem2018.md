@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CM303 Turma A - Introdução a Geom. Analítica e Álg. Linear - Eng. Cartográfica
+title: CM303 Turma A - Introd. a Geom. Analítica e Álg. Linear - Eng. Cartográfica
 permalink: /CM303-GAeAL-1sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
