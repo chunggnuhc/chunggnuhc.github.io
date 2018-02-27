@@ -12,6 +12,12 @@ permalink: /CM303-GAeAL-1sem2018/
   Quintas-feiras, de 7h30min às 9h30min, sala PC-06
   
 <h3>Bibliografia</h3>
+
+- Álgebra Linear
+
+  Autores: Steinbruch; Winterle
+
+  Editora Pearson
   
 - Geometria Analítica
 
@@ -21,17 +27,17 @@ permalink: /CM303-GAeAL-1sem2018/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 
+- Prova 1: 29/03
   
-  Prova 2: 
+  Prova 2: 08/05
   
-  Prova 3:
+  Prova 3: 14/06
   
-  Substitutiva:
+  Substitutiva: 21/06
   
-  Final:
+  Final: 03/07
   
-Média = (P1+P2+P3)/3
+  <b>Média = (P1+P2+P3)/3</b>
 
 <h3>Horário de Atendimento</h3>
 
