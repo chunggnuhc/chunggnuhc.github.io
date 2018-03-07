@@ -61,4 +61,8 @@ permalink: /CM303-GAeAL-1sem2018/
 
   _22/02/2018:_ Não houve aula, devido à Semana de Calouros
   
+  _27/02/2018:_ Introdução à Matrizes, Tipos de Matrizes e Operações <br/>(cap. A.1 até A.7 - AlgeLin - Steinbruch,Winterle)
   
+  _01/03/2018:_ Operações e mais tipos especiais de matrizes <br/>(cap. A.9, A.10, A.13 e A.14 - AlgeLin - Steinbruch,Winterle)  
+  
+  _06/03/2018:_ Determinantes <br/>(cap. A.17 a A.25 - AlgeLin - Steinbruch,Winterle)    
