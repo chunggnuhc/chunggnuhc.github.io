@@ -9,9 +9,9 @@ permalink: /CM303-GAeAL-1sem2018/
 - Postado em 18/02/2018: Não haverá aulas dia 20/02/2018 e 22/02/2018.
 
 <h3>Local e Horário das Aulas</h3>
-- Terças-feiras, de 7h30min às 9h30min, sala <strike>PC-07</strike> PH-11
+- Terças-feiras, de 7h30min às 9h30min, sala <strike>PC-07</strike> <strike>PH-11</strike> PQ-13
 
-  Quintas-feiras, de 7h30min às 9h30min, sala <strike>PC-06</strike> PH-11
+  Quintas-feiras, de 7h30min às 9h30min, sala <strike>PC-06</strike> <strike>PH-11</strike> PA-09
   
 <h3>Bibliografia</h3>
 
