@@ -4,6 +4,8 @@ title: CM303 Turma A - Introd. a Geom. Analítica e Álg. Linear - Eng. Cartogr�
 permalink: /CM303-GAeAL-1sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 07/03/2018: Sala de aula alterada para PQ-13 e PA-09, Sala de monitoria alterada
+
 - Postado em 28/02/2018: Alteração das salas PC para PH 11 [mapa](/disciplinas1sem2018/mapacentropolitecnico.pdf)
 
 - Postado em 18/02/2018: Não haverá aulas dia 20/02/2018 e 22/02/2018.
