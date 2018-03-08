@@ -43,13 +43,20 @@ permalink: /CM303-GAeAL-1sem2018/
 
 <h3>Horário de Atendimento</h3>
 
-- Horário a ser definido
+- Quinta-Feira, das 13h até 14h, na sala de estudos no andar térreo da PA
+
+obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça até 13h30min.
 
 <h3>Notas</h3>
 
 
 <h3>Listas de Exercícios</h3>
 
+- Lista 1: Seção A.8.1 e A.16.1 de AlgeLin - Steinbruch, Winterle
+
+  A.8.1 - Todos os exercícios (1 até 28)
+  
+  A.16.1 - 1 até 6, 7 até 13 (com modificações), 14, 16 até 23 (com modificações), 24 até 26
 
 
 
