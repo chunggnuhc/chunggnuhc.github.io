@@ -52,7 +52,7 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
 
 <h3>Listas de Exercícios</h3>
 
-- Lista 1: Seção A.8.1 e A.16.1 de AlgeLin - Steinbruch, Winterle
+- [Lista 1](/disciplinas1sem2018/ListExerc1 - CM303.pdf): Seção A.8.1 e A.16.1 de AlgeLin - Steinbruch, Winterle
 
   A.8.1 - Todos os exercícios (1 até 28)
   
