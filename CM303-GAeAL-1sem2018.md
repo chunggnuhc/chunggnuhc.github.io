@@ -31,17 +31,21 @@ permalink: /CM303-GAeAL-1sem2018/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 29/03
+- Prova 1 (P1): 29/03
   
-  Prova 2: 08/05
+  Prova 2 (P2): 08/05
   
-  Prova 3: 14/06
+  Prova 3 (P3): 14/06
   
-  Substitutiva: 21/06
+  Substitutiva (PSub): 21/06
   
   Final: 03/07
   
-  <b>Média = (P1+P2+P3)/3</b>
+  <b>Média M = (P1+P2+P3)/3</b>
+  
+  <b>Se M >= 7,0, aprovado. Se M < 4,0, reprovado. Se M >= 4,0, então Média Final (MF) = (M + PFinal)/2.</b>
+  
+  <b>Se MF < 5,0, reprovado. Se M >= 5,0, aprovado.</b>
 
 <h3>Horário de Atendimento</h3>
 
@@ -54,13 +58,17 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
 
 <h3>Listas de Exercícios</h3>
 
-- [Lista 1](/disciplinas1sem2018/ListExerc1 - CM303.pdf): Seção A.8.1 e A.16.1 de AlgeLin - Steinbruch, Winterle
+- [Lista 1 - Operações com Matrizes](/disciplinas1sem2018/ListExerc1 - CM303.pdf): Seção A.8.1 e A.16.1 de AlgeLin - Steinbruch, Winterle
 
   A.8.1 - Todos os exercícios (1 até 28)
   
   A.16.1 - 1 até 6, 7 até 13 (com modificações), 14, 16 até 23 (com modificações), 24 até 26
 
+- [Lista 2 - Determinantes e Matriz Inversa](/disciplinas1sem2018/ListExerc02 - CM303.pdf): Seção A.29.1 e A.37.1 de AlgeLin - Steinbruch, Winterle
 
+  A.29.1 - Todos os exercícios (1 até 22)
+  
+  A.37.1 - 4 até 13, 21 até 26
 
 
 
@@ -74,4 +82,8 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
   
   _01/03/2018:_ Operações e mais tipos especiais de matrizes <br/>(cap. A.9, A.10, A.13 e A.14 - AlgeLin - Steinbruch,Winterle)  
   
-  _06/03/2018:_ Determinantes <br/>(cap. A.17 a A.25 - AlgeLin - Steinbruch,Winterle)    
+  _06/03/2018:_ Determinantes <br/>(cap. A.17 a A.25 - AlgeLin - Steinbruch,Winterle)
+  
+  _08/03/2018:_ Propriedades de determinantes e Cálculo de determinante pelo processo de esaclonamento <br/>(cap. A.26 a A.28 - AlgeLin - Steinbruch,Winterle)
+  
+  _13/03/2018:_ Matriz Inversa <br/>(cap. A.30 a A.32, A.34 a A.36 - AlgeLin - Steinbruch,Winterle)  
