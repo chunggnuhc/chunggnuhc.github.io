@@ -64,7 +64,7 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
   
   A.16.1 - 1 até 6, 7 até 13 (com modificações), 14, 16 até 23 (com modificações), 24 até 26
 
-- [Lista 2 - Determinantes e Matriz Inversa](/disciplinas1sem2018/ListExerc02 - CM303.pdf): Seção A.29.1 e A.37.1 de AlgeLin - Steinbruch, Winterle
+- [Lista 2 - Determinantes e Matriz Inversa](/disciplinas1sem2018/ListaExerc02 - CM303.pdf): Seção A.29.1 e A.37.1 de AlgeLin - Steinbruch, Winterle
 
   A.29.1 - Todos os exercícios (1 até 22)
   
