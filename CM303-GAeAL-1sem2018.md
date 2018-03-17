@@ -37,7 +37,7 @@ permalink: /CM303-GAeAL-1sem2018/
   
   Prova 3 (P3): 14/06
   
-  Substitutiva (PSub): 21/06
+  Substitutiva (PSub): 21/06 - Substitui a menor nota entre P1, P2 e P3
   
   Final: 03/07
   
@@ -45,7 +45,7 @@ permalink: /CM303-GAeAL-1sem2018/
   
   <b>Se M >= 7,0, aprovado. Se M < 4,0, reprovado. Se M >= 4,0, então Média Final (MF) = (M + PFinal)/2.</b>
   
-  <b>Se MF < 5,0, reprovado. Se M >= 5,0, aprovado.</b>
+  <b>Se MF < 5,0, reprovado. Se MF >= 5,0, aprovado.</b>
 
 <h3>Horário de Atendimento</h3>
 
