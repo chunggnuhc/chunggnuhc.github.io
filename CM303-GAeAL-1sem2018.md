@@ -84,6 +84,8 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
   
   _06/03/2018:_ Determinantes <br/>(cap. A.17 a A.25 - AlgeLin - Steinbruch,Winterle)
   
-  _08/03/2018:_ Propriedades de determinantes e Cálculo de determinante pelo processo de esaclonamento <br/>(cap. A.26 a A.28 - AlgeLin - Steinbruch,Winterle)
+  _08/03/2018:_ Propriedades de determinantes e Cálculo de determinante pelo processo de escalonamento <br/>(cap. A.26 a A.28 - AlgeLin - Steinbruch,Winterle)
   
   _13/03/2018:_ Matriz Inversa <br/>(cap. A.30 a A.32, A.34 a A.36 - AlgeLin - Steinbruch,Winterle)  
+  
+  _15/03/2018:_ (1) Resoluções de Equações com matrizes e (2) Introdução a sistemas lineares <br/>((1) cap. A.37 Questão 8 a 10, (2) A.38 a A.40 - AlgeLin - Steinbruch,Winterle)   
