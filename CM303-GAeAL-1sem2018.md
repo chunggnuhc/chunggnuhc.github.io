@@ -33,7 +33,7 @@ permalink: /CM303-GAeAL-1sem2018/
 
 <h3>Avaliação</h3>
 
-- Prova 1 (P1): 29/03
+- Prova 1 (P1): 29/03 (Lista 1 até Lista 3)
   
   Prova 2 (P2): 08/05
   
