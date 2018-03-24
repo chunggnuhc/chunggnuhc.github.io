@@ -92,4 +92,8 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
   
   _13/03/2018:_ Matriz Inversa <br/>(cap. A.30 a A.32, A.34 a A.36 - AlgeLin - Steinbruch,Winterle)  
   
-  _15/03/2018:_ (1) Resoluções de Equações com matrizes e (2) Introdução a sistemas lineares <br/>((1) cap. A.37 Questão 8 a 10, (2) A.38 a A.40 - AlgeLin - Steinbruch,Winterle)   
+  _15/03/2018:_ (1) Resoluções de Equações com matrizes e (2) Introdução a sistemas lineares <br/>((1) cap. A.37 Questão 8 a 10, (2) A.38 a A.40 - AlgeLin - Steinbruch,Winterle)
+  
+  _20/03/2018:_ (1) Método da Matriz Inversa e (2) Regra de Cramer para determinar matriz inversa <br/>((1) cap. A.45.1.2, (2) Notas de Aula)
+  
+  _22/03/2018:_ (1) Regra de Cramer para resolver sist. linear, (2) Método de Gauss e Gauss-Jordan e (3) Sistemas lineares retangulares <br/>((1) Notas de Aula, (2) A.45.1, (3) A.45.2 e A.45.3)
