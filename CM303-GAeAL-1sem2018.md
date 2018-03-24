@@ -4,6 +4,8 @@ title: CM303 Turma A - Introd. a Geom. Analítica e Álg. Linear - Eng. Cartogr�
 permalink: /CM303-GAeAL-1sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 24/03/2018: Lista de exercícios 03 adicionada. Fica a dica: se possível, façam as contas dos exercícios sem calculadora.
+
 - Postado em 17/03/2018: OLHA SÓ a lista de exercícios 02 que eu coloquei no site. Tá BUNITO!
 
 - Postado em 07/03/2018: Sala de aula alterada para PQ-13 e PA-09, Sala de monitoria alterada
