@@ -72,7 +72,9 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
   
   A.37.1 - 4 até 13, 21 até 26
 
+- [Lista 3 - Sistemas Lineares](/disciplinas1sem2018/ListaExerc03 - CM303.pdf): Seção A.46.1 - Steinbruch, Winterle
 
+  A.46.1 - Todos os exercícios (1 até 37)
 
 <h3>Aulas Dadas</h3>
 
