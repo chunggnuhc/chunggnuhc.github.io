@@ -59,6 +59,8 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
 
 <h3>Notas</h3>
 
+- [Nota P1](/disciplinas1sem2018/Nota P1 - CM303 - Site.pdf)
+
 
 <h3>Listas de Exercícios</h3>
 
