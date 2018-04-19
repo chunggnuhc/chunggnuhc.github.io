@@ -110,11 +110,9 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
   
   _22/03/2018:_ (1) Regra de Cramer para resolver sist. linear, (2) Método de Gauss e Gauss-Jordan e (3) Sistemas lineares retangulares <br/>((1) Notas de Aula, (2) A.45.1, (3) A.45.2 e A.45.3 - AlgeLin - Steinbruch,Winterle)
   
-  _24/03/2018:_ Aula de Exercícios
+  _27/03/2018:_ Aula de Exercícios
   
   _29/03/2018:_ Prova P1
-  
-  _31/03/2018:_ Recesso acadêmico devido ao Feriado da Páscoa
   
   _03/04/2018:_ Introdução à Vetor no Espaço Bidimensional <br/>(Notas de Aula, cap. 2.4 e 1.2.4 - GAnalítica - Steinbruch,Winterle)
   
