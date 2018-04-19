@@ -4,6 +4,8 @@ title: CM303 Turma A - Introd. a Geom. Analítica e Álg. Linear - Eng. Cartogr�
 permalink: /CM303-GAeAL-1sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 18/04/2018: Lista de exercícios 04 adicionada. Vista da Prova P1 será no dia 19/04/2018 das 13h até 13h30min, no Anfiteatro A.
+
 - Postado em 24/03/2018: Lista de exercícios 03 adicionada. Fica a dica: se possível, façam as contas dos exercícios sem calculadora.
 
 - Postado em 17/03/2018: OLHA SÓ a lista de exercícios 02 que eu coloquei no site. Tá BUNITO!
@@ -76,9 +78,15 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
   
   A.37.1 - 4 até 13, 21 até 26
 
-- [Lista 3 - Sistemas Lineares](/disciplinas1sem2018/ListaExerc03 - CM303.pdf): Seção A.46.1 - Steinbruch, Winterle
+- [Lista 3 - Sistemas Lineares](/disciplinas1sem2018/ListaExerc03 - CM303.pdf): Seção A.46.1 de AlgeLin - Steinbruch, Winterle
 
   A.46.1 - Todos os exercícios (1 até 37)
+  
+- [Lista 4 - Vetores](/disciplinas1sem2018/ListaExerc04 - CM303.pdf): Seção 2.8 e 3.16 de GAnalítica - Steinbruch, Winterle
+
+  2.8 - Todos os exercícios (1 até 15)
+  
+  3.16 - Exercícios 1 até 63
 
 <h3>Aulas Dadas</h3>
 
@@ -98,6 +106,22 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
   
   _15/03/2018:_ (1) Resoluções de Equações com matrizes e (2) Introdução a sistemas lineares <br/>((1) cap. A.37 Questão 8 a 10, (2) A.38 a A.40 - AlgeLin - Steinbruch,Winterle)
   
-  _20/03/2018:_ (1) Método da Matriz Inversa e (2) Regra de Cramer para determinar matriz inversa <br/>((1) cap. A.45.1.2, (2) Notas de Aula)
+  _20/03/2018:_ (1) Método da Matriz Inversa e (2) Regra de Cramer para determinar matriz inversa <br/>((1) cap. A.45.1.2 - AlgeLin - Steinbruch,Winterle, (2) Notas de Aula)
   
-  _22/03/2018:_ (1) Regra de Cramer para resolver sist. linear, (2) Método de Gauss e Gauss-Jordan e (3) Sistemas lineares retangulares <br/>((1) Notas de Aula, (2) A.45.1, (3) A.45.2 e A.45.3)
+  _22/03/2018:_ (1) Regra de Cramer para resolver sist. linear, (2) Método de Gauss e Gauss-Jordan e (3) Sistemas lineares retangulares <br/>((1) Notas de Aula, (2) A.45.1, (3) A.45.2 e A.45.3 - AlgeLin - Steinbruch,Winterle)
+  
+  _24/03/2018:_ Aula de Exercícios
+  
+  _29/03/2018:_ Prova P1
+  
+  _31/03/2018:_ Recesso acadêmico devido ao Feriado da Páscoa
+  
+  _03/04/2018:_ Introdução à Vetor no Espaço Bidimensional <br/>(Notas de Aula, cap. 2.4 e 1.2.4 - GAnalítica - Steinbruch,Winterle)
+  
+  _05/04/2018:_ (1) Operações com Vetores e suas propriedades, Vetor Unitário e (2) Ângulo entre vetores <br/>((1)cap. 1.5 e (2)cap 1.7 - GAnalítica - Steinbruch,Winterle)
+  
+  _10/04/2018:_ Vetor no Espaço Tridimensional <br/>(cap. 2.1, 2.2, 2.5 e 2.6 - GAnalítica - Steinbruch,Winterle)
+
+  _12/04/2018:_ Produto Escalar e suas propriedades <br/>(cap. 3.1, até 3.3 - GAnalítica - Steinbruch,Winterle)
+
+  _17/04/2018:_ (1) Vetores Paralelos, (2) Ponto Médio e (3) Cálculo do ângulo entre vetores <br/>((1) cap. 2.7, (2) cap. 2.7.1 exercício 7, (3) cap. 3.4, 3.4.1 e 3.4.2 - GAnalítica - Steinbruch,Winterle)
