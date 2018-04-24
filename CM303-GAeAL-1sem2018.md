@@ -86,7 +86,7 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
 
   2.8 - Todos os exercícios (1 até 15)
   
-  3.16 - Exercícios 1 até 63
+  3.16 - Exercícios 1 até 24, 27 até 34, 36 até 49, 51 até 63
 
 <h3>Aulas Dadas</h3>
 
