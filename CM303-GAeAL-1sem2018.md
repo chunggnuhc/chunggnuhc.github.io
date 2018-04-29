@@ -86,7 +86,7 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
 
   2.8 - Todos os exercícios (1 até 15)
   
-  3.16 - Exercícios 1 até 24, 27 até 34, 36 até 49, 51 até 63
+  3.16 - Exercícios 1 até 24, 27, 29 até 34, 36 até 49, 51 até 63
 
 <h3>Aulas Dadas</h3>
 
@@ -123,3 +123,9 @@ obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça a
   _12/04/2018:_ Produto Escalar e suas propriedades <br/>(cap. 3.1, até 3.3 - GAnalítica - Steinbruch,Winterle)
 
   _17/04/2018:_ (1) Vetores Paralelos, (2) Ponto Médio e (3) Cálculo do ângulo entre vetores <br/>((1) cap. 2.7, (2) cap. 2.7.1 exercício 7, (3) cap. 3.4, 3.4.1 e 3.4.2 - GAnalítica - Steinbruch,Winterle)
+  
+  _19/04/2018:_ Introdução à Projeção Ortogonal <br/>( cap. 3.6 - GAnalítica - Steinbruch,Winterle)  
+
+  _24/04/2018:_ Introdução à Produto Vetorial <br/>( cap. 3.8 - GAnalítica - Steinbruch,Winterle)
+  
+  _26/04/2018:_ (1) Propriedades de Prod. Vetorial, (2) Aplicação: Área de Paralelogramo <br/>((1) cap. 3.9, (2) cap. 3.10 - GAnalítica - Steinbruch,Winterle)
