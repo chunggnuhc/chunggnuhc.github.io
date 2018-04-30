@@ -55,9 +55,7 @@ permalink: /CM303-GAeAL-1sem2018/
 
 <h3>Horário de Atendimento</h3>
 
-- Quinta-Feira, das 13h até 14h, no Anfiteatro A (Bloco PC)
-
-obs.: O horário de atendimento no dia é cancelado caso nenhum aluno apareça até 13h30min.
+- Consultar horário de atendimento dos monitores selecionados pelo DMAT ou mandar email agendando um horário de atendimento (kally.chung@ufpr.br).
 
 <h3>Notas</h3>
 
