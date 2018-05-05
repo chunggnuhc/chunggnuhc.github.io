@@ -122,8 +122,14 @@ permalink: /CM303-GAeAL-1sem2018/
 
   _17/04/2018:_ (1) Vetores Paralelos, (2) Ponto Médio e (3) Cálculo do ângulo entre vetores <br/>((1) cap. 2.7, (2) cap. 2.7.1 exercício 7, (3) cap. 3.4, 3.4.1 e 3.4.2 - GAnalítica - Steinbruch,Winterle)
   
-  _19/04/2018:_ Introdução à Projeção Ortogonal <br/>( cap. 3.6 - GAnalítica - Steinbruch,Winterle)  
+  _19/04/2018:_ Introdução à Projeção Ortogonal <br/>(cap. 3.6 - GAnalítica - Steinbruch,Winterle)  
 
-  _24/04/2018:_ Introdução à Produto Vetorial <br/>( cap. 3.8 - GAnalítica - Steinbruch,Winterle)
+  _24/04/2018:_ Introdução à Produto Vetorial <br/>(cap. 3.8 - GAnalítica - Steinbruch,Winterle)
   
   _26/04/2018:_ (1) Propriedades de Prod. Vetorial, (2) Aplicação: Área de Paralelogramo <br/>((1) cap. 3.9, (2) cap. 3.10 - GAnalítica - Steinbruch,Winterle)
+
+  _01/05/2018:_ Não houve aula, devido ao Feriado do Dia do Trabalho
+  
+  _03/05/2018:_ Aula de Exercícios
+  
+  _08/05/2018:_ Prova P2
