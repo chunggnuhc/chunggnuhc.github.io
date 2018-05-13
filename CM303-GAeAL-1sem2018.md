@@ -133,3 +133,5 @@ permalink: /CM303-GAeAL-1sem2018/
   _03/05/2018:_ Aula de Exercícios
   
   _08/05/2018:_ Prova P2
+  
+  _10/05/2018:_ Introdução a Autovalores e autovetores <br/>((1) Notas de aulas e (2) cap. 6.2 - AlgeLin - Steinbruch,Winterle)
