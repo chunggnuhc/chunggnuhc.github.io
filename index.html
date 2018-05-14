@@ -15,6 +15,7 @@ title: Últimas notícias
   </div>
   {% endif %}
   <div class="col-xs-9 col-sm-11 news-right">
+    {% if noticia.curso %}<strong>{{ noticia.curso }}</strong>{% endif %}
     {{ noticia.noticia }}
   </div>
   {% assign lastdate = noticia.data %}
