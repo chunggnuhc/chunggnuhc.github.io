@@ -1,6 +1,6 @@
 - data: 2018-05-28
   curso: "Todos os cursos"
-  noticia: "<a href="http://www.ufpr.br/portalufpr/noticias/ufpr-suspende-atividades-academicas-ate-quarta-feira-30/"> Nao haverá aula dia 29/05/2018.</a>"
+  noticia: <a href="http://www.ufpr.br/portalufpr/noticias/ufpr-suspende-atividades-academicas-ate-quarta-feira-30/"> Nao haverá aula dia 29/05/2018.</a>
 - data: 2018-05-13
   curso: "Todos os cursos"
   noticia: Conheçam o <a href="http://ambamind.com.br/programa-de-atencao-e-resiliencia-academica/sobre"> Programa Atenção e Resiliência Acadêmica (PARA)</a>
