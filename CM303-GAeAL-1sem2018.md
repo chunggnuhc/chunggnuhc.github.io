@@ -135,3 +135,17 @@ permalink: /CM303-GAeAL-1sem2018/
   _08/05/2018:_ Prova P2
   
   _10/05/2018:_ Introdução a Autovalores e autovetores <br/>((1) Notas de aulas e (2) cap. 6.2 - AlgeLin - Steinbruch,Winterle)
+
+  _15/05/2018:_ Autovalores e autovetores <br/>((1) Notas de aulas e (2) cap. 6.2 - AlgeLin - Steinbruch,Winterle)
+
+  _17/05/2018:_ Diagonalização de matrizes não simétricas e simétricas <br/>((1) Notas de aulas e (2) cap. 6.4 e 6.5 - AlgeLin - Steinbruch,Winterle)
+  
+  _22/05/2018:_ Cônicas: Parábola <br/>((1) cap. 7.1 - GAnalítica - Steinbruch,Winterle)  
+  
+  _24/05/2018:_ Cônicas: Elipse <br/>((1) cap. 7.2 - GAnalítica - Steinbruch,Winterle)  
+  
+  _29/05/2018:_ Recesso acadêmico devido à greve dos caminhoneiros    
+  
+  _31/05/2018:_ Recesso acadêmico devido ao Feriado de Corpus Christi
+  
+  _05/06/2018:_ Cônicas: Elipse <br/>((1) cap. 7.3 - GAnalítica - Steinbruch,Winterle)  
