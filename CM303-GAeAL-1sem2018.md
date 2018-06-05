@@ -160,4 +160,4 @@ permalink: /CM303-GAeAL-1sem2018/
   
   _31/05/2018:_ Recesso acadêmico devido ao Feriado de Corpus Christi
   
-  _05/06/2018:_ Cônicas: Elipse <br/>((1) cap. 7.3 - GAnalítica - Steinbruch,Winterle)  
+  _05/06/2018:_ Cônicas: Hipérbole <br/>((1) cap. 7.3 - GAnalítica - Steinbruch,Winterle)  
