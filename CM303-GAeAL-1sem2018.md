@@ -86,6 +86,18 @@ permalink: /CM303-GAeAL-1sem2018/
   
   3.16 - Exercícios 1 até 24, 27, 29 até 34, 36 até 49, 51 até 63
 
+- [Lista 5 - Autovalores e autovetores e Diagonalização de Matrizes](/disciplinas1sem2018/ListaExerc05 - CM303.pdf): Seção 6.6 de AlgeLin - Steinbruch, Winterle 
+
+  6.6 - Exercícios 1, 3, 11, 13
+  
+- [Lista 6 - Cônicas](/disciplinas1sem2018/ListaExerc06 - CM303.pdf): Seção 7.1.6, 7.2.4 e 7.3.4 de GAnalítica - Steinbruch, Winterle
+  
+  7.1.6 - Todos os exercícios
+
+  7.2.4 - Todos os exercícios
+
+  7.3.4 - Todos os exercícios
+
 <h3>Aulas Dadas</h3>
 
 - _20/02/2018:_ Não houve aula, devido à Semana de Calouros
