@@ -100,6 +100,12 @@ permalink: /CM303-GAeAL-1sem2018/
 
   7.3.4 - Todos os exercícios
 
+- [Lista 7 - Formas Quádricas](/disciplinas1sem2018/ListaExerc07 - CM303.pdf): Seção 7.5 de AlgeLin - Steinbruch, Winterle
+  
+  7.5 - Exercícios 1, 3 até 24
+
+  Obs.: No exercício 1, haverá alguns casos de cônicas degeneradas. Consulte seção 7.4 de AlgeLin - Steinbruch, Winterle.
+  
 <h3>Aulas Dadas</h3>
 
 - _20/02/2018:_ Não houve aula, devido à Semana de Calouros
@@ -148,18 +154,20 @@ permalink: /CM303-GAeAL-1sem2018/
   
   _08/05/2018:_ Prova P2
   
-  _10/05/2018:_ Introdução a Autovalores e autovetores <br/>((1) Notas de aulas e (2) cap. 6.2 - AlgeLin - Steinbruch,Winterle)
+  _10/05/2018:_ Introdução a Autovalores e autovetores <br/>(Notas de aulas e cap. 6.2 - AlgeLin - Steinbruch,Winterle)
 
-  _15/05/2018:_ Autovalores e autovetores <br/>((1) Notas de aulas e (2) cap. 6.2 - AlgeLin - Steinbruch,Winterle)
+  _15/05/2018:_ Autovalores e autovetores <br/>(Notas de aulas e cap. 6.2 - AlgeLin - Steinbruch,Winterle)
 
-  _17/05/2018:_ Diagonalização de matrizes não simétricas e simétricas <br/>((1) Notas de aulas e (2) cap. 6.4 e 6.5 - AlgeLin - Steinbruch,Winterle)
+  _17/05/2018:_ Diagonalização de matrizes não simétricas e simétricas <br/>(Notas de aulas e cap. 6.4 e 6.5 - AlgeLin - Steinbruch,Winterle)
   
-  _22/05/2018:_ Cônicas: Parábola <br/>((1) cap. 7.1 - GAnalítica - Steinbruch,Winterle)  
+  _22/05/2018:_ Cônicas: Parábola <br/>(cap. 7.1 - GAnalítica - Steinbruch,Winterle)  
   
-  _24/05/2018:_ Cônicas: Elipse <br/>((1) cap. 7.2 - GAnalítica - Steinbruch,Winterle)  
+  _24/05/2018:_ Cônicas: Elipse <br/>(cap. 7.2 - GAnalítica - Steinbruch,Winterle)  
   
   _29/05/2018:_ Recesso acadêmico devido à greve dos caminhoneiros    
   
   _31/05/2018:_ Recesso acadêmico devido ao Feriado de Corpus Christi
   
-  _05/06/2018:_ Cônicas: Hipérbole <br/>((1) cap. 7.3 - GAnalítica - Steinbruch,Winterle)  
+  _05/06/2018:_ Cônicas: Hipérbole <br/>(cap. 7.3 - GAnalítica - Steinbruch,Winterle)  
+  
+  _07/06/2018:_ Formas Quadráticas <br/>(cap. 7.1 até 7.3 - AlgeLin - Steinbruch,Winterle)  
