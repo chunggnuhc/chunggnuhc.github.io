@@ -59,10 +59,11 @@ permalink: /CM303-GAeAL-1sem2018/
 
 - Consultar horário de atendimento dos monitores selecionados pelo DMAT ou mandar email agendando um horário de atendimento (kally.chung@ufpr.br).
 
-<h3>Notas</h3>
+<h3>Notas</h3> 
 
-- [Nota P1](/disciplinas1sem2018/Nota P1 - CM303 - Site.pdf)
+- [Nota P1 - De 0 a 100](/disciplinas1sem2018/Nota P1 - CM303 - Site.pdf)
 
+- [Nota P2 - De 0 a 100](/disciplinas1sem2018/Nota P2 - CM303 - Site.pdf)
 
 <h3>Listas de Exercícios</h3>
 
