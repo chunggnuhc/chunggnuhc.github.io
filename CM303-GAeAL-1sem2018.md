@@ -41,9 +41,9 @@ permalink: /CM303-GAeAL-1sem2018/
 
 <h3>Avaliação</h3>
 
-- Prova 1 (P1): 29/03 (Lista 1 até Lista 3)
+- Prova 1 (P1): 29/03 (Lista 1 até Lista 3) - [Prova 1](/disciplinas1sem2018/Prova1 - CM303 A.pdf)
   
-  Prova 2 (P2): 08/05
+  Prova 2 (P2): 08/05 - [Prova 2](/disciplinas1sem2018/cm303-prova2a-1.pdf)
   
   Prova 3 (P3): 14/06
   
@@ -66,6 +66,8 @@ permalink: /CM303-GAeAL-1sem2018/
 - [Nota P1 - De 0 a 100](/disciplinas1sem2018/Nota P1 - CM303 - Site.pdf)
 
 - [Nota P2 - De 0 a 100](/disciplinas1sem2018/Nota P2 - CM303 - Site.pdf)
+
+- [Nota P3 - De 0 a 100](/disciplinas1sem2018/Nota P3 - CM303 - Site.pdf)
 
 <h3>Listas de Exercícios</h3>
 
