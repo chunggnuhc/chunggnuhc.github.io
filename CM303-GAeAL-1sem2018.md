@@ -4,6 +4,8 @@ title: CM303 Turma A - Introd. a Geom. Analítica e Álg. Linear - Eng. Cartogr�
 permalink: /CM303-GAeAL-1sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 20/06/2018: Notas da P3 disponibilizadas. Vista da prova P3 será no dia 21/06/2018 (quinta-feita), às <strike>13h</strike> 13h, na sala dos professores, 3o. andar da PA. Provas 1 e 2.
+
 - Postado em 10/06/2018: Notas da P2 disponibilizadas. Vista da prova P2 será no dia 12/06/2018 (quinta-feita), às <strike>15h</strike> 13h, na sala dos professores, 3o. andar da PA.
 
 - Postado em 06/06/2018: Lista de exercícios 05 e 06 adicionadas.
