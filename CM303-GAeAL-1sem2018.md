@@ -47,9 +47,9 @@ permalink: /CM303-GAeAL-1sem2018/
   
   Prova 2 (P2): 08/05 - [Prova 2](/disciplinas1sem2018/cm303-prova2a-1.pdf)
   
-  Prova 3 (P3): 14/06
+  Prova 3 (P3): 14/06 - [Prova 3](/disciplinas1sem2018/cm303-prova3a.pdf)
   
-  Substitutiva (PSub): 21/06 - Substitui a menor nota entre P1, P2 e P3
+  Substitutiva (PSub): 21/06 - Substitui a menor nota entre P1, P2 e P3 - [Prova Sub](/disciplinas1sem2018/cm303-provaSubA.pdf)
   
   Final: 03/07
   
@@ -70,6 +70,8 @@ permalink: /CM303-GAeAL-1sem2018/
 - [Nota P2 - De 0 a 100](/disciplinas1sem2018/Nota P2 - CM303 - Site.pdf)
 
 - [Nota P3 - De 0 a 100](/disciplinas1sem2018/Nota P3 - CM303 - Site.pdf)
+
+- [Nota PSub - De 0 a 100](/disciplinas1sem2018/Nota PSub - CM303 - Site.pdf)
 
 <h3>Listas de Exercícios</h3>
 
