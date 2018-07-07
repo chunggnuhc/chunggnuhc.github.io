@@ -75,6 +75,8 @@ permalink: /CM303-GAeAL-1sem2018/
 
 - [Nota PSub - De 0 a 100](/disciplinas1sem2018/Nota PSub - CM303 - Site.pdf)
 
+- Nota PFinal - De 0 a 100
+
 <h3>Listas de Exercícios</h3>
 
 - [Lista 1 - Operações com Matrizes](/disciplinas1sem2018/ListExerc1 - CM303.pdf): Seção A.8.1 e A.16.1 de AlgeLin - Steinbruch, Winterle
