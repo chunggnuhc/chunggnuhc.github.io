@@ -77,7 +77,7 @@ permalink: /CM303-GAeAL-1sem2018/
 
 - [Nota PSub - De 0 a 100](/disciplinas1sem2018/Nota PSub - CM303 - Site.pdf)
 
-- [Nota PFinal - De 0 a 100](/disciplinas1sem2018/Nota PSub - CM303 - Site.pdf)
+- [Nota PFinal - De 0 a 100](/disciplinas1sem2018/Nota PFinal - CM303 - Site.pdf)
 
 <h3>Listas de Exercícios</h3>
 
