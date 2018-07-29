@@ -97,7 +97,7 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   _16/10/2018:_  
   
-  _18/10/2018:_ Não houve aula devido ao Feriado 
+  _18/10/2018:_ 
   
   _23/10/2018:_  
   
