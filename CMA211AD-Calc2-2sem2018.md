@@ -32,7 +32,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Substitutiva: 30/11 - Substitui a menor nota entre P1, P2 e P3
   
-  Final: 12/07
+  Final: 12/12
 
   <b>Média M = (P1+P2+P3)/3</b>
 
