@@ -16,9 +16,9 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 - Cálculo Vol. 2
 
-Autor: James Stewart
+  Autor: James Stewart
 
-Editora Cengage Learning
+  Editora Cengage Learning
 
 
 
