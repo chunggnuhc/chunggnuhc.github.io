@@ -5,18 +5,13 @@
     "icon": "fa-newspaper-o"
   },
   {
-    "text": "CM 045 - GA",
-    "url": "/CM045-GA-1sem2018/",
+    "text": "CMA 211 - Diurno",
+    "url": "/CMA211-Calc2-2sem2018/",
     "icon": "fa-graduation-cap"
   },
   {
-    "text": "CM 202 - Calc 2",
-    "url": "/CM202-Calc2-1sem2018/",
+    "text": "CMA 211 - Noturno",
+    "url": "/CMA211-Calc2-2sem2018/",
     "icon": "fa-graduation-cap"
   },
-  {
-    "text": "CM 303 - GA + AL",
-    "url": "/CM303-GAeAL-1sem2018/",
-    "icon": "fa-graduation-cap"
-  }
 ]
