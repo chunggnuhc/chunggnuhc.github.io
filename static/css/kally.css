@@ -1,0 +1,27 @@
+.menu ul li a {
+    color: white;
+}
+
+.menu ul li.current-menu-item a {
+    background-color: #FFA726; /* AQUI */
+    color: black;
+}
+
+.menu ul li a:hover, .menu ul li a:focus {
+    background-color: #FFD54F; /* AQUI */
+}
+
+.header-panel.shadow-z-2, .container-fluid, body .container .well-primary, .well {
+    background-color: #0288D1; /* AQUI */
+}
+
+a, a:visited {
+    color: #0288D1; /* AQUI */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:focus, a:hover {
+    color: #29B6F6; /* AQUI */
+    text-decoration: underline;
+}
