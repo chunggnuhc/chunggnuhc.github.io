@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
-permalink: /CM202-Calc2-1sem2018/
+permalink: /CM202AD-Calc2-1sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
 
