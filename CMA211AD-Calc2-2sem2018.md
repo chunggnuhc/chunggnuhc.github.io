@@ -6,7 +6,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
 <h1><b><i>Importante!</i></b></h1>
 
 <h3>Local e Horário das Aulas</h3>
-- Segunda-feira, de 13h30min às 15h30min, sala <strike>PG-04<\strike> EQ 13
+- Segunda-feira, de 13h30min às 15h30min, sala <strike>PG-04</strike> EQ 13
 
   Quarta-feira, de 13h30min às 15h30min, sala PG-04
   
