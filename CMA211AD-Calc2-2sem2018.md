@@ -52,9 +52,9 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 <h3>Aulas Dadas</h3>
 
-- _30/07/2018:_ 
+- _30/07/2018:_ Não houve aula devido ao problema de ensalamento
 
-  _01/08/2018:_ 
+  _01/08/2018:_ Função Vetorial: Domínio, Imagem, Curva, Eq. Paramétrica e Eq. Cartesiana (Cap. 13.1 - Stewart)
   
   _03/08/2018:_   
 
