@@ -22,7 +22,7 @@ permalink: /CMA211AN-Calc2-2sem2018/
 
 <h3>Avaliação</h3>
 
-- Prova 1: 30/08
+- Prova 1: <strike>30/08</strike> 23/08
 
   Prova 2: 11/10
   
@@ -49,7 +49,7 @@ permalink: /CMA211AN-Calc2-2sem2018/
 
 <h3>Aulas Dadas</h3>
 
-- _31/07/2018:_ 
+- _31/07/2018:_ Função Vetorial: Domínio, Imagem, Curva, Eq. Paramétrica e Eq. Cartesiana (Cap. 13.1 - Stewart)
 
   _02/08/2018:_ 
   
@@ -67,9 +67,9 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   _23/08/2018:_ 
   
-  _28/08/2018:_ 
+  _28/08/2018:_ Não houve aula devido à Semana Acadêmica da Eng. Mecânica
   
-  _30/08/2018:_ 
+  _30/08/2018:_ Não houve aula devido à Semana Acadêmica da Eng. Mecânica
   
   _04/09/2018:_ 
   
