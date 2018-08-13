@@ -50,7 +50,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 <h3>Listas de Exercícios</h3>
 
-- [Lista 1](/disciplinas2sem2018/ListaExerc01 - CM211AD.pdf): Cap 13
+- [Lista 1](/disciplinas2sem2018/ListaExerc01 - CMA211AD.pdf): Cap 13
 
   Cap 13.1: Exercícios 1 até 20, 27 até 30, 39 até 44, 47, 48
   
