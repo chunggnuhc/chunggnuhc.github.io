@@ -50,19 +50,28 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 <h3>Listas de Exercícios</h3>
 
+- [Lista 1](/disciplinas2sem2018/ListaExerc01 - CM211AD.pdf): Cap 13
+
+  Cap 13.1: Exercícios 1 até 20, 27 até 30, 39 até 44, 47, 48
+  
+  Cap 13.2: Exercícios 2 até 32, 35 até 42, 49 até 56
+  
+  Cap 13.3: Exercícios 1 até 6, 11 até 16
+  
+
 <h3>Aulas Dadas</h3>
 
 - _30/07/2018:_ Não houve aula devido ao problema de ensalamento
 
   _01/08/2018:_ Função Vetorial: Domínio, Imagem, Curva, Eq. Paramétrica e Eq. Cartesiana (Cap. 13.1 - Stewart)
   
-  _03/08/2018:_   
+  _03/08/2018:_ Função Vetorial: Problemas de intersecção (Cap. 13.1 - Stewart)
 
-  _06/08/2018:_ 
+  _06/08/2018:_ Função Vetorial: Limite e Continuidade (Cap. 13.1 - Stewart)
   
-  _08/08/2018:_ 
+  _08/08/2018:_ Função Vetorial: Derivada, Integral (Cap. 13.2 - Stewart) e Comprimento de Curva (Cap. 13.3 - Stewart)
   
-  _10/08/2018:_ 
+  _10/08/2018:_ Função Vetorial: Função Comprimento de Curva (Cap. 13.3 - Stewart) e Função de Duas Variáveis (Cap. 14.1 - Stewart)
   
   _13/08/2018:_ 
   
