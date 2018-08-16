@@ -58,6 +58,12 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Cap 13.3: Exercícios 1 até 6, 11 até 16
   
+- [Lista 2](/disciplinas2sem2018/ListaExerc02 - CMA211AD.pdf): Cap 14.1
+
+  Cap 14.1: Exercícios 8 até 31, 33 até 35, 43 até 50, 65 até 68
+  
+  Cap 14.2: Exercícios 5 até 22, 25 até 26, 29 até 38, 44 até 45
+
 
 <h3>Aulas Dadas</h3>
 
@@ -73,9 +79,9 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _10/08/2018:_ Função Vetorial: Função Comprimento de Curva (Cap. 13.3 - Stewart) e Função de Duas Variáveis (Cap. 14.1 - Stewart)
   
-  _13/08/2018:_ 
+  _13/08/2018:_ Função de Duas Variáveis: Domínio, Imagem, e Gráfico (Cap 14.1 - Stewart) 
   
-  _15/08/2018:_ 
+  _15/08/2018:_ Função de Duas Variáveis: Limite e Continuidade (Cap 14.2 - Stewart)
   
   _17/08/2018:_ 
   
