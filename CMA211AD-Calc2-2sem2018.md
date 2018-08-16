@@ -4,6 +4,8 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 15/08/2018: Lista 2 de exercícios disponibilizada.
+
 - Postado em 02/08/2018: Alteração da data da P1 devido à Semana Acadêmica da Eng. Mecânica
 
 <h3>Local e Horário das Aulas</h3>
