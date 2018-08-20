@@ -4,6 +4,8 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 20/08/2018: Lista 3 de exercícios disponibilizada.
+
 - Postado em 15/08/2018: Lista 2 de exercícios disponibilizada.
 
 - Postado em 02/08/2018: Alteração da data da P1 devido à Semana Acadêmica da Eng. Mecânica
@@ -27,7 +29,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 <h3>Avaliação</h3>
 
-- Prova 1: <strike>31/08</strike> 24/08
+- Prova 1: <strike>31/08</strike> 24/08 (Lista 1 até Lista 3)
 
   Prova 2: 10/10
   
@@ -60,12 +62,17 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Cap 13.3: Exercícios 1 até 6, 11 até 16
   
-- [Lista 2](/disciplinas2sem2018/ListaExerc02 - CMA211AD.pdf): Cap 14.1
+- [Lista 2](/disciplinas2sem2018/ListaExerc02 - CMA211AD.pdf): Cap 14.1 e 14.2
 
   Cap 14.1: Exercícios 8 até 31, 33 até 35, 43 até 50, 65 até 68
   
   Cap 14.2: Exercícios 5 até 22, 25 até 26, 29 até 38, 44 até 45
 
+- [Lista 3](/disciplinas2sem2018/ListaExerc03 - CMA211AD.pdf): Cap 14.3 e 14.4
+
+  Cap 14.3: Exercícios 15 até 50, 53 até 58, 63 até 92, 94 até 96, 98 até 101
+  
+  Cap 14.4: Exercícios 1 até 6, 11 até 18
 
 <h3>Aulas Dadas</h3>
 
@@ -85,7 +92,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _15/08/2018:_ Função de Duas Variáveis: Limite e Continuidade (Cap 14.2 - Stewart)
   
-  _17/08/2018:_ 
+  _17/08/2018:_ Função de Duas Variáveis: Derivadas Parciais (Cap 14.3 - Stewart)
   
   _20/08/2018:_ 
   
