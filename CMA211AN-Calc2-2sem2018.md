@@ -4,6 +4,7 @@ title: CMA 211 Turma AN - Cálculo 2 - Eng. Mecânica Noturno
 permalink: /CMA211AN-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 20/08/2018: (1) Lista 2 de exercícios disponibilizada, (2) Data da prova P1 alterada.
 
 <h3>Local e Horário das Aulas</h3>
 - Terça-feira, de 18h30min às 21h30min, sala PG-04
@@ -55,7 +56,7 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   Cap 13.3: Exercícios 1 até 6, 11 até 16
   
-- [Lista 2](/disciplinas2sem2018/ListaExerc02 - CMA211AD.pdf): Cap 14.1 e 14.2
+- [Lista 2](/disciplinas2sem2018/ListaExerc02 - CMA211AN.pdf): Cap 14.1 e 14.2
 
   Cap 14.1: Exercícios 8 até 31, 33 até 35, 43 até 50, 65 até 68
   
