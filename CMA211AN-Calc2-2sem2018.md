@@ -22,7 +22,7 @@ permalink: /CMA211AN-Calc2-2sem2018/
 
 <h3>Avaliação</h3>
 
-- Prova 1: <strike>30/08</strike> 23/08
+- Prova 1: <strike>30/08</strike> <strike>23/08<;strike> 06/09
 
   Prova 2: 11/10
   
