@@ -94,11 +94,11 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _17/08/2018:_ Função de Duas Variáveis: Derivadas Parciais (Cap 14.3 - Stewart)
   
-  _20/08/2018:_ 
+  _20/08/2018:_ Função de Duas Variáveis: Planos Tangentes e Aprox. Linear (Cap 14.4 - Stewart)
   
-  _22/08/2018:_ 
+  _22/08/2018:_ Aula de Exercícios
   
-  _24/08/2018:_ 
+  _24/08/2018:_ Prova P1
   
   _27/08/2018:_ Não houve aula devido à Semana Acadêmica da Eng. Mecânica
   
