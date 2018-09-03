@@ -62,6 +62,12 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   Cap 14.2: Exercícios 5 até 22, 25 até 26, 29 até 38, 44 até 45
   
+- [Lista 3](/disciplinas2sem2018/ListaExerc03 - CMA211AN.pdf): Cap 14.3 e 14.4
+
+  Cap 14.3: Exercícios 15 até 50, 53 até 58, 63 até 92, 94 até 96, 98 até 101
+
+  Cap 14.4: Exercícios 1 até 6, 11 até 18
+  
 <h3>Aulas Dadas</h3>
 
 - _31/07/2018:_ Função Vetorial: Domínio, Imagem, Curva, Eq. Paramétrica e Eq. Cartesiana (Cap. 13.1 - Stewart)
@@ -76,17 +82,17 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   _16/08/2018:_ Função de Duas Variáveis: Gráfico (Cap 14.1 - Stewart) e Limite (Cap 14.2 - Stewart)
   
-  _21/08/2018:_ 
+  _21/08/2018:_ Função de Duas Variáveis: Derivadas Parciais (Cap 14.3 - Stewart)
   
-  _23/08/2018:_ 
+  _23/08/2018:_ Função de Duas Variáveis: Planos Tangentes e Aprox. Linear (Cap 14.4 - Stewart)
   
   _28/08/2018:_ Não houve aula devido à Semana Acadêmica da Eng. Mecânica
   
   _30/08/2018:_ Não houve aula devido à Semana Acadêmica da Eng. Mecânica
   
-  _04/09/2018:_ 
+  _04/09/2018:_ Aula de Exercícios
   
-  _06/09/2018:_  
+  _06/09/2018:_ Prova P1
   
   _11/09/2018:_ 
   
