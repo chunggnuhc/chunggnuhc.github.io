@@ -4,6 +4,8 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 10/09/2018: Notas da P1 disponibilizadas. Vista da prova será dia 14/09/2018, 13h, Sala dos Professores no 3o. andar da PA.
+
 - Postado em 20/08/2018: Lista 3 de exercícios disponibilizada.
 
 - Postado em 15/08/2018: Lista 2 de exercícios disponibilizada.
@@ -25,7 +27,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
   Editora Cengage Learning
 
-
+  7a. Edição
 
 <h3>Avaliação</h3>
 
@@ -51,6 +53,8 @@ permalink: /CMA211AD-Calc2-2sem2018/
 - Consultar horário de atendimento dos monitores selecionados pelo DMAT ou mandar email agendando um horário de atendimento (kally.chung@ufpr.br).
 
 <h3>Notas</h3>
+
+- [Notas P1](/disciplinas2sem2018/NotaP1-AD.pdf)
 
 <h3>Listas de Exercícios</h3>
 
@@ -106,13 +110,13 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _31/08/2018:_ Não houve aula devido à Semana Acadêmica da Eng. Mecânica
   
-  _03/09/2018:_ 
+  _03/09/2018:_ Diferenciabilidade e Diferencial dz (Cap 14.4 - Stewart) 
   
-  _05/09/2018:_  
+  _05/09/2018:_ Exemplos com Diferencial dz (Cap 14.4 - Stewart) 
   
   _07/09/2018:_ Não houve aula devido ao Feriado
   
-  _10/09/2018:_  
+  _10/09/2018:_ Regra da Cadeia e Derivação Implícita (Cap 14.5 - Stewart)
   
   _12/09/2018:_  
   
