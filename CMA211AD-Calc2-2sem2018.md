@@ -54,7 +54,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 <h3>Notas</h3>
 
-- [Notas P1](/disciplinas2sem2018/NotaP1-AD.pdf)
+- [Notas P1 (de 0 a 100)](/disciplinas2sem2018/NotaP1-AD.pdf)
 
 <h3>Listas de Exercícios</h3>
 
