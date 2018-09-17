@@ -4,6 +4,8 @@ title: CMA 211 Turma AN - Cálculo 2 - Eng. Mecânica Noturno
 permalink: /CMA211AN-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 16/09/2018: Lista 4 disponibilizada.
+
 - Postado em 20/08/2018: (1) Lista 2 de exercícios disponibilizada, (2) Data da prova P1 alterada.
 
 <h3>Local e Horário das Aulas</h3>
@@ -67,6 +69,12 @@ permalink: /CMA211AN-Calc2-2sem2018/
   Cap 14.3: Exercícios 15 até 50, 53 até 58, 63 até 92, 94 até 96, 98 até 101
 
   Cap 14.4: Exercícios 1 até 6, 11 até 18
+
+- [Lista 4](/disciplinas2sem2018/ListaExerc04 - CMA211AN.pdf): Cap 14.4 e 14.5
+
+  Cap 14.4: Exercícios 19 até 21, 25 até 41
+
+  Cap 14.5: Exercícios 1 até 16, 21 até 34, 45 até 59
   
 <h3>Aulas Dadas</h3>
 
@@ -94,11 +102,11 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   _06/09/2018:_ Prova P1
   
-  _11/09/2018:_ 
+  _11/09/2018:_ Diferenciabilidade e Diferencial dz (Cap 14.4 - Stewart)
   
-  _13/09/2018:_  
+  _13/09/2018:_ Regra da Cadeia e Derivação Implícita (Cap 14.5 - Stewart) 
   
-  _18/09/2018:_  
+  _18/09/2018:_ 
   
   _20/09/2018:_  
   
