@@ -4,6 +4,8 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 16/09/2018: (i) Vista da prova P1 será dia 17/09/2018, após a aula. (ii) Lista 4 disponibilizada.
+
 - Postado em 10/09/2018: Notas da P1 disponibilizadas. Vista da prova será dia 14/09/2018, 13h, Sala dos Professores no 3o. andar da PA.
 
 - Postado em 20/08/2018: Lista 3 de exercícios disponibilizada.
@@ -77,6 +79,12 @@ permalink: /CMA211AD-Calc2-2sem2018/
   Cap 14.3: Exercícios 15 até 50, 53 até 58, 63 até 92, 94 até 96, 98 até 101
   
   Cap 14.4: Exercícios 1 até 6, 11 até 18
+  
+- [Lista 4](/disciplinas2sem2018/ListaExerc04 - CMA211AD.pdf): Cap 14.4 e 14.5
+
+  Cap 14.4: Exercícios 19 até 21, 25 até 41
+  
+  Cap 14.5: Exercícios 1 até 16, 21 até 34, 45 até 59  
 
 <h3>Aulas Dadas</h3>
 
@@ -118,9 +126,9 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _10/09/2018:_ Regra da Cadeia e Derivação Implícita (Cap 14.5 - Stewart)
   
-  _12/09/2018:_  
+  _12/09/2018:_ Derivadas Direcionais e o Vetor Gradiente (Cap 14.6 - Stewart)
   
-  _14/09/2018:_  
+  _14/09/2018:_ Valores Maximo e Mínimo (Cap 14.7 - Stewart)
   
   _17/09/2018:_  
   
