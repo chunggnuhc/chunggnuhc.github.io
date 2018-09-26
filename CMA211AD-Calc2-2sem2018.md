@@ -145,11 +145,11 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _19/09/2018:_ Teorema de Weierstrass ou Teorema do Valor Extremo (Cap. 14.7 - Stewart) 
   
-  _21/09/2018:_ Teorema de Weierstrass ou Teorema do Valor Extremo (Cap. 14.7 - Stewart) 
+  _21/09/2018:_ Multiplicadores de Lagrange (Cap. 14.8 - Stewart) 
   
-  _24/09/2018:_ Multiplicadores de Lagrange (Cap. 14.8 - Stewart) 
+  _24/09/2018:_ Não houve aula devido ao meu estado doentio catastrófico. 
   
-  _26/09/2018:_ Não houve aula devido ao meu estado doentio catastrófico. 
+  _26/09/2018:_ 
   
   _28/09/2018:_  
   
