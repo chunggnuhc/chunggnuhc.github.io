@@ -4,6 +4,8 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 16/09/2018: Lista 5 disponibilizada.
+
 - Postado em 16/09/2018: (i) Vista da prova P1 será dia 17/09/2018, após a aula. (ii) Lista 4 disponibilizada.
 
 - Postado em 10/09/2018: Notas da P1 disponibilizadas. Vista da prova será dia 14/09/2018, 13h, Sala dos Professores no 3o. andar da PA.
@@ -85,6 +87,15 @@ permalink: /CMA211AD-Calc2-2sem2018/
   Cap 14.4: Exercícios 19 até 21, 25 até 41
   
   Cap 14.5: Exercícios 1 até 16, 21 até 34, 45 até 59  
+  
+- [Lista 5](/disciplinas2sem2018/ListaExerc05 - CMA211AD.pdf): Cap 14.6, 14.7 e 14.8
+
+  Cap 14.6: Exercícios 4 até 17, 18 até 29, 32, 35, 38, 41 até 46, 51 até 57
+  
+  Cap 14.7: Exercícios 3 até 18, 29 até 36, 39 até 56
+  
+  Cap 14.8: Exercícios 1, 3 até 14, 19 até 21, 29 até 43
+  
 
 <h3>Aulas Dadas</h3>
 
@@ -128,17 +139,17 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _12/09/2018:_ Derivadas Direcionais e o Vetor Gradiente (Cap 14.6 - Stewart)
   
-  _14/09/2018:_ Valores Maximo e Mínimo (Cap 14.7 - Stewart)
+  _14/09/2018:_ Valores Máximo e Mínimo (Cap 14.7 - Stewart)
   
-  _17/09/2018:_  
+  _17/09/2018:_ Problemas de Otimização (Cap 14.7 - Stewart)
   
-  _19/09/2018:_  
+  _19/09/2018:_ Teorema de Weierstrass ou Teorema do Valor Extremo (Cap. 14.7 - Stewart) 
   
-  _21/09/2018:_  
+  _21/09/2018:_ Teorema de Weierstrass ou Teorema do Valor Extremo (Cap. 14.7 - Stewart) 
   
-  _24/09/2018:_  
+  _24/09/2018:_ Multiplicadores de Lagrange (Cap. 14.8 - Stewart) 
   
-  _26/09/2018:_  
+  _26/09/2018:_ Não houve aula devido ao meu estado doentio catastrófico. 
   
   _28/09/2018:_  
   
