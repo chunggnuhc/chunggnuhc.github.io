@@ -76,6 +76,16 @@ permalink: /CMA211AN-Calc2-2sem2018/
 
   Cap 14.5: Exercícios 1 até 16, 21 até 34, 45 até 59
   
+- [Lista 5](/disciplinas2sem2018/ListaExerc05 - CMA211AD.pdf):Cap 14.6, 14.7 e 14.8
+
+  Cap 14.6: Exercícios 4 até 17, 18 até 29, 32, 35, 38, 41 até 46, 51 até 57
+
+  Cap 14.7: Exercícios 3 até 18, 29 até 36, 39 até 56
+
+  Cap 14.8: Exercícios 1, 3 até 14, 19 até 21, 29 até 43
+
+
+  
 <h3>Aulas Dadas</h3>
 
 - _31/07/2018:_ Função Vetorial: Domínio, Imagem, Curva, Eq. Paramétrica e Eq. Cartesiana (Cap. 13.1 - Stewart)
@@ -106,11 +116,11 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   _13/09/2018:_ Regra da Cadeia e Derivação Implícita (Cap 14.5 - Stewart) 
   
-  _18/09/2018:_ 
+  _18/09/2018:_ Derivadas Direcionais e o Vetor Gradiente (Cap 14.6 - Stewart)
   
-  _20/09/2018:_  
+  _20/09/2018:_ Valores Maximo e Mínimo e Teorema de Weierstrass ou Teorema do Valor Extremo (Cap 14.7 - Stewart) 
   
-  _25/09/2018:_  
+  _25/09/2018:_ Problemas de Otimização e Multiplicadores de Lagrange (Cap 14.7 e 14.8 - Stewart) 
   
   _27/09/2018:_  
   
