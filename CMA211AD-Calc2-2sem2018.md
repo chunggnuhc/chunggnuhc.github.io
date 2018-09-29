@@ -4,7 +4,7 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
-- Postado em 29/09/2018: (i) Data da prova P2 alterada de <strike>10/10<\strike> para 08/10, (ii) Lista 6 disponibilizada.
+- Postado em 29/09/2018: (i) Data da prova P2 alterada de <strike>10/10</strike> para 08/10, (ii) Lista 6 disponibilizada.
 
 - Postado em 16/09/2018: Lista 5 disponibilizada.
 
