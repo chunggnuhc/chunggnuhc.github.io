@@ -98,7 +98,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Cap 14.8: Exercícios 1, 3 até 14, 19 até 21, 29 até 43
   
-- [Lista 6](/disciplinas2sem2018/ListaExerc05 - CMA211AD.pdf): Cap 15.2, 15.3
+- [Lista 6](/disciplinas2sem2018/ListaExerc06 - CMA211AD.pdf): Cap 15.2, 15.3
 
   Cap 15.2: Exercícios 1 até 31
   
