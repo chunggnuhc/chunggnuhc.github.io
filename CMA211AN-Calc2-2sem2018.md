@@ -4,7 +4,7 @@ title: CMA 211 Turma AN - Cálculo 2 - Eng. Mecânica Noturno
 permalink: /CMA211AN-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
-- Postado em 29/09/2018: (i) Não haverá aula devido à semana do EVINCE, (ii) Lista 5 e 6 disponibilizadas.
+- Postado em 29/09/2018: (i) Não haverá aula devido à semana do EVINCE, (ii) Lista 5 e 6 disponibilizadas, (iii) Nota da P1 disponibilizada e a vista da prova será 3a. feira dia 09/10/20178 das 17h30min até 18h15min no 3o. andar da PA, sala dos professores.
 
 - Postado em 16/09/2018: Lista 4 disponibilizada.
 
