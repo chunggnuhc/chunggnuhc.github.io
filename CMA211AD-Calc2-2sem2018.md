@@ -4,6 +4,8 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 29/09/2018: (i) Data da prova P2 alterada de <strike>10/10<\strike> para 08/10, (ii) Lista 6 disponibilizada.
+
 - Postado em 16/09/2018: Lista 5 disponibilizada.
 
 - Postado em 16/09/2018: (i) Vista da prova P1 será dia 17/09/2018, após a aula. (ii) Lista 4 disponibilizada.
@@ -37,7 +39,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 - Prova 1: <strike>31/08</strike> 24/08 (Lista 1 até Lista 3)
 
-  Prova 2: 10/10
+  Prova 2: <strike>10/10</strike> 08/10
   
   Prova 3: 23/11
   
@@ -96,6 +98,12 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Cap 14.8: Exercícios 1, 3 até 14, 19 até 21, 29 até 43
   
+- [Lista 6](/disciplinas2sem2018/ListaExerc05 - CMA211AD.pdf): Cap 15.2, 15.3
+
+  Cap 15.2: Exercícios 1 até 31
+  
+  Cap 15.3: Exercícios 1 até 10, 13 até 32, 35 até 36, 43 até 55
+  
 
 <h3>Aulas Dadas</h3>
 
@@ -149,9 +157,9 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _24/09/2018:_ Não houve aula devido ao meu estado doentio catastrófico. 
   
-  _26/09/2018:_ 
+  _26/09/2018:_ Polinômio de Taylor (Cap 14.7 - Projeto de Descoberta - Stewart) e Integral Dupla (Cap. 15.2 - Stewart)
   
-  _28/09/2018:_  
+  _28/09/2018:_ Integral Dupla (Cap. 15.2 - Stewart) 
   
   _01/10/2018:_  
   
