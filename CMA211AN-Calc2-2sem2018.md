@@ -4,6 +4,8 @@ title: CMA 211 Turma AN - Cálculo 2 - Eng. Mecânica Noturno
 permalink: /CMA211AN-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 29/09/2018: (i) Não haverá aula devido à semana do EVINCE, (ii) Lista 5 e 6 disponibilizadas.
+
 - Postado em 16/09/2018: Lista 4 disponibilizada.
 
 - Postado em 20/08/2018: (1) Lista 2 de exercícios disponibilizada, (2) Data da prova P1 alterada.
@@ -27,7 +29,7 @@ permalink: /CMA211AN-Calc2-2sem2018/
 
 - Prova 1: <strike>30/08</strike> <strike>23/08</strike> 06/09 (Lista 1 até Lista 3)
 
-  Prova 2: 11/10
+  Prova 2: 11/10 (Lista 4 até 6)
   
   Prova 3: 22/11
   
@@ -47,6 +49,8 @@ permalink: /CMA211AN-Calc2-2sem2018/
 - Consultar horário de atendimento dos monitores selecionados pelo DMAT ou mandar email agendando um horário de atendimento (kally.chung@ufpr.br).
 
 <h3>Notas</h3>
+
+- [Notas P1 (de 0 a 100)](/disciplinas2sem2018/NotaP1-AN.pdf)
 
 <h3>Listas de Exercícios</h3>
 
@@ -76,7 +80,7 @@ permalink: /CMA211AN-Calc2-2sem2018/
 
   Cap 14.5: Exercícios 1 até 16, 21 até 34, 45 até 59
   
-- [Lista 5](/disciplinas2sem2018/ListaExerc05 - CMA211AD.pdf):Cap 14.6, 14.7 e 14.8
+- [Lista 5](/disciplinas2sem2018/ListaExerc05 - CMA211AD.pdf): Cap 14.6, 14.7 e 14.8
 
   Cap 14.6: Exercícios 4 até 17, 18 até 29, 32, 35, 38, 41 até 46, 51 até 57
 
@@ -84,7 +88,12 @@ permalink: /CMA211AN-Calc2-2sem2018/
 
   Cap 14.8: Exercícios 1, 3 até 14, 19 até 21, 29 até 43
 
+- [Lista 6](/disciplinas2sem2018/ListaExerc06 - CMA211AD.pdf): Cap 15.2 e 15.3
 
+  Cap 15.2: Exercícios 1 até 31
+
+  Cap 15.3: Exercícios 1 até 10, 13 até 32, 35 até 36, 43 até 55
+  
   
 <h3>Aulas Dadas</h3>
 
@@ -122,7 +131,7 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   _25/09/2018:_ Problemas de Otimização e Multiplicadores de Lagrange (Cap 14.7 e 14.8 - Stewart) 
   
-  _27/09/2018:_  
+  _27/09/2018:_ Integral Dupla (Cap. 15.2 - Stewart)
   
   _02/10/2018:_ Não houve aula devido ao EVINCE 
   
