@@ -39,7 +39,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 - Prova 1: <strike>31/08</strike> 24/08 (Lista 1 até Lista 3)
 
-  Prova 2: <strike>10/10</strike> 08/10
+  Prova 2: <strike>10/10</strike> 08/10 (Lista 4 até Lista 6)
   
   Prova 3: 23/11
   
