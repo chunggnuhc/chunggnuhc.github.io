@@ -161,15 +161,15 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _28/09/2018:_ Integral Dupla (Cap. 15.2 - Stewart) 
   
-  _01/10/2018:_  
+  _01/10/2018:_ Integral Dupla Iterada (Cap. 15.3 - Stewart) 
   
   _03/10/2018:_ Não houve aula devido ao EVINCE
   
-  _05/10/2018:_  
+  _05/10/2018:_ Aula de Exercícios 
   
-  _08/10/2018:_  
+  _08/10/2018:_ Prova P2 
   
-  _10/10/2018:_  
+  _10/10/2018:_ Integral Dupla em Coordenadas Polares (Cap. 15.4 - Stewart) 
   
   _12/10/2018:_ Não houve aula devido ao Feriado 
   
