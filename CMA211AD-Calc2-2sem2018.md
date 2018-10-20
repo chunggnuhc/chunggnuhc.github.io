@@ -161,7 +161,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _28/09/2018:_ Integral Dupla (Cap. 15.2 - Stewart) 
   
-  _01/10/2018:_ Integral Dupla Iterada (Cap. 15.3 - Stewart) 
+  _01/10/2018:_ Integral Dupla Iterada (Cap. 15.2 - Stewart) 
   
   _03/10/2018:_ Não houve aula devido ao EVINCE
   
@@ -169,15 +169,15 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _08/10/2018:_ Prova P2 
   
-  _10/10/2018:_ Integral Dupla em Coordenadas Polares (Cap. 15.4 - Stewart) 
+  _10/10/2018:_ Integral Dupla em Coordenadas Polares (Cap. 15.3 - Stewart) 
   
   _12/10/2018:_ Não houve aula devido ao Feriado 
   
-  _15/10/2018:_  
+  _15/10/2018:_ Integral Tripla (Cap. 15.6 - Stewart)
   
-  _17/10/2018:_  
+  _17/10/2018:_ Integral Tripla (Cap. 15.6 - Stewart) 
   
-  _19/10/2018:_  
+  _19/10/2018:_ Integral Tripla em Coordenadas Cilíndricas (Cap. 15.7 - Stewart)  
   
   _22/10/2018:_  
   
@@ -207,7 +207,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _21/11/2018:_  
   
-  _23/11/2018:_  
+  _23/11/2018:_ Prova P3 
   
   _26/11/2018:_ Não houve aula devido à 2a. fase do Vestibular UFPR 
   
