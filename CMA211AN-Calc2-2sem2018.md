@@ -139,13 +139,13 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   _04/10/2018:_ Não houve aula devido ao EVINCE
   
-  _09/10/2018:_  
+  _09/10/2018:_ Integral Dupla Iterada (Cap. 15.3 - Stewart na 7a edição, Cap. 15.2 - Stewart na 8a edição)
   
-  _11/10/2018:_  
+  _11/10/2018:_ Integral Dupla em Coordenadas Polares (Cap. 15.4 - Stewart na 7a edição, Cap. 15.3 - Stewart na 8a edição) 
   
-  _16/10/2018:_  
+  _16/10/2018:_ Prova P2 
   
-  _18/10/2018:_ 
+  _18/10/2018:_ Integral Tripla (Cap. 15.7 - Stewart na 7a edição, Cap. 15.6 - Stewart na 8a edição)
   
   _23/10/2018:_  
   
@@ -165,7 +165,7 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   _20/11/2018:_  
   
-  _22/11/2018:_  
+  _22/11/2018:_ Prova P3 
   
   _27/11/2018:_  
   
