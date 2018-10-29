@@ -104,7 +104,14 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Cap 15.3: Exercícios 1 até 10, 13 até 32, 35 até 36, 43 até 55
   
+- [Lista 7](/disciplinas2sem2018/ListaExerc07 - CMA211AD.pdf): Cap 15.4, 15.7 e 15.8
 
+  Cap 15.4 (Int. Dupla com Coord. Polares): Exercícios 1 até 32, 35, 39
+  
+  Cap 15.7 (Int. Tripla com Coord. Retangulares): Exercícios 2 até 22, 27 até 36
+  
+  Cap 15.8 (Int. Tripla com Coord. Cilíndricas): Exercícios 7 até 24, 29 até 30
+  
 <h3>Aulas Dadas</h3>
 
 - _30/07/2018:_ Não houve aula devido ao problema de ensalamento
@@ -179,11 +186,11 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _19/10/2018:_ Integral Tripla em Coordenadas Cilíndricas (Cap. 15.8 - Stewart na 7a edição, Cap. 15.7 - Stewart na 8a edição) 
   
-  _22/10/2018:_  
+  _22/10/2018:_ Coord Esféricas 
   
-  _24/10/2018:_  
+  _24/10/2018:_ Mudança de Variável 
   
-  _26/10/2018:_  
+  _26/10/2018:_ Cap 16.1 e 16.2 
   
   _29/10/2018:_  
   
