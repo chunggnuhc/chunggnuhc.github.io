@@ -4,6 +4,8 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 29/10/2018: (i) Lista 7 disponibilizada, (ii) Dia 31/10/2018 (quarta-feira) terá aula normal.
+
 - Postado em 29/09/2018: (i) Data da prova P2 alterada de <strike>10/10</strike> para 08/10, (ii) Lista 6 disponibilizada.
 
 - Postado em 16/09/2018: Lista 5 disponibilizada.
@@ -186,13 +188,13 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _19/10/2018:_ Integral Tripla em Coordenadas Cilíndricas (Cap. 15.8 - Stewart na 7a edição, Cap. 15.7 - Stewart na 8a edição) 
   
-  _22/10/2018:_ Coord Esféricas 
+  _22/10/2018:_ Integral Tripla em Coordenadas Esféricas (Cap. 15.9 - Stewart na 7a edição, Cap. 15.8 - Stewart na 8a edição) 
   
-  _24/10/2018:_ Mudança de Variável 
+  _24/10/2018:_ Mudança de Variável (Cap. 15.10 - Stewart na 7a edição, Cap. 15.9 - Stewart na 8a edição)  
   
-  _26/10/2018:_ Cap 16.1 e 16.2 
+  _26/10/2018:_ Campo Vetorial e Integral de Linha para Campo Escalar (Cap 16.1 e 16.2 - Stewart)
   
-  _29/10/2018:_  
+  _29/10/2018:_ Integral de Linha para Campo Vetorial (Cap. 16.2 - Stewart)
   
   _31/10/2018:_  
   
