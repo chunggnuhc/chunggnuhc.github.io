@@ -4,6 +4,8 @@ title: CMA 211 Turma AN - Cálculo 2 - Eng. Mecânica Noturno
 permalink: /CMA211AN-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 29/10/2018: Lista 7 disponibilizada.
+
 - Postado em 14/10/2018: Data da prova P2 alterada de 11/10 para 16/10.
 
 - Postado em 29/09/2018: (i) Não haverá aula devido à semana do EVINCE, (ii) Lista 5 e 6 disponibilizadas, (iii) Nota da P1 disponibilizada e a vista da prova será 3a. feira dia 09/10/20178 das 17h30min até 18h15min no 3o. andar da PA, sala dos professores.
@@ -96,7 +98,15 @@ permalink: /CMA211AN-Calc2-2sem2018/
 
   Cap 15.3: Exercícios 1 até 10, 13 até 32, 35 até 36, 43 até 55
   
+- [Lista 7](/disciplinas2sem2018/ListaExerc07 - CMA211AD.pdf): Cap 15.4, 15.7 e 15.8
+
+  Cap 15.4 (Int. Dupla com Coord. Polares): Exercícios 1 até 32, 35, 39
   
+  Cap 15.7 (Int. Tripla com Coord. Retangulares): Exercícios 2 até 22, 27 até 36
+  
+  Cap 15.8 (Int. Tripla com Coord. Cilíndricas): Exercícios 7 até 24, 29 até 30
+
+
 <h3>Aulas Dadas</h3>
 
 - _31/07/2018:_ Função Vetorial: Domínio, Imagem, Curva, Eq. Paramétrica e Eq. Cartesiana (Cap. 13.1 - Stewart)
@@ -147,9 +157,9 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   _18/10/2018:_ Integral Tripla (Cap. 15.7 - Stewart na 7a edição, Cap. 15.6 - Stewart na 8a edição)
   
-  _23/10/2018:_  
+  _23/10/2018:_ Integral Tripla em Coordenadas Cilíndricas (Cap. 15.8 - Stewart na 7a edição, Cap. 15.7 - Stewart na 8a edição) 
   
-  _25/10/2018:_  
+  _25/10/2018:_ Integral Tripla em Coordenadas Esféricas (Cap. 15.9 - Stewart na 7a edição, Cap. 15.8 - Stewart na 8a edição) 
   
   _30/10/2018:_  
   
