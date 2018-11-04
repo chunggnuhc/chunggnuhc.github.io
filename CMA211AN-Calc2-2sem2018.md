@@ -4,6 +4,8 @@ title: CMA 211 Turma AN - Cálculo 2 - Eng. Mecânica Noturno
 permalink: /CMA211AN-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 03/11/2018: (i) Lista 8 e 9 disponibilizada, (ii) notas da P2 disponibilizadas, (iii) vista da prova P2 será na 5a. feira 07/11 após a aula e (iv) prova P3 foi alterado para 27/11/2018.
+
 - Postado em 29/10/2018: Lista 7 disponibilizada.
 
 - Postado em 14/10/2018: Data da prova P2 alterada de 11/10 para 16/10.
@@ -35,7 +37,7 @@ permalink: /CMA211AN-Calc2-2sem2018/
 
   Prova 2: <strike>11/10</strike> 16/10 (Lista 4 até 6)
   
-  Prova 3: 22/11
+  Prova 3: <strike>22/11</strike> 27/11
   
   Substitutiva: 29/11 - Substitui a menor nota entre P1, P2 e P3
   
@@ -55,6 +57,8 @@ permalink: /CMA211AN-Calc2-2sem2018/
 <h3>Notas</h3>
 
 - [Notas P1 (de 0 a 100)](/disciplinas2sem2018/NotaP1-AN.pdf)
+
+- [Notas P2 (de 0 a 100)](/disciplinas2sem2018/NotaP2-AN.pdf)
 
 <h3>Listas de Exercícios</h3>
 
@@ -106,6 +110,19 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   Cap 15.8 (Int. Tripla com Coord. Cilíndricas): Exercícios 7 até 24, 29 até 30
 
+- [Lista 8](/disciplinas2sem2018/ListaExerc08 - CMA211AD.pdf): Cap 15.4, 15.7 e 15.8
+
+  Cap 15.4 (Int. Dupla com Coord. Polares): Exercícios 1 até 32, 35, 39
+
+  Cap 15.7 (Int. Tripla com Coord. Retangulares): Exercícios 2 até 22, 27 até 36
+
+  Cap 15.8 (Int. Tripla com Coord. Cilíndricas): Exercícios 7 até 24, 29 até 30
+  
+- [Lista 9](/disciplinas2sem2018/ListaExerc09 - CMA211AD.pdf): Cap 16.1, 16.2
+
+  Cap 16.1: Exercícios 1 até 10, 25 até 26
+
+  Cap 16.2: Exercícios 1 até 16, 19 até 22, 29(a), 32(a), 39 até 42
 
 <h3>Aulas Dadas</h3>
 
@@ -161,9 +178,9 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   _25/10/2018:_ Integral Tripla em Coordenadas Esféricas (Cap. 15.9 - Stewart na 7a edição, Cap. 15.8 - Stewart na 8a edição) 
   
-  _30/10/2018:_  
+  _30/10/2018:_ Mudança de Variável (Cap. 15.10 - Stewart na 7a edição, Cap. 15.9 - Stewart na 8a edição) e Campo Vetorial e Integral de Linha para Campo Escalar (Cap 16.1 e 16.2 - Stewart)
   
-  _01/11/2018:_ 
+  _01/11/2018:_ Integral de Linha para Campo Vetorial (Cap. 16.2 - Stewart)
   
   _06/11/2018:_  
   
@@ -175,8 +192,8 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   _20/11/2018:_  
   
-  _22/11/2018:_ Prova P3 
+  _22/11/2018:_ 
   
-  _27/11/2018:_  
+  _27/11/2018:_ Prova P3  
   
   _29/11/2018:_  
