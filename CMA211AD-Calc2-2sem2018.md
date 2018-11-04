@@ -4,6 +4,8 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 03/11/2018: (i) Lista 8 e 9 disponibilizada, (ii) notas da P2 disponibilizadas, (iii) vista da prova P2 será na 2a. feira 05/11 após a aula. 
+
 - Postado em 29/10/2018: (i) Lista 7 disponibilizada, (ii) Dia 31/10/2018 (quarta-feira) terá aula normal.
 
 - Postado em 29/09/2018: (i) Data da prova P2 alterada de <strike>10/10</strike> para 08/10, (ii) Lista 6 disponibilizada.
@@ -64,6 +66,8 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 - [Notas P1 (de 0 a 100)](/disciplinas2sem2018/NotaP1-AD.pdf)
 
+- [Notas P2 (de 0 a 100)](/disciplinas2sem2018/NotaP2-AD.pdf)
+
 <h3>Listas de Exercícios</h3>
 
 - [Lista 1](/disciplinas2sem2018/ListaExerc01 - CMA211AD.pdf): Cap 13
@@ -113,6 +117,18 @@ permalink: /CMA211AD-Calc2-2sem2018/
   Cap 15.7 (Int. Tripla com Coord. Retangulares): Exercícios 2 até 22, 27 até 36
   
   Cap 15.8 (Int. Tripla com Coord. Cilíndricas): Exercícios 7 até 24, 29 até 30
+  
+- [Lista 8](/disciplinas2sem2018/ListaExerc08 - CMA211AD.pdf): Cap 15.9, 15.10
+
+  Cap 15.9 (Int. Dupla com Coord. Esféricas): Exercícios 7 até 27, 29(a), 30, 39 até 41
+  
+  Cap 15.10 (Mudança de Variáveis em Integrais): Exercícios 1 até 10, 15 até 19
+  
+- [Lista 9](/disciplinas2sem2018/ListaExerc09 - CMA211AD.pdf): Cap 16.1, 16.2
+
+  Cap 16.1: Exercícios 1 até 10, 25 até 26
+  
+  Cap 16.2: Exercícios 1 até 16, 19 até 22, 29(a), 32(a), 39 até 42
   
 <h3>Aulas Dadas</h3>
 
@@ -196,7 +212,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _29/10/2018:_ Integral de Linha para Campo Vetorial (Cap. 16.2 - Stewart)
   
-  _31/10/2018:_  
+  _31/10/2018:_ Teorema Fundamental das Integrais de Linha (Cap. 16.3 - Stewart) 
   
   _02/11/2018:_ Não houve aula devido ao Feriado 
   
