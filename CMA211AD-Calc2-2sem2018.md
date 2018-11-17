@@ -130,6 +130,14 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Cap 16.2: Exercícios 1 até 16, 19 até 22, 29(a), 32(a), 39 até 42
   
+- [Lista 10](/disciplinas2sem2018/ListaExerc10 - CMA211AD.pdf): Cap 16.3, 16.4 e 16.5
+
+  Cap 16.3: Exercícios 3 até 24, 28 até 35
+  
+  Cap 16.4: Exercícios 1 até 14, 17 até 19, 21, 27 até 28
+  
+  Cap 16.5: Exercícios 1 até 8, 13 até 32
+  
 <h3>Aulas Dadas</h3>
 
 - _30/07/2018:_ Não houve aula devido ao problema de ensalamento
@@ -216,17 +224,17 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _02/11/2018:_ Não houve aula devido ao Feriado 
   
-  _05/11/2018:_  
+  _05/11/2018:_ Teorema de Green (Cap. 16.4 - Stewart) 
   
-  _07/11/2018:_  
+  _07/11/2018:_ Teorema de Green (Cap. 16.4 - Stewart) 
   
-  _09/11/2018:_  
+  _09/11/2018:_ Rotacional e Divergente (Cap. 16.5 - Stewart)  
   
-  _12/11/2018:_  
+  _12/11/2018:_ Superfície Parametrizada e Integral de Superfície (Cap 16.6 e 16.7 - Stewart) 
   
-  _14/11/2018:_  
+  _14/11/2018:_ Integral de Superfície e Teorema de Stokes (Cap 16.7 e 16.8 - Stewart) 
   
-  _16/11/2018:_  
+  _16/11/2018:_ Não houve aula devido ao Recesso acadêmico 
   
   _19/11/2018:_  
   
