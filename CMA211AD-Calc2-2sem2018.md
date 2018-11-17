@@ -45,7 +45,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
   Prova 2: <strike>10/10</strike> 08/10 (Lista 4 até Lista 6)
   
-  Prova 3: 23/11
+  Prova 3: 23/11 (Lista 7 até Lista 12)
   
   Substitutiva: 30/11 - Substitui a menor nota entre P1, P2 e P3
   
@@ -143,6 +143,12 @@ permalink: /CMA211AD-Calc2-2sem2018/
   Cap 16.6: Exercícios 19 até 26, 33 até 36
   
   Cap 16.7: Exercícios 5 até 32, 49
+
+- [Lista 11](/disciplinas2sem2018/ListaExerc11 - CMA211AD.pdf): Cap 16.8, 16.9
+
+  Cap 16.8: Exercícios 2 até 10, 13 até 19
+  
+  Cap 16.9: Exercícios 1 até 14, 17 até 18,  23 até 24
   
 <h3>Aulas Dadas</h3>
 
