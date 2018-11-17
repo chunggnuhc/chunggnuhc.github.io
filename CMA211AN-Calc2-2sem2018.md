@@ -110,19 +110,25 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   Cap 15.8 (Int. Tripla com Coord. Cilíndricas): Exercícios 7 até 24, 29 até 30
 
-- [Lista 8](/disciplinas2sem2018/ListaExerc08 - CMA211AD.pdf): Cap 15.4, 15.7 e 15.8
+- [Lista 8](/disciplinas2sem2018/ListaExerc08 - CMA211AD.pdf): Cap 15.9, 15.10
 
-  Cap 15.4 (Int. Dupla com Coord. Polares): Exercícios 1 até 32, 35, 39
+  Cap 15.9 (Int. Dupla com Coord. Esféricas): Exercícios 7 até 27, 29(a), 30, 39 até 41
 
-  Cap 15.7 (Int. Tripla com Coord. Retangulares): Exercícios 2 até 22, 27 até 36
-
-  Cap 15.8 (Int. Tripla com Coord. Cilíndricas): Exercícios 7 até 24, 29 até 30
+  Cap 15.10 (Mudança de Variáveis em Integrais): Exercícios 1 até 10, 15 até 19
   
 - [Lista 9](/disciplinas2sem2018/ListaExerc09 - CMA211AD.pdf): Cap 16.1, 16.2
 
   Cap 16.1: Exercícios 1 até 10, 25 até 26
 
   Cap 16.2: Exercícios 1 até 16, 19 até 22, 29(a), 32(a), 39 até 42
+  
+- [Lista 10](/disciplinas2sem2018/ListaExerc10 - CMA211AD.pdf): Cap 16.3, 16.4 e 16.5
+
+  Cap 16.3: Exercícios 3 até 24, 28 até 35
+
+  Cap 16.4: Exercícios 1 até 14, 17 até 19, 21, 27 até 28
+
+  Cap 16.5: Exercícios 1 até 8, 13 até 32  
 
 <h3>Aulas Dadas</h3>
 
@@ -182,11 +188,11 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   _01/11/2018:_ Integral de Linha para Campo Vetorial (Cap. 16.2 - Stewart)
   
-  _06/11/2018:_  
+  _06/11/2018:_ Teorema Fundamental das Integrais de Linha (Cap. 16.3 - Stewart) 
   
-  _08/11/2018:_  
+  _08/11/2018:_ Teorema de Green e Rotacional e Divergente (Cap. 16.4 e 16.5 - Stewart) 
   
-  _13/11/2018:_  
+  _13/11/2018:_ Superfícies Parametrizadas e Integral de Superfície (Cap 16.6 e 16.7 - Stewart)
   
   _15/11/2018:_ Não houve aula devido ao Feriado  
   
