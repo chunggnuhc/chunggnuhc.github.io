@@ -144,7 +144,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Cap 16.7: Exercícios 5 até 32, 49
 
-- [Lista 11](/disciplinas2sem2018/ListaExerc11 - CMA211AD.pdf): Cap 16.8, 16.9
+- [Lista 12](/disciplinas2sem2018/ListaExerc12 - CMA211AD.pdf): Cap 16.8, 16.9
 
   Cap 16.8: Exercícios 2 até 10, 13 até 19
   
