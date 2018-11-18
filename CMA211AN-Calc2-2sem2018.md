@@ -4,7 +4,7 @@ title: CMA 211 Turma AN - Cálculo 2 - Eng. Mecânica Noturno
 permalink: /CMA211AN-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
-- Postado em 18/11/2018: Lista 10 e 12 disponibilizadas.
+- Postado em 18/11/2018: Lista 10, 11 e 12 disponibilizadas.
 
 - Postado em 03/11/2018: (i) Lista 8 e 9 disponibilizada, (ii) notas da P2 disponibilizadas, (iii) vista da prova P2 será na 5a. feira 07/11 após a aula e (iv) prova P3 foi alterado para 27/11/2018.
 
