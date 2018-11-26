@@ -4,6 +4,8 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 26/11/2018: (i) nota da Prova P3 disponibilizadas. Vista da prova será dia 28/11/2018 (quarta-feira) na sala PG-04 às 13h30min.
+
 - Postado em 18/11/2018: Lista 10, 11 e 12 disponibilizadas.
 
 - Postado em 03/11/2018: (i) Lista 8 e 9 disponibilizada, (ii) notas da P2 disponibilizadas, (iii) vista da prova P2 será na 2a. feira 05/11 após a aula. 
@@ -69,6 +71,8 @@ permalink: /CMA211AD-Calc2-2sem2018/
 - [Notas P1 (de 0 a 100)](/disciplinas2sem2018/NotaP1-AD.pdf)
 
 - [Notas P2 (de 0 a 100)](/disciplinas2sem2018/NotaP2-AD.pdf)
+
+- [Notas P3 (de 0 a 100)](/disciplinas2sem2018/NotaP3-AD.pdf)
 
 <h3>Listas de Exercícios</h3>
 
@@ -250,16 +254,16 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   _16/11/2018:_ Não houve aula devido ao Recesso acadêmico 
   
-  _19/11/2018:_  
+  _19/11/2018:_ Teorema de Divergente (Cap 16.9 - Stewart) 
   
-  _21/11/2018:_  
+  _21/11/2018:_ Aula de exercícios 
   
   _23/11/2018:_ Prova P3 
   
   _26/11/2018:_ Não houve aula devido à 2a. fase do Vestibular UFPR 
   
-  _28/11/2018:_  
+  _28/11/2018:_ Não houve aula 
   
-  _30/11/2018:_  
+  _30/11/2018:_ Prova PSub 
   
-  _03/12/2018:_ 
+  _03/12/2018:_ Não houve aula
