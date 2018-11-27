@@ -4,7 +4,7 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
-- Postado em 26/11/2018: (i) nota da Prova P3 disponibilizadas. Vista da prova será dia 28/11/2018 (quarta-feira) na sala PG-04 às 13h30min.
+- Postado em 26/11/2018: (i) nota da Prova P3 disponibilizadas. Vista da prova será dia 28/11/2018 (quarta-feira) na sala PG-04 às 13h30min, (ii) Prova P1 e P2 adicionadas na sessão de "Avaliação".
 
 - Postado em 18/11/2018: Lista 10, 11 e 12 disponibilizadas.
 
