@@ -45,11 +45,11 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 <h3>Avaliação</h3>
 
-- Prova 1: <strike>31/08</strike> 24/08 (Lista 1 até Lista 3)
+- Prova P1: <strike>31/08</strike> 24/08 (Lista 1 até Lista 3) - [Prova P1](/disciplinas2sem2018/provaP1_CMA211AD.pdf)
 
-  Prova 2: <strike>10/10</strike> 08/10 (Lista 4 até Lista 6)
+  Prova P2: <strike>10/10</strike> 08/10 (Lista 4 até Lista 6) - [Prova P2](/disciplinas2sem2018/provaP2_CMA211AD.pdf)
   
-  Prova 3: 23/11 (Lista 7 até Lista 12)
+  Prova P3: 23/11 (Lista 7 até Lista 12)
   
   Substitutiva: 30/11 - Substitui a menor nota entre P1, P2 e P3
   
