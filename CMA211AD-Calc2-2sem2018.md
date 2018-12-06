@@ -4,6 +4,8 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 05/12/2018: (i) nota da PSub disponibilizada, (ii) quem desejar vista da prova PSub, mandar email agendando horário, (iii) prova e gabarito de PSub adicionadas na sessão de "Avaliação".
+
 - Postado em 29/11/2018: (i) prova P3 disponibilizada, (ii) gabarito de P2 e P3 adicionadas na sessão de "Avaliação".
 
 - Postado em 26/11/2018: (i) nota da Prova P3 disponibilizadas. Vista da prova será dia 28/11/2018 (quarta-feira) na sala PG-04 às 13h30min, (ii) Prova P1 e P2 adicionadas na sessão de "Avaliação".
@@ -53,7 +55,7 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Prova P3: 23/11 (Lista 7 até Lista 12) - [Prova P3](/disciplinas2sem2018/provaP3_CMA211AD.pdf) - [Gabarito P3](/disciplinas2sem2018/GabaritoP3-AD.pdf)
   
-  Substitutiva: 30/11 - Substitui a menor nota entre P1, P2 e P3
+  Substitutiva: 30/11 - Substitui a menor nota entre P1, P2 e P3 -  - [Prova PSub](/disciplinas2sem2018/provaPSub_CMA211AD.pdf) - [Gabarito PSub](/disciplinas2sem2018/GabaritoPSub.pdf)
   
   Final: 12/12
 
@@ -75,6 +77,8 @@ permalink: /CMA211AD-Calc2-2sem2018/
 - [Notas P2 (de 0 a 100)](/disciplinas2sem2018/NotaP2-AD.pdf)
 
 - [Notas P3 (de 0 a 100)](/disciplinas2sem2018/NotaP3-AD.pdf)
+
+- [Notas PSub (de 0 a 100)](/disciplinas2sem2018/NotaPSub-AD.pdf)
 
 <h3>Listas de Exercícios</h3>
 
