@@ -4,6 +4,8 @@ title: CMA 211 Turma AN - Cálculo 2 - Eng. Mecânica Noturno
 permalink: /CMA211AN-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 06/12/2018: (i) nota da PSub disponibilizada, (ii) quem desejar vista da prova PSub, mandar email agendando horário, (iii) prova e gabarito de PSub adicionadas na sessão de "Avaliação".
+
 - Postado em 02/12/2018: Gabarito da P3 adicionado na seseção de "Avaliação".
 
 - Postado em 01/12/2018: (i) Notas da P3 divulgadas. Quem desejar ver a vista da prova, mandar email agendando horário. (ii) Não esqueçam que na PSub, vcs podem levar 1 folha sulfite de consulta. (iii) Na seção de Avaliação, há provas e gabaritos. 
@@ -45,7 +47,7 @@ permalink: /CMA211AN-Calc2-2sem2018/
   
   Prova 3: <strike>22/11</strike> 27/11 (Lista 7 até 12) - [Prova P3](/disciplinas2sem2018/provaP3_CMA211AN.pdf) - [Gabarito P3](/disciplinas2sem2018/GabaritoP3-AN.pdf)
   
-  Substitutiva: <strike>29/11</strike> 04/12 - Substitui a menor nota entre P1, P2 e P3
+  Substitutiva: <strike>29/11</strike> 04/12 - Substitui a menor nota entre P1, P2 e P3 - [Prova PSub](/disciplinas2sem2018/provaPSub_CMA211AN.pdf) - [Gabarito PSub](/disciplinas2sem2018/GabaritoPSub.pdf)
   
   Final: 13/12
 
@@ -67,6 +69,8 @@ permalink: /CMA211AN-Calc2-2sem2018/
 - [Notas P2 (de 0 a 100)](/disciplinas2sem2018/NotaP2-AN.pdf)
 
 - [Notas P3 (de 0 a 100)](/disciplinas2sem2018/NotaP3-AN.pdf)
+
+- [Notas PSub (de 0 a 100)](/disciplinas2sem2018/NotaPSub-AN.pdf)
 
 <h3>Listas de Exercícios</h3>
 
