@@ -4,6 +4,8 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 08/12/2018: (i) gabarito de P1 adicionada na sessão de "Avaliação", (ii) notas corrigidas e atualizadas para quem fez 2chamada, (iii) para a prova Final, não poderá usar a folha de consulta.
+
 - Postado em 05/12/2018: (i) nota da PSub disponibilizada, (ii) quem desejar vista da prova PSub, mandar email agendando horário, (iii) prova e gabarito de PSub adicionadas na sessão de "Avaliação".
 
 - Postado em 29/11/2018: (i) prova P3 disponibilizada, (ii) gabarito de P2 e P3 adicionadas na sessão de "Avaliação".
@@ -49,13 +51,13 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 <h3>Avaliação</h3>
 
-- Prova P1: <strike>31/08</strike> 24/08 (Lista 1 até Lista 3) - [Prova P1](/disciplinas2sem2018/provaP1_CMA211AD.pdf) 
+- Prova P1: <strike>31/08</strike> 24/08 (Lista 1 até Lista 3) - [Prova P1](/disciplinas2sem2018/provaP1_CMA211AD.pdf) - [Gabarito P1](/disciplinas2sem2018/GabaritoP1-AD.pdf) 
 
   Prova P2: <strike>10/10</strike> 08/10 (Lista 4 até Lista 6) - [Prova P2](/disciplinas2sem2018/provaP2_CMA211AD.pdf) - [Gabarito P2](/disciplinas2sem2018/GabaritoP2-AD.pdf)
   
   Prova P3: 23/11 (Lista 7 até Lista 12) - [Prova P3](/disciplinas2sem2018/provaP3_CMA211AD.pdf) - [Gabarito P3](/disciplinas2sem2018/GabaritoP3-AD.pdf)
   
-  Substitutiva: 30/11 - Substitui a menor nota entre P1, P2 e P3 -  - [Prova PSub](/disciplinas2sem2018/provaPSub_CMA211AD.pdf) - [Gabarito PSub](/disciplinas2sem2018/GabaritoPSub.pdf)
+  Substitutiva: 30/11 - Substitui a menor nota entre P1, P2 e P3 - [Prova PSub](/disciplinas2sem2018/provaPSub_CMA211AD.pdf) - [Gabarito PSub](/disciplinas2sem2018/GabaritoPSub.pdf)
   
   Final: 12/12
 
