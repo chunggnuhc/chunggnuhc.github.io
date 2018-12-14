@@ -4,6 +4,8 @@ title: CMA 211 Turma AD - Cálculo 2 - Eng. Mecânica Diurno
 permalink: /CMA211AD-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 14/12/2018: (i) Nota da PFin disponibilizada, (ii) quem desejar vista da prova PFin, mandar email agendando horário até dia 18/12.
+
 - Postado em 08/12/2018: (i) gabarito de P1 adicionada na sessão de "Avaliação", (ii) notas corrigidas e atualizadas para quem fez 2chamada, (iii) para a prova Final, não poderá usar a folha de consulta.
 
 - Postado em 05/12/2018: (i) nota da PSub disponibilizada, (ii) quem desejar vista da prova PSub, mandar email agendando horário, (iii) prova e gabarito de PSub adicionadas na sessão de "Avaliação".
@@ -81,6 +83,8 @@ permalink: /CMA211AD-Calc2-2sem2018/
 - [Notas P3 (de 0 a 100)](/disciplinas2sem2018/NotaP3-AD.pdf)
 
 - [Notas PSub (de 0 a 100)](/disciplinas2sem2018/NotaPSub-AD.pdf)
+
+- [Notas PFinal (de 0 a 100)](/disciplinas2sem2018/NotaPFin-AD.pdf)
 
 <h3>Listas de Exercícios</h3>
 
