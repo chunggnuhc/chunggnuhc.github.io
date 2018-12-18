@@ -4,6 +4,8 @@ title: CMA 211 Turma AN - Cálculo 2 - Eng. Mecânica Noturno
 permalink: /CMA211AN-Calc2-2sem2018/
 ---
 <h1><b><i>Importante!</i></b></h1>
+- Postado em 17/12/2018: (i) Nota da PFin disponibilizada, (ii) quem desejar vista da prova PFin, mandar email agendando horário até dia 20/12.
+
 - Postado em 08/12/2018: Para a prova Final, não poderá usar a folha de consulta.
 
 - Postado em 06/12/2018: (i) nota da PSub disponibilizada, (ii) quem desejar vista da prova PSub, mandar email agendando horário, (iii) prova e gabarito de PSub adicionadas na sessão de "Avaliação".
@@ -73,6 +75,8 @@ permalink: /CMA211AN-Calc2-2sem2018/
 - [Notas P3 (de 0 a 100)](/disciplinas2sem2018/NotaP3-AN.pdf)
 
 - [Notas PSub (de 0 a 100)](/disciplinas2sem2018/NotaPSub-AN.pdf)
+
+- [Notas PFinal (de 0 a 100)](/disciplinas2sem2018/NotaPFin-AN.pdf)
 
 <h3>Listas de Exercícios</h3>
 
