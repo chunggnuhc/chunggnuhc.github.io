@@ -53,13 +53,13 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 <h3>Avaliação</h3>
 
-- Prova P1: <strike>31/08</strike> 24/08 (Lista 1 até Lista 3) - [Prova P1](/disciplinas2sem2018/provaP1_CMA211AD.pdf) - [Gabarito P1](/disciplinas2sem2018/GabaritoP1-AD.pdf) 
+- Prova P1: <strike>31/08</strike> 24/08 (Lista 1 até Lista 3)
 
-  Prova P2: <strike>10/10</strike> 08/10 (Lista 4 até Lista 6) - [Prova P2](/disciplinas2sem2018/provaP2_CMA211AD.pdf) - [Gabarito P2](/disciplinas2sem2018/GabaritoP2-AD.pdf)
+  Prova P2: <strike>10/10</strike> 08/10 (Lista 4 até Lista 6)
   
-  Prova P3: 23/11 (Lista 7 até Lista 12) - [Prova P3](/disciplinas2sem2018/provaP3_CMA211AD.pdf) - [Gabarito P3](/disciplinas2sem2018/GabaritoP3-AD.pdf)
+  Prova P3: 23/11 (Lista 7 até Lista 12)
   
-  Substitutiva: 30/11 - Substitui a menor nota entre P1, P2 e P3 - [Prova PSub](/disciplinas2sem2018/provaPSub_CMA211AD.pdf) - [Gabarito PSub](/disciplinas2sem2018/GabaritoPSub.pdf)
+  Substitutiva: 30/11 - Substitui a menor nota entre P1, P2 e P3
   
   Final: 12/12
 
@@ -76,19 +76,9 @@ permalink: /CMA211AD-Calc2-2sem2018/
 
 <h3>Notas</h3>
 
-- [Notas P1 (de 0 a 100)](/disciplinas2sem2018/NotaP1-AD.pdf)
-
-- [Notas P2 (de 0 a 100)](/disciplinas2sem2018/NotaP2-AD.pdf)
-
-- [Notas P3 (de 0 a 100)](/disciplinas2sem2018/NotaP3-AD.pdf)
-
-- [Notas PSub (de 0 a 100)](/disciplinas2sem2018/NotaPSub-AD.pdf)
-
-- [Notas PFinal (de 0 a 100)](/disciplinas2sem2018/NotaPFin-AD.pdf)
-
 <h3>Listas de Exercícios</h3>
 
-- [Lista 1](/disciplinas2sem2018/ListaExerc01 - CMA211AD.pdf): Cap 13
+- Lista 1: Cap 13
 
   Cap 13.1: Exercícios 1 até 20, 27 até 30, 39 até 44, 47, 48
   
@@ -96,25 +86,25 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Cap 13.3: Exercícios 1 até 6, 11 até 16
   
-- [Lista 2](/disciplinas2sem2018/ListaExerc02 - CMA211AD.pdf): Cap 14.1 e 14.2
+- Lista 2: Cap 14.1 e 14.2
 
   Cap 14.1: Exercícios 8 até 31, 33 até 35, 43 até 50, 65 até 68
   
   Cap 14.2: Exercícios 5 até 22, 25 até 26, 29 até 38, 44 até 45
 
-- [Lista 3](/disciplinas2sem2018/ListaExerc03 - CMA211AD.pdf): Cap 14.3 e 14.4
+- Lista 3: Cap 14.3 e 14.4
 
   Cap 14.3: Exercícios 15 até 50, 53 até 58, 63 até 92, 94 até 96, 98 até 101
   
   Cap 14.4: Exercícios 1 até 6, 11 até 18
   
-- [Lista 4](/disciplinas2sem2018/ListaExerc04 - CMA211AD.pdf): Cap 14.4 e 14.5
+- Lista 4: Cap 14.4 e 14.5
 
   Cap 14.4: Exercícios 19 até 21, 25 até 41
   
   Cap 14.5: Exercícios 1 até 16, 21 até 34, 45 até 59  
   
-- [Lista 5](/disciplinas2sem2018/ListaExerc05 - CMA211AD.pdf): Cap 14.6, 14.7 e 14.8
+- Lista 5: Cap 14.6, 14.7 e 14.8
 
   Cap 14.6: Exercícios 4 até 17, 18 até 29, 32, 35, 38, 41 até 46, 51 até 57
   
@@ -122,13 +112,13 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Cap 14.8: Exercícios 1, 3 até 14, 19 até 21, 29 até 43
   
-- [Lista 6](/disciplinas2sem2018/ListaExerc06 - CMA211AD.pdf): Cap 15.2, 15.3
+- Lista 6: Cap 15.2, 15.3
 
   Cap 15.2: Exercícios 1 até 31
   
   Cap 15.3: Exercícios 1 até 10, 13 até 32, 35 até 36, 43 até 55
   
-- [Lista 7](/disciplinas2sem2018/ListaExerc07 - CMA211AD.pdf): Cap 15.4, 15.7 e 15.8
+- Lista 7: Cap 15.4, 15.7 e 15.8
 
   Cap 15.4 (Int. Dupla com Coord. Polares): Exercícios 1 até 32, 35, 39
   
@@ -136,19 +126,19 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Cap 15.8 (Int. Tripla com Coord. Cilíndricas): Exercícios 7 até 24, 29 até 30
   
-- [Lista 8](/disciplinas2sem2018/ListaExerc08 - CMA211AD.pdf): Cap 15.9, 15.10
+- Lista 8: Cap 15.9, 15.10
 
   Cap 15.9 (Int. Dupla com Coord. Esféricas): Exercícios 7 até 27, 29(a), 30, 39 até 41
   
   Cap 15.10 (Mudança de Variáveis em Integrais): Exercícios 1 até 10, 15 até 19
   
-- [Lista 9](/disciplinas2sem2018/ListaExerc09 - CMA211AD.pdf): Cap 16.1, 16.2
+- Lista 9: Cap 16.1, 16.2
 
   Cap 16.1: Exercícios 1 até 10, 25 até 26
   
   Cap 16.2: Exercícios 1 até 16, 19 até 22, 29(a), 32(a), 39 até 42
   
-- [Lista 10](/disciplinas2sem2018/ListaExerc10 - CMA211AD.pdf): Cap 16.3, 16.4 e 16.5
+- Lista 10: Cap 16.3, 16.4 e 16.5
 
   Cap 16.3: Exercícios 3 até 24, 28 até 35
   
@@ -156,13 +146,13 @@ permalink: /CMA211AD-Calc2-2sem2018/
   
   Cap 16.5: Exercícios 1 até 8, 13 até 32
   
-- [Lista 11](/disciplinas2sem2018/ListaExerc11 - CMA211AD.pdf): Cap 16.6, 16.7
+- Lista 11: Cap 16.6, 16.7
 
   Cap 16.6: Exercícios 19 até 26, 33 até 36
   
   Cap 16.7: Exercícios 5 até 32, 49
 
-- [Lista 12](/disciplinas2sem2018/ListaExerc12 - CMA211AD.pdf): Cap 16.8, 16.9
+- Lista 12: Cap 16.8, 16.9
 
   Cap 16.8: Exercícios 2 até 10, 13 até 19
   
